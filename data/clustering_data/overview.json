@@ -1,0 +1,1366 @@
+[
+  {
+    "word": "厨子",
+    "status": "ok",
+    "meaning": "厨师",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0
+    ]
+  },
+  {
+    "word": "凝视",
+    "status": "ok",
+    "meaning": "聚精会神地看",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "同人",
+    "status": "skipped",
+    "meaning": "称在同一单位工作的人或同行业的人。也作同仁",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 14,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "美味",
+    "status": "ok",
+    "meaning": "味道鲜美的食品。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 26,
+    "n_total_items": 31,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0
+    ]
+  },
+  {
+    "word": "产品",
+    "status": "ok",
+    "meaning": "生产出来的物品。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "女王",
+    "status": "ok",
+    "meaning": "女性国王。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 27,
+    "n_total_items": 32,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "宝宝",
+    "status": "ok",
+    "meaning": "对小孩儿的爱称。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 22,
+    "n_total_items": 27,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "大雾",
+    "status": "ok",
+    "meaning": "指由于近地层空气中悬浮的无数小水滴或小冰晶造成水平能见度不足500米的一种天气现象。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 24,
+    "n_total_items": 29,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ]
+  },
+  {
+    "word": "姐妹",
+    "status": "ok",
+    "meaning": "姐姐和妹妹。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "亲友",
+    "status": "ok",
+    "meaning": "亲戚朋友。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "老师",
+    "status": "ok",
+    "meaning": "对教师的尊称，泛指传授文化、技术的人或在某方面值得学习的人。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 25,
+    "n_total_items": 30,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "老婆",
+    "status": "ok",
+    "meaning": "妻子。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 21,
+    "n_total_items": 26,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "骨科",
+    "status": "ok",
+    "meaning": "医学上指专门研究骨的构造、功能等知识以及治疗骨骼疾病的一科。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "水仙",
+    "status": "skipped",
+    "meaning": "年生草本植物，地下鳞茎卵圆形，叶子条形，花白色，中心黄色，有香气。供观赏，鳞茎和花可入药。",
+    "n_anchor_before": 0,
+    "n_anchor_after": 0,
+    "n_corpus_after": 24,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "制品",
+    "status": "ok",
+    "meaning": " 制造成的物品。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18,
+    "n_total_items": 23,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "食量",
+    "status": "skipped",
+    "meaning": "饭量，也指牲畜或其他动物一次进食能吃的食物的量。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 11,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "海景",
+    "status": "ok",
+    "meaning": "海边的景色。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 16,
+    "n_total_items": 21,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "拼车",
+    "status": "skipped",
+    "meaning": "私人小客车合乘，亦称顺风车，是一种由车主事先发布出行信息，与路线相同乘客分摊部分成本或免费互助的非营利性共享出行方式。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 10,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "验尸官",
+    "status": "ok",
+    "meaning": "旧时官府中负责检验尸体的小吏。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 23,
+    "n_total_items": 28,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "美帝",
+    "status": "ok",
+    "meaning": "美帝国主义，是描述美国在政治、经济、文化和媒体影响力向自身境外扩张的词汇，也称美利坚帝国。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 30,
+    "n_total_items": 35,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ]
+  },
+  {
+    "word": "极圈",
+    "status": "ok",
+    "meaning": "地球上66°34′的纬线所形成的圈，在北半球的叫北极圈，在南半球的叫南极圈。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 33,
+    "n_total_items": 38,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "配平",
+    "status": "ok",
+    "meaning": "通过计算，给化学方程式的两边各项各自配上不同的系数，使反应前后各种原子的个数分别相等。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 29,
+    "n_total_items": 34,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0,
+      2
+    ]
+  },
+  {
+    "word": "厕所",
+    "status": "ok",
+    "meaning": "专供人大小便的地方。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 23,
+    "n_total_items": 28,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0
+    ]
+  },
+  {
+    "word": "代餐",
+    "status": "ok",
+    "meaning": "一种用来替代传统饭菜的食品或饮料，通常富含营养，可作为一餐的替代品。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 41,
+    "n_total_items": 46,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "划水",
+    "status": "ok",
+    "meaning": "拨水使前进；游泳。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ]
+  },
+  {
+    "word": "皇族",
+    "status": "ok",
+    "meaning": "皇帝的家族。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 30,
+    "n_total_items": 35,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "毕业",
+    "status": "ok",
+    "meaning": "在学校学习期满，达到了规定的要求，结束学习而取得相应的学业资格。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 22,
+    "n_total_items": 27,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "墙头",
+    "status": "ok",
+    "meaning": "墙的上部或顶端。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 36,
+    "n_total_items": 41,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ]
+  },
+  {
+    "word": "提纯",
+    "status": "ok",
+    "meaning": "除去某种物质所含的杂质，使变得纯净。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0
+    ]
+  },
+  {
+    "word": "腿毛",
+    "status": "ok",
+    "meaning": "人体腿部毛发。在人类的大腿与小腿上生长的毛发。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "厨房",
+    "status": "ok",
+    "meaning": "烹饪食物的房间或场所",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "帮厨",
+    "status": "ok",
+    "meaning": "在厨房中协助厨师准备食材或烹饪的人",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 16,
+    "n_total_items": 21,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "厨具",
+    "status": "skipped",
+    "meaning": "烹饪时使用的各种器具的统称",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 8,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "庖厨",
+    "status": "skipped",
+    "meaning": "厨房；烹饪食物的地方",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 13,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "毡帽",
+    "status": "ok",
+    "meaning": "用毡制作的帽子，多用于保暖",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18,
+    "n_total_items": 23,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "礼帽",
+    "status": "ok",
+    "meaning": "礼服搭配的正式帽子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 15,
+    "n_total_items": 20,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "衣帽间",
+    "status": "ok",
+    "meaning": "专门存放衣物和帽子的房间或区域",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "枕头",
+    "status": "ok",
+    "meaning": "睡觉时垫在头下的物品",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 34,
+    "n_total_items": 39,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "枕木",
+    "status": "ok",
+    "meaning": "铺设在铁路轨道下支撑钢轨的木条",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18,
+    "n_total_items": 23,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "枕套",
+    "status": "ok",
+    "meaning": "套在枕头外面的布套",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 23,
+    "n_total_items": 28,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "被子",
+    "status": "ok",
+    "meaning": "睡觉时盖在身上的床上用品",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 21,
+    "n_total_items": 26,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "棉被",
+    "status": "ok",
+    "meaning": "用棉花填充的被子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 26,
+    "n_total_items": 31,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "被单",
+    "status": "ok",
+    "meaning": "覆在被子表面的床单或薄被",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 29,
+    "n_total_items": 34,
+    "n_clusters": 5,
+    "anchor_clusters": [
+      3
+    ],
+    "candidate_clusters": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "word": "被套",
+    "status": "ok",
+    "meaning": "套在被子外面的套子，便于拆洗",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 31,
+    "n_total_items": 36,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0,
+      2
+    ]
+  },
+  {
+    "word": "被袋",
+    "status": "ok",
+    "meaning": "装被子的袋子，也指装被子时使用的布袋",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 26,
+    "n_total_items": 31,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1,
+      2
+    ]
+  },
+  {
+    "word": "被里",
+    "status": "ok",
+    "meaning": "被子的内层里子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18,
+    "n_total_items": 23,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "椅子",
+    "status": "ok",
+    "meaning": "有靠背供人坐的家具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "椅背",
+    "status": "skipped",
+    "meaning": "椅子背部的部位",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 12,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "躺椅",
+    "status": "ok",
+    "meaning": "可以让人躺着休息的椅子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 20,
+    "n_total_items": 25,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "摇椅",
+    "status": "ok",
+    "meaning": "可以前后摇动的椅子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "太师椅",
+    "status": "ok",
+    "meaning": "古代大户人家使用的扶手椅，结构宽大",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "柜子",
+    "status": "skipped",
+    "meaning": "有门和抽屉的箱状家具，用于收纳物品",
+    "n_anchor_before": 2,
+    "n_anchor_after": 2,
+    "n_corpus_after": 25,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "衣柜",
+    "status": "ok",
+    "meaning": "存放衣服的柜子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18,
+    "n_total_items": 23,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "柜台",
+    "status": "skipped",
+    "meaning": "银行、商店等用于接待顾客的台子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 10,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "橱柜",
+    "status": "ok",
+    "meaning": "放置厨具、餐具或食材的柜子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "书柜",
+    "status": "ok",
+    "meaning": "用于存放书籍的柜子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 24,
+    "n_total_items": 29,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "壁柜",
+    "status": "ok",
+    "meaning": "嵌在墙里的柜子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 33,
+    "n_total_items": 38,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "信箱",
+    "status": "skipped",
+    "meaning": "投递信件的箱子；也指收发邮件的箱子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 4,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "箱底",
+    "status": "ok",
+    "meaning": "箱子底部",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 29,
+    "n_total_items": 34,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "门口",
+    "status": "ok",
+    "meaning": "门的出入口附近的地方",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 23,
+    "n_total_items": 28,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "球门",
+    "status": "ok",
+    "meaning": "足球、手球等球类运动中射门得分的目标架",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 15,
+    "n_total_items": 20,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "门票",
+    "status": "ok",
+    "meaning": "进入某场所或观看演出的票证",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 15,
+    "n_total_items": 20,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "门牌",
+    "status": "ok",
+    "meaning": "标示建筑物号码或户主姓名的牌子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 20,
+    "n_total_items": 25,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0
+    ]
+  },
+  {
+    "word": "门诊",
+    "status": "ok",
+    "meaning": "医院里提供诊疗服务的场所；与住院相对",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 16,
+    "n_total_items": 21,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "门禁",
+    "status": "ok",
+    "meaning": "出入控制设施或制度",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "拖鞋",
+    "status": "ok",
+    "meaning": "室内穿的轻便鞋子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 30,
+    "n_total_items": 35,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "跑鞋",
+    "status": "ok",
+    "meaning": "专为跑步设计的运动鞋",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "冰鞋",
+    "status": "ok",
+    "meaning": "滑冰时穿的鞋，鞋底装有冰刀",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18,
+    "n_total_items": 23,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "锁链",
+    "status": "ok",
+    "meaning": "由多个金属环环相扣组成的链条",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 16,
+    "n_total_items": 21,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ]
+  },
+  {
+    "word": "石锁",
+    "status": "skipped",
+    "meaning": "一种用石材制成的提举器械，用于练力气",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 14,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "窗花",
+    "status": "ok",
+    "meaning": "过年时贴在窗户上的剪纸装饰",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 25,
+    "n_total_items": 30,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "窗帘",
+    "status": "ok",
+    "meaning": "挂在窗户上遮挡光线和保护隐私的布帘",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "路灯",
+    "status": "ok",
+    "meaning": "设置在道路两旁照明的灯",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1,
+      2
+    ]
+  },
+  {
+    "word": "灯笼",
+    "status": "skipped",
+    "meaning": "传统的照明或装饰用具，通常为纸制，有灯光",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 14,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "电灯",
+    "status": "ok",
+    "meaning": "利用电能发光的灯具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18,
+    "n_total_items": 23,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "油灯",
+    "status": "skipped",
+    "meaning": "以油为燃料的灯具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 9,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "砂锅",
+    "status": "ok",
+    "meaning": "用砂土烧制的厚壁锅具，多用于炖煮",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 23,
+    "n_total_items": 28,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "锅炉",
+    "status": "skipped",
+    "meaning": "用来加热水或产生蒸汽的设备",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 14,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "火锅",
+    "status": "ok",
+    "meaning": "将食材放入沸腾的汤底中烫熟食用的餐食",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 21,
+    "n_total_items": 26,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "电饭锅",
+    "status": "ok",
+    "meaning": "利用电加热煮饭的锅具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "高压锅",
+    "status": "ok",
+    "meaning": "利用高压原理缩短烹饪时间的锅具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 32,
+    "n_total_items": 37,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "锅台",
+    "status": "ok",
+    "meaning": "厨房中放置炒锅等的灶台",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "办公桌",
+    "status": "ok",
+    "meaning": "供人办公使用的桌子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 16,
+    "n_total_items": 21,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "八仙桌",
+    "status": "skipped",
+    "meaning": "传统的方形大桌子，四面围坐八人",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 14,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "四仙桌",
+    "status": "skipped",
+    "meaning": "小型方桌，可坐四人，类似八仙桌的缩小版",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 13,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "木梳",
+    "status": "ok",
+    "meaning": "用木头制作的梳子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 21,
+    "n_total_items": 26,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "玉梳",
+    "status": "ok",
+    "meaning": "用玉石制成的梳子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 22,
+    "n_total_items": 27,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "胡梳",
+    "status": "skipped",
+    "meaning": "北方地区用于整理胡须或头发的梳子（民间称呼）",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 8,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "梳帚",
+    "status": "skipped",
+    "meaning": "古代的一种长柄梳子；也指像梳子形状的清洁工具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 1,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "篦子",
+    "status": "ok",
+    "meaning": "一种细齿的梳子，多用于去虱或理发",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19,
+    "n_total_items": 24,
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ]
+  },
+  {
+    "word": "放大镜",
+    "status": "skipped",
+    "meaning": "一种可以放大物体影像的光学工具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 13,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "镜片",
+    "status": "skipped",
+    "meaning": "光学仪器中用于成像的薄片，通常指眼镜的镜片",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 12,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "显微镜",
+    "status": "ok",
+    "meaning": "用于观察微小物体的光学仪器",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 24,
+    "n_total_items": 29,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "镜框",
+    "status": "skipped",
+    "meaning": "镜子的框架，也指眼镜的框架",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 14,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "面盆",
+    "status": "ok",
+    "meaning": "用来洗脸或盛水的盆子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  },
+  {
+    "word": "便盆",
+    "status": "ok",
+    "meaning": "不能外出时用的简易厕所器具或婴儿马桶",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17,
+    "n_total_items": 22,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ]
+  },
+  {
+    "word": "缸盆",
+    "status": "skipped",
+    "meaning": "大口深底的盆，多用于种植或盛水",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 14,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "盆子",
+    "status": "ok",
+    "meaning": "可以盛物的圆形器皿",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 31,
+    "n_total_items": 36,
+    "n_clusters": 2,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0
+    ]
+  },
+  {
+    "word": "剪刀",
+    "status": "skipped",
+    "meaning": "用两个锋利刀片铆合而成的剪切工具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 9,
+    "reason": "too_few_usable_items"
+  },
+  {
+    "word": "床单",
+    "status": "ok",
+    "meaning": "铺在床垫上的布",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28,
+    "n_total_items": 33,
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": []
+  }
+]
