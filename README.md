@@ -15,6 +15,7 @@ The workflow also relies on synthetic anchor contexts representing recorded dict
 ├── data/
 │   ├── clustering_data/
 │   ├── durel_graphs/
+│   ├── lexicographic_candidates.json
 │   └── lexicographic_candidates.csv
 ├── scripts/
 │   ├── xl_lexeme_cluster.py
@@ -38,9 +39,9 @@ Its contents include word-level clustering results, anchor-associated clusters, 
 
 This folder contains graph-based visualization outputs used for semantic analysis and interpretation.
 
-### `lexicographic_candidates.csv`
+### `lexicographic_candidates/`
 
-This file contains candidate items selected for lexicographic inspection and further analysis.
+The csv file contains candidate items selected for lexicographic inspection and further analysis. The raw data can be found in the json file.
 
 ## Scripts
 
