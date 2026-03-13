@@ -1,2 +1,2 @@
 # Nonrecorded_Sense_Detection
-This project aims to detect non-recored words senses automatically in Mandarin Chinese based on recent word usages collected from Weibo texts during January to March, 2026.
+This project aims to detect non-recored words senses automatically in Mandarin Chinese based on recent word usages collected from Weibo texts during January to March, 2026. The corpura used in this project, including a monosemy corpus and a word usage corpus collected from Weibo, can be found in [Monosemy-targeted Corpus](https://github.com/essilien/Monosemy-targeted_Corpus).
