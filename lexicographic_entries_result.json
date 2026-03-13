@@ -1,0 +1,117 @@
+[
+  {
+    "word": "墙头",
+    "recorded_meaning": "墙的上部或顶端。",
+    "new_sense_type": "fandom_sense",
+    "candidate_gloss": "在饭圈语境中，指本命之外临时喜欢、偏好或关注的偶像、艺人等对象。",
+    "status": "keep",
+    "confidence": "high",
+    "representative_evidence": [
+      "给大家介绍一下我的新墙头",
+      "我追星20多年粉过的墙头数不胜数",
+      "新担新墙头都恨粉哈"
+    ],
+    "lexicographic_note": "与本义“墙的上部”语义距离大，candidate cluster 内部一致性很高，已表现出稳定饭圈义。"
+  },
+  {
+    "word": "提纯",
+    "recorded_meaning": "除去某种物质所含的杂质，使变得纯净。",
+    "new_sense_type": "community_specific_sense",
+    "candidate_gloss": "在饭圈语境中，指通过舆论、筛选或冲突操作使粉丝群体、受众立场或支持对象变得更单一、更“纯”的行为。",
+    "status": "keep",
+    "confidence": "high",
+    "representative_evidence": [
+      "杰舅这波提纯太明显了",
+      "原来把事实说出来就是提纯",
+      "暗戳戳提纯你咋办？？"
+    ],
+    "lexicographic_note": "保留了“去杂质”的抽象结构，但已从化学义稳定转入社群治理/粉圈互动语义。"
+  },
+  {
+    "word": "配平",
+    "recorded_meaning": "通过计算给化学方程式两边配系数，使反应前后原子个数相等。",
+    "new_sense_type": "community_specific_sense",
+    "candidate_gloss": "在圈内或配对语境中，指把人物、关系、配置或资源强行凑成对等、成双或看起来“般配”的状态。",
+    "status": "keep",
+    "confidence": "high",
+    "representative_evidence": [
+      "为了配平而配平",
+      "一些周边配平",
+      "表情包也要配平",
+      "想要大配平"
+    ],
+    "lexicographic_note": "候选簇规模很大，但内部仍混有部分噪声；不过核心语义“强行凑对/凑平衡”非常稳定。"
+  },
+  {
+    "word": "划水",
+    "recorded_meaning": "拨水使前进；游泳。",
+    "new_sense_type": "metaphorical_extension",
+    "candidate_gloss": "比喻在工作、活动或集体任务中敷衍应付，不积极投入。",
+    "status": "keep",
+    "confidence": "high",
+    "representative_evidence": [
+      "划水审判",
+      "挂名划水设计",
+      "划水也无所谓"
+    ],
+    "lexicographic_note": "这是非常成熟的网络常用义，语义集中、稳定，极可能已 lexicalized。"
+  },
+  {
+    "word": "美帝",
+    "recorded_meaning": "美帝国主义。",
+    "new_sense_type": "fandom_sense",
+    "candidate_gloss": "在饭圈或配对语境中，指某一配对、组合或关系被视为最强势、最受推崇或近似“顶配/官配”的地位。",
+    "status": "keep",
+    "confidence": "medium-high",
+    "representative_evidence": [
+      "美帝是哪对",
+      "美帝称呼吧",
+      "这美帝实至名归吧",
+      "新晋国一美帝",
+      "顶流美帝"
+    ],
+    "lexicographic_note": "与政治本义距离极大，但圈层内部语义高度一致；细微使用差异仍需后续人工核查。"
+  },
+  {
+    "word": "代餐",
+    "recorded_meaning": "一种用来替代传统饭菜的食品或饮料。",
+    "new_sense_type": "internet_extended_sense",
+    "candidate_gloss": "在网络语境中，指能够替代原对象、原关系或原体验，供情感投射、想象满足或观看代入之用的人、事物或内容。",
+    "status": "keep",
+    "confidence": "medium-high",
+    "representative_evidence": [
+      "找了那么多代餐发现还是原装罗杰米最好吃",
+      "全职高手代餐",
+      "在搞一些代餐"
+    ],
+    "lexicographic_note": "新义已经明显超出食品义，转向“替代性情感/观看对象”；但语料里仍混有部分未清干净的超话和简短帖。"
+  },
+  {
+    "word": "厨子",
+    "recorded_meaning": "厨师。",
+    "new_sense_type": "fandom_sense",
+    "candidate_gloss": "在同人或饭圈语境中，指持续创作、供给内容或“产粮”的创作者。",
+    "status": "keep",
+    "confidence": "medium-high",
+    "representative_evidence": [
+      "冷圈遇上好厨子",
+      "好厨子直接一句话",
+      "如此nb的厨子只更了一个系列"
+    ],
+    "lexicographic_note": "该义项来自“做饭 → 产出内容”的社群隐喻链条，例句集中且可解释性强，但少量例句仍有指向普通“偏好者/同人作者”的模糊性。"
+  },
+  {
+    "word": "大雾",
+    "recorded_meaning": "近地层空气中悬浮小水滴或小冰晶导致能见度不足的天气现象。",
+    "new_sense_type": "tentative_community_specific_sense",
+    "candidate_gloss": "在圈内活动语境中，可能指重要事件、安排或资源发生明显冲撞、重叠或“撞档”的情况。",
+    "status": "review",
+    "confidence": "medium-low",
+    "representative_evidence": [
+      "生日撞大雾了",
+      "网宣发了大雾",
+      "撞大雾了"
+    ],
+    "lexicographic_note": "目前 candidate cluster 规模较小，且语义解释仍不够稳，需要更多上下文确认其是否为稳定新义，而不只是圈内临时表达。"
+  }
+]
