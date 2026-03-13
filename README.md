@@ -15,8 +15,7 @@ The workflow also relies on synthetic anchor contexts representing recorded dict
 ├── data/
 │   ├── clustering_data/
 │   ├── durel_graphs/
-│   ├── lexicographic_candidates.json
-│   └── lexicographic_candidates.csv
+│   └── lexicographic_candidates/
 ├── scripts/
 │   ├── xl_lexeme_cluster.py
 │   ├── lexicographic_output.py
