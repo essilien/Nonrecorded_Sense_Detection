@@ -1,0 +1,335 @@
+{
+  "word": "壁柜",
+  "meaning": "嵌在墙里的柜子",
+  "prep_stats": {
+    "word": "壁柜",
+    "meaning": "嵌在墙里的柜子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 33
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 38,
+        "n_anchor": 5,
+        "n_corpus": 33,
+        "examples": [
+          "卧室的壁柜里堆满了季节变换的衣物。",
+          "她从壁柜里拿出新买的裙子，挂在了衣架上。",
+          "为了增加储物空间，她在客厅的墙上安装了一排壁柜。",
+          "厨房的壁柜设计得非常实用，上面放调料，下面放餐具。",
+          "她打开壁柜的门，里面整齐地摆放着各种装饰品。"
+        ],
+        "items": [
+          {
+            "item_id": "壁柜_anchor_1",
+            "source": "anchor",
+            "text": "卧室的壁柜里堆满了季节变换的衣物。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "壁柜_anchor_2",
+            "source": "anchor",
+            "text": "她从壁柜里拿出新买的裙子，挂在了衣架上。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "壁柜_anchor_3",
+            "source": "anchor",
+            "text": "为了增加储物空间，她在客厅的墙上安装了一排壁柜。",
+            "target_start": 21,
+            "target_end": 23
+          },
+          {
+            "item_id": "壁柜_anchor_4",
+            "source": "anchor",
+            "text": "厨房的壁柜设计得非常实用，上面放调料，下面放餐具。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "壁柜_anchor_5",
+            "source": "anchor",
+            "text": "她打开壁柜的门，里面整齐地摆放着各种装饰品。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "壁柜_2",
+            "source": "corpus",
+            "text": "壁柜处在一个卖萌可以当孩子不卖萌当父父随时还可以当狗我们祖孙三代无论如何可以把日子过下去这样的状态",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5272177475325304"
+          },
+          {
+            "item_id": "壁柜_3",
+            "source": "corpus",
+            "text": "壁柜是一种介于冰葵和脚鳖之间的形态，没有冰葵那么懂事又不像脚鳖那么欠打，然后我感觉现在就是壁柜形态中，总体满意",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5274178257427446"
+          },
+          {
+            "item_id": "壁柜_5",
+            "source": "corpus",
+            "text": "终于把半幅目录柜装好摆定了！5o大人这次开团，本来坚定的说只买咕咕鸟，结果是本期团品每个全入，壁柜平定咕咕鸟，目录柜全幅半幅，边几咖啡桌胖仔全部收入囊中！怎么不算一种圆满呢～找一找图片里出现了几个本次团品呢 5",
+            "target_start": 47,
+            "target_end": 49,
+            "post_id": "5260380565670006"
+          },
+          {
+            "item_id": "壁柜_6",
+            "source": "corpus",
+            "text": "壁柜我们一家三口",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5250071383770999"
+          },
+          {
+            "item_id": "壁柜_7",
+            "source": "corpus",
+            "text": "壁柜真尼玛把我毁了",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5247407046788930"
+          },
+          {
+            "item_id": "壁柜_9",
+            "source": "corpus",
+            "text": "7850【二棒】壁柜的绝对敌对超级喜欢",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5265237486081582"
+          },
+          {
+            "item_id": "壁柜_12",
+            "source": "corpus",
+            "text": "特么的几差几运营麦壁柜已经到诡异的地步了好想吐",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5271010656911539"
+          },
+          {
+            "item_id": "壁柜_14",
+            "source": "corpus",
+            "text": "生日这天壁柜选择一个展示龟臀一个展示兔棒，原来一切体位都标注好了答案...",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5240288960317667"
+          },
+          {
+            "item_id": "壁柜_15",
+            "source": "corpus",
+            "text": "对这个壁柜真的尊重祝福真的挺美好的",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275813245354513"
+          },
+          {
+            "item_id": "壁柜_16",
+            "source": "corpus",
+            "text": "你是我最好的朋友 你是我最大的幸运 壁柜每次都把生日祝福当表白信写 最好的朋友这个概念也很超神 我将兑水细品",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275812830118559"
+          },
+          {
+            "item_id": "壁柜_17",
+            "source": "corpus",
+            "text": "壁柜颂的素材源源不断我服了 哇 永不熄灭的春日灯火 哇虽然我知道上面这九个字是翻译老师翻译得好 但原文也差不多是那个意思了 哇 好浪漫",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275811351627399"
+          },
+          {
+            "item_id": "壁柜_18",
+            "source": "corpus",
+            "text": "我家壁柜也要这样的双人抖 你多久没给我孩子们拍这种可爱的了",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275768766861465"
+          },
+          {
+            "item_id": "壁柜_19",
+            "source": "corpus",
+            "text": "我只希望壁柜今晚署名不想经历去年 拆家嬷嬷偷糖阴阳",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275748713894297"
+          },
+          {
+            "item_id": "壁柜_20",
+            "source": "corpus",
+            "text": "机场背后抱 我就这样看着幽怨逐渐向壁柜靠拢，你们，你们明明不是一个风味的",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275737433050792"
+          },
+          {
+            "item_id": "壁柜_21",
+            "source": "corpus",
+            "text": "今晚十一点将上演壁柜生日大战不知道几点零了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275681945552921"
+          },
+          {
+            "item_id": "壁柜_23",
+            "source": "corpus",
+            "text": "大家都在磕壁柜而我都只能看到老比露出弱智表情的样子wtfk",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275436034557477"
+          },
+          {
+            "item_id": "壁柜_24",
+            "source": "corpus",
+            "text": "// 事情总是这样的。你把某件东西搁了一阵子，有时候你到壁柜里去找别的什么东西然后你记起来了，于是你想，快要用得上了。于是它成了就在那里、就在壁柜里的一样东西，别的东西挤进来堆在它的前面、上面，最后你根本都不去想它了。",
+            "target_start": 28,
+            "target_end": 30,
+            "post_id": "5275428820355465"
+          },
+          {
+            "item_id": "壁柜_25",
+            "source": "corpus",
+            "text": "菌鳖21-22年绝对谈了23年分手阶段老逼趁虚而入壁柜从24年崛起",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275421580985145"
+          },
+          {
+            "item_id": "壁柜_26",
+            "source": "corpus",
+            "text": "没成想出门来个开门红—穿戴停当弯腰穿鞋起身，头duang撞到了没关壁柜门的角上，好痛！手一摸出血了，到洗手间照镜子，一缕血顺着留到脸上…… 紧急处理棉签按压，清洗创口，竟然很快血止住了，涂了点碘伏，戴着帽子去国博。今天国博人好少，看了武王墩和三星堆，拍了美照，喝了凤冠摩卡咖啡。",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5275365924931236"
+          },
+          {
+            "item_id": "壁柜_27",
+            "source": "corpus",
+            "text": "忽然想胸骨李丽华了 点开主页发现女神还是没有回来 看开不管壁柜如何大麦都无法唤回胸骨李丽华的心了💔",
+            "target_start": 29,
+            "target_end": 31,
+            "post_id": "5275360259997714"
+          },
+          {
+            "item_id": "壁柜_28",
+            "source": "corpus",
+            "text": "对二巡安可的香味完全没有记忆 所以总是觉得我应该是对香味过鼻即忘的 在圣水瞎逛的时候 朋友接了试香卡给我闻 “这不壁柜同款嘛” 一看还真是daniel’s truth 23年之后就再没用过的同款 所以二巡安可啥味道",
+            "target_start": 57,
+            "target_end": 59,
+            "post_id": "5275332307322247"
+          },
+          {
+            "item_id": "壁柜_29",
+            "source": "corpus",
+            "text": "鬼锐绝壁跟壁柜一样在一个夜晚犯了一个错",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275084228657190"
+          },
+          {
+            "item_id": "壁柜_34",
+            "source": "corpus",
+            "text": "彬奎 壁柜 比龟 比亏 较瘪 脚瘪 出来麦麸",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5274723300149147"
+          },
+          {
+            "item_id": "壁柜_35",
+            "source": "corpus",
+            "text": "今天收拾东西更夸张，翻壁柜翻出小学二年级下田字格",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5274691373107332"
+          },
+          {
+            "item_id": "壁柜_36",
+            "source": "corpus",
+            "text": "嗯但是呢。壁柜这种闺蜜都能发展成situationship我们鬼锐怎么不能？",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5274654105147994"
+          },
+          {
+            "item_id": "壁柜_38",
+            "source": "corpus",
+            "text": "我我我，，我我我，，，我要看壁柜带娃。",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5274594195276809"
+          },
+          {
+            "item_id": "壁柜_39",
+            "source": "corpus",
+            "text": "壁柜简直就是从老哥哥受害者联盟齐心协力转换为了老哥哥迫害者联盟，怨妇闺蜜组",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5274575622635754"
+          },
+          {
+            "item_id": "壁柜_42",
+            "source": "corpus",
+            "text": "想到壁柜唱了彼此的solo我就呜呜呜呜⸝⸝ʚ̴̶̷̆ ̯ʚ̴̶̷̆⸝⸝",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5274516261699614"
+          },
+          {
+            "item_id": "壁柜_43",
+            "source": "corpus",
+            "text": "壁柜粉丝的痛点爽点是二位一体",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5274491548338808"
+          },
+          {
+            "item_id": "壁柜_46",
+            "source": "corpus",
+            "text": "壁柜坤特么压抑成啥了",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5274262522301051"
+          },
+          {
+            "item_id": "壁柜_47",
+            "source": "corpus",
+            "text": "再抱我一次又是什么cha？不管了先给壁柜接了",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5274254471859244"
+          },
+          {
+            "item_id": "壁柜_48",
+            "source": "corpus",
+            "text": "其实我觉得壁柜之间也不是生理性喜欢或者心理性喜欢吧，，壁柜是一种岁月对我大浪淘沙而你被留下的那种出于双方选择和命运与共的感情。。",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5274136553458386"
+          },
+          {
+            "item_id": "壁柜_50",
+            "source": "corpus",
+            "text": "家里有个看家的老傻子就行了壁柜日子过好",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5274007679272111"
+          }
+        ]
+      }
+    ]
+  }
+}

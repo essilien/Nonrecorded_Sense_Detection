@@ -1,0 +1,311 @@
+{
+  "word": "皇族",
+  "meaning": "皇帝的家族。",
+  "prep_stats": {
+    "word": "皇族",
+    "meaning": "皇帝的家族。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 30
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 35,
+        "n_anchor": 5,
+        "n_corpus": 30,
+        "examples": [
+          "皇族成员出席了盛大的庆典活动，展示了家族的传统礼仪。",
+          "历史上许多皇族的故事都被后人传颂，成为传奇。",
+          "她虽然不是皇族出身，却以非凡的才华赢得了皇族的青睐。",
+          "作为皇族的一员，他深知家族荣誉的重要性，因此行事更加谨慎。",
+          "尽管皇族已经不再掌握实权，但在历史长河中依然留下了深刻的印记。"
+        ],
+        "items": [
+          {
+            "item_id": "皇族_anchor_1",
+            "source": "anchor",
+            "text": "皇族成员出席了盛大的庆典活动，展示了家族的传统礼仪。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "皇族_anchor_2",
+            "source": "anchor",
+            "text": "历史上许多皇族的故事都被后人传颂，成为传奇。",
+            "target_start": 5,
+            "target_end": 7
+          },
+          {
+            "item_id": "皇族_anchor_3",
+            "source": "anchor",
+            "text": "她虽然不是皇族出身，却以非凡的才华赢得了皇族的青睐。",
+            "target_start": 5,
+            "target_end": 7
+          },
+          {
+            "item_id": "皇族_anchor_4",
+            "source": "anchor",
+            "text": "作为皇族的一员，他深知家族荣誉的重要性，因此行事更加谨慎。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "皇族_anchor_5",
+            "source": "anchor",
+            "text": "尽管皇族已经不再掌握实权，但在历史长河中依然留下了深刻的印记。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "皇族_1",
+            "source": "corpus",
+            "text": "对于任何酸言酸语∶ 宁挨皇族骂 ，不留贫民泪。",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275614865264438"
+          },
+          {
+            "item_id": "皇族_2",
+            "source": "corpus",
+            "text": "笑丝，网友说皇族没有丝忠粉，虐粉的前提是你得有、没有虐个0啊~ 哈哈哈哈哈哈哈哈哈哈哈！",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275614354866550"
+          },
+          {
+            "item_id": "皇族_3",
+            "source": "corpus",
+            "text": "说这么多别被不怀好意的带跑偏了 人家是皇族没有粉丝托举zy也是源源不断 ybc是目前最真金白银可以看出流量丝底气的",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275651753903713"
+          },
+          {
+            "item_id": "皇族_4",
+            "source": "corpus",
+            "text": "老庆你真的好惨 被皇族这样碰瓷 腾讯你真的有病 不好好对你爹是没有好下场的 快点把庆余年3端上来好吗？ 这是你该做的事情",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275584047351791"
+          },
+          {
+            "item_id": "皇族_5",
+            "source": "corpus",
+            "text": "本来皇族是前期毫无水花被硬捧才能叫皇族 结果爆路透爆民选cp爆广网飞采购同步日韩台播就连云包场也能包出花来都叫皇族 逐玉就算是皇族也只会有一个名字叫紫薇 之前遗落在民间靠着积累回宫 还要被嬷嬷扎针",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5273484288593823"
+          },
+          {
+            "item_id": "皇族_6",
+            "source": "corpus",
+            "text": "终局之战！皇族利用巨大经济优势，高地前再度开出完美团战，摧枯拉朽般击溃EDG防线，一波推平基地拿下比赛！这波配合你看懂了吗？",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275626597521458"
+          },
+          {
+            "item_id": "皇族_8",
+            "source": "corpus",
+            "text": "皇族明显一点也是好事 不然萌萌鱼丝还真看不出来 前两天我刷到抖怜爱皇族意难平的萌萌人还挺多的 这两天过后大家看清了只剩下恶熏了哈哈哈哈哈哈",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5273942604389363"
+          },
+          {
+            "item_id": "皇族_9",
+            "source": "corpus",
+            "text": "为了给皇族塞资源在团综里立人设这集我好像见过很多次。。。整个楼只有稀奇在真情实意地求单飞。。。",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5273884284944504"
+          },
+          {
+            "item_id": "皇族_11",
+            "source": "corpus",
+            "text": "卧槽咋办这次皇族妈人生真被我接到了",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275811456483365"
+          },
+          {
+            "item_id": "皇族_12",
+            "source": "corpus",
+            "text": "大半夜越想越不得劲 ，孩子报喜不报忧，自己默默努力提升，靠实力拿下资源，要被拉出来背锅，被说皇族 ，好大一口锅啊",
+            "target_start": 46,
+            "target_end": 48,
+            "post_id": "5275811349267447"
+          },
+          {
+            "item_id": "皇族_13",
+            "source": "corpus",
+            "text": "欧巴1.22这把不仅闪耀巴黎 还闪耀我手机 这大个资太好了，宁挨皇族骂，不留贫民泪",
+            "target_start": 32,
+            "target_end": 34,
+            "post_id": "5275810874525017"
+          },
+          {
+            "item_id": "皇族_16",
+            "source": "corpus",
+            "text": "好想成为大家口中的无期恶霸皇族推呀 我们兰利玩家闭服前能等到这一天吗？",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275808944883858"
+          },
+          {
+            "item_id": "皇族_20",
+            "source": "corpus",
+            "text": "男宝妈zng死品客再贷款骂老樱我就把你们全家剁碎了喂猪 贷款老樱待遇皇族那只要老樱的待遇差上一点我就往你们的猪皮上来一刀",
+            "target_start": 34,
+            "target_end": 36,
+            "post_id": "5275780179562642"
+          },
+          {
+            "item_id": "皇族_21",
+            "source": "corpus",
+            "text": "我家就要皇族就要耀祖咋了嫉妒就干瞪眼呗",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275805470951462"
+          },
+          {
+            "item_id": "皇族_22",
+            "source": "corpus",
+            "text": "烦死糖比傻福团宠人设了，除了吃啥也不会干还当上皇族了，嬷嬷还趾高气扬把累死累活的队友随便踩，能不能先不让耀祖出道三个月就签售切小屏了",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275804416344648"
+          },
+          {
+            "item_id": "皇族_23",
+            "source": "corpus",
+            "text": "朴综星你当一次皇族吧我求求你了 所有的骂我都能承受我真求你了",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275803885765383"
+          },
+          {
+            "item_id": "皇族_25",
+            "source": "corpus",
+            "text": "宁挨皇族骂 不流平民泪",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275801349522212"
+          },
+          {
+            "item_id": "皇族_27",
+            "source": "corpus",
+            "text": "我也好想让家母当皇族然后天天跟别人上嘴脸说是作者恨啊！",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275799763555054"
+          },
+          {
+            "item_id": "皇族_29",
+            "source": "corpus",
+            "text": "王子寒是学长是妹宝是皇族",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275799030072477"
+          },
+          {
+            "item_id": "皇族_33",
+            "source": "corpus",
+            "text": "又回味了一整天主播的弹丸初见录播，太享受了😋我说某神秘棉花糖白毛男作为我的二刺猿本命真的是很幸运啊至今无代餐，待遇戏份人设逼格案件质量全都是亲儿子级别爽得没边，至今我依然认为是我见过的最完美的1。。。各方面用饭圈话来说简直就是皇族中的皇族",
+            "target_start": 113,
+            "target_end": 115,
+            "post_id": "5275796953629617"
+          },
+          {
+            "item_id": "皇族_34",
+            "source": "corpus",
+            "text": "我去月之心脏啊！太美了太神圣了，年糕手指能不能改一下啊实在不行p一下，我去韩诺亚啊！接皇族待遇",
+            "target_start": 43,
+            "target_end": 45,
+            "post_id": "5275796786122037"
+          },
+          {
+            "item_id": "皇族_36",
+            "source": "corpus",
+            "text": "如果不是有人对比了漫画分镜，我是真的不知道动工改了那么多露比的好的分镜，在同一个镜头里把正脸的全换成别人正脸，我真的服了，动工内部恨实锤吧，怎么我们女主像路人。动工我也想自推当皇族。",
+            "target_start": 88,
+            "target_end": 90,
+            "post_id": "5275794030989167"
+          },
+          {
+            "item_id": "皇族_37",
+            "source": "corpus",
+            "text": "蛤蟆为什么会有生日直播呃呃 就他19岁有 这个决策完美惹火除了蛤蟆丝的所有人 有人想看吗 大皇族来了",
+            "target_start": 46,
+            "target_end": 48,
+            "post_id": "5275791966340295"
+          },
+          {
+            "item_id": "皇族_38",
+            "source": "corpus",
+            "text": "【除虫】煤气别吐槽挖煤了吧！挖煤活动上升期和多位嫂子美美约会 D社认证+本人承认有嫂子带嫂子到处游玩 还有泳池接👄 粉丝还敢吹有豆德和自律 皇族金钟仁什么时候退圈？",
+            "target_start": 70,
+            "target_end": 72,
+            "post_id": "5275708818719171"
+          },
+          {
+            "item_id": "皇族_39",
+            "source": "corpus",
+            "text": "也是吃上内娱皇族史上最耻辱的🍉了",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275790321390384"
+          },
+          {
+            "item_id": "皇族_40",
+            "source": "corpus",
+            "text": "伟大的五颜一小兔神 脖颈与肩膀成钝角之人，朱元璋流落在外的皇族血脉",
+            "target_start": 29,
+            "target_end": 31,
+            "post_id": "5275790241436799"
+          },
+          {
+            "item_id": "皇族_41",
+            "source": "corpus",
+            "text": "这招熟悉。又想营造我们是皇族的假象。",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275789114216920"
+          },
+          {
+            "item_id": "皇族_42",
+            "source": "corpus",
+            "text": "马累家最会卖惨了 实则是真正的皇族",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275787122966565"
+          },
+          {
+            "item_id": "皇族_43",
+            "source": "corpus",
+            "text": "老萤加强必须到关服都能大杀四方不然怎么对得起这群傻坤的一声声皇族",
+            "target_start": 30,
+            "target_end": 32,
+            "post_id": "5275786933436837"
+          },
+          {
+            "item_id": "皇族_44",
+            "source": "corpus",
+            "text": "密码的早知道是这样一起搞solo配平着开分队，当初为毛要策划bittersweet？为毛要出这个分队为毛要出歌出mv出舞台？好想歇斯底里地问你们一次谁偷走了我产品的皇族人生，谁又偷走了我的幸福三口之家生活",
+            "target_start": 82,
+            "target_end": 84,
+            "post_id": "5275681542901506"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "word": "亲友",
+  "meaning": "亲戚朋友。",
+  "prep_stats": {
+    "word": "亲友",
+    "meaning": "亲戚朋友。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 33,
+        "n_anchor": 5,
+        "n_corpus": 28,
+        "examples": [
+          "每当亲友聚会，我们总是能聊到深夜。",
+          "在亲友眼中，他永远都是那个乐于助人的好小伙。",
+          "周末亲友来家里做客，厨房里总是香气四溢。",
+          "虽然彼此相隔千里，但我们的心总是紧紧相连，就像远方的亲友一样。",
+          "每年亲友团聚的时候，他都会给我们带来惊喜礼物。"
+        ],
+        "items": [
+          {
+            "item_id": "亲友_anchor_1",
+            "source": "anchor",
+            "text": "每当亲友聚会，我们总是能聊到深夜。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "亲友_anchor_2",
+            "source": "anchor",
+            "text": "在亲友眼中，他永远都是那个乐于助人的好小伙。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "亲友_anchor_3",
+            "source": "anchor",
+            "text": "周末亲友来家里做客，厨房里总是香气四溢。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "亲友_anchor_4",
+            "source": "anchor",
+            "text": "虽然彼此相隔千里，但我们的心总是紧紧相连，就像远方的亲友一样。",
+            "target_start": 26,
+            "target_end": 28
+          },
+          {
+            "item_id": "亲友_anchor_5",
+            "source": "anchor",
+            "text": "每年亲友团聚的时候，他都会给我们带来惊喜礼物。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "亲友_2",
+            "source": "corpus",
+            "text": "最近给亲友画的还有一些摸鱼稿嘿嘿！",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275374670058351"
+          },
+          {
+            "item_id": "亲友_3",
+            "source": "corpus",
+            "text": "【】和一起搞oc的亲友同居了，转头一看她就在我身后画新图写游戏代码的日子真的好幸福",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275239048547871"
+          },
+          {
+            "item_id": "亲友_4",
+            "source": "corpus",
+            "text": "2404bot好。投个亲友做的炒海嗣（）",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5273575776851353"
+          },
+          {
+            "item_id": "亲友_5",
+            "source": "corpus",
+            "text": "收到了亲友酱的礼物此女幸福得意地转圈中",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5274989894042101"
+          },
+          {
+            "item_id": "亲友_6",
+            "source": "corpus",
+            "text": "1027 亲友也是独立的个体，也有自己的事，不可以一直占着他骚扰他。卧槽你咋不找我玩我不活了",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5274710103296806"
+          },
+          {
+            "item_id": "亲友_7",
+            "source": "corpus",
+            "text": "7991【认识了三年的亲友】给你发文你就给我回个“好！”啥意思呢",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5271444940657289"
+          },
+          {
+            "item_id": "亲友_8",
+            "source": "corpus",
+            "text": "11100🐇 【开庭！】我说是土豆！亲友说是面包！请清汤大老爷们评判！",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275312612187060"
+          },
+          {
+            "item_id": "亲友_9",
+            "source": "corpus",
+            "text": "62820 【太炸裂了我一定要四处分享】亲友给她产写墙纸爱pwp被同担当glm打了，理由是拉踩弱化右位战力抬高左位（该作品斗蛐蛐zng比较多，粉圈社群对战力比较敏感），但要是右打得过左的话还怎么强健",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5275243930452134"
+          },
+          {
+            "item_id": "亲友_10",
+            "source": "corpus",
+            "text": "身边好几个亲友都踩过这种旅游买房的坑，当年被忽悠入手，结果常年闲置，住不上、卖不掉、租不出，去一次连门锁都锈了。 更糟的是有人贷款买的，没能力按时还款，房子低价拍卖都不够还银行，首付和前期还款全打了水漂，还得继续补钱，真的苦不堪言！",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275288917247817"
+          },
+          {
+            "item_id": "亲友_14",
+            "source": "corpus",
+            "text": "试图拉厂妹亲友来一口狗朵 但是安利没卖出去 不知道是因为我一直用萨卡当朵的代称让她崩溃了 难以想象萨卡千娇百媚的样子 还是因为我说这对cp像大街上交配完卡住了还一起招摇过市的两条狗 下次卖安利的时候我会控制自己的语言",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275810815543635"
+          },
+          {
+            "item_id": "亲友_15",
+            "source": "corpus",
+            "text": "看到挂条我和亲友就这样崩溃",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275810487337497"
+          },
+          {
+            "item_id": "亲友_21",
+            "source": "corpus",
+            "text": "你们说有没有人会看着我的微博突然爱上我 然后急头白脸地想要和我私联每天和我聊天然后和我变成亲友的？",
+            "target_start": 45,
+            "target_end": 47,
+            "post_id": "5275807392993023"
+          },
+          {
+            "item_id": "亲友_23",
+            "source": "corpus",
+            "text": "吾尝初姓马 名建利 化为利利 鄙人乃七亲六友惑之 吾之益友 桶 利巧技化他人之查也 读遍论书 不料 论中有吾之亲友参言 同桶 巧技化他人而害吾之心悦之人 吾与益友桶皆知 此名****之士 阴阳混心 小人也",
+            "target_start": 55,
+            "target_end": 57,
+            "post_id": "5275806629627696"
+          },
+          {
+            "item_id": "亲友_26",
+            "source": "corpus",
+            "text": "老大们好这个号不是我的小号！！！他可能是骗子或者其他啥的，大晚上亲友跟我发了这个我也被吓一跳！总之请不要相信他发的任何消息以及看到了顺便帮我点点举报，十分感谢",
+            "target_start": 32,
+            "target_end": 34,
+            "post_id": "5275805316811425"
+          },
+          {
+            "item_id": "亲友_28",
+            "source": "corpus",
+            "text": "上周出去吃了这周三吃铁锅焖面周四大吃一顿肯德基，然后收了一张卡买了好几样东西购入一条裙子，周日我亲友叫我出去玩我又答应了，我根本就没有在认真攒钱！",
+            "target_start": 48,
+            "target_end": 50,
+            "post_id": "5275805022423050"
+          },
+          {
+            "item_id": "亲友_29",
+            "source": "corpus",
+            "text": "其实呢我真的是一个关系＞属性的人，但是我目前太恨呀呜了如果真有亲友有这个属我心里好膈应 唉但是我真的是关系＞属性，这很难说。所以我更想跪求亲友别嗑呀呜。",
+            "target_start": 31,
+            "target_end": 33,
+            "post_id": "5275804894234400"
+          },
+          {
+            "item_id": "亲友_30",
+            "source": "corpus",
+            "text": "夜深人静的时候突然会想玩狒，但真上线由于没啥亲友在玩了又即刻养胃。回国后也偶尔会想念以前时差半夜凌晨开挂机招募那几个经常来但从没说过话的id，此游戏就这样躺在电脑里占据我几十一百g的内存或许也是一种陪伴😐🚬",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275804376238225"
+          },
+          {
+            "item_id": "亲友_31",
+            "source": "corpus",
+            "text": "刷那年今日看到自己哭嚎首日抢不到亲友组趴趴不得不托人去梅田买结果现在根本不缺货，卡普空能不能不要再这样遛我",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275804265350733"
+          },
+          {
+            "item_id": "亲友_32",
+            "source": "corpus",
+            "text": "想起)填完那个九宫格在想连mlp都有但没有丁口是不是有点不礼貌，出于一些人情世故的考虑我是不是最好塞一张进去。但是和亲友琢磨半天发现确实没被其影响改变太多，大多是我本来就有的一些怪异癖好被它恰好符合……两束光波相遇并干涉并分开，互不影响。",
+            "target_start": 58,
+            "target_end": 60,
+            "post_id": "5275802738622781"
+          },
+          {
+            "item_id": "亲友_33",
+            "source": "corpus",
+            "text": "现实里都是说说，网上谁不想和同流合污的亲友一起进行一场酣畅淋漓急头白脸毫无人物理解的产品口嗨",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275743581111144"
+          },
+          {
+            "item_id": "亲友_34",
+            "source": "corpus",
+            "text": "目前为止干过最有意思的事就是让亲友给我发她的文吃全随机omakase，推荐你们所有人来找我玩这个🫰",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275802534939976"
+          },
+          {
+            "item_id": "亲友_35",
+            "source": "corpus",
+            "text": "不行不能再悲伤了明天还有早八 现在把亲友拽起来聊两句黄的换换心情然后赶紧睡觉吧",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275802485658270"
+          },
+          {
+            "item_id": "亲友_36",
+            "source": "corpus",
+            "text": "亲友提醒才发现这大姐给豆噶了，我说怎么无缘无故的给人祭天了 7007",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275631686257280"
+          },
+          {
+            "item_id": "亲友_40",
+            "source": "corpus",
+            "text": "——小姐姐你的cp知道你每天和任意男亲友高强度连麦甚至一起睡觉吗 我们玩的是一个ff14吗",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275467931190648"
+          },
+          {
+            "item_id": "亲友_41",
+            "source": "corpus",
+            "text": "亲友姐的汉服！搭了一套蜜璃去拍玉兰 🍡",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275646724935401"
+          },
+          {
+            "item_id": "亲友_44",
+            "source": "corpus",
+            "text": "以前可能会骚扰不吃我产品的亲友很多私讯但现在觉得还是太冒犯了也太强求了！这几年基本上都是在sns上一个人碎碎念同人相关的东西，也不需要任何反馈只是像倒垃圾一样（…大家看到觉得烦可以直接屏蔽/取关/拉黑🥺💦…",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275800245108784"
+          },
+          {
+            "item_id": "亲友_47",
+            "source": "corpus",
+            "text": "万人嫌被丈夫关进小黑屋，便宜了丈夫的亲友圈 又又Beta➕全员Alpha。这本非常好看啊",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275799345434733"
+          },
+          {
+            "item_id": "亲友_49",
+            "source": "corpus",
+            "text": "哇，又一次折磨了我那不看布袋戏亲友。 他这样和我说，阿郎是看，御魂是小头控制了大头 所以被他蛊惑了……而且并没有把他当做替身。",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275798946712344"
+          }
+        ]
+      }
+    ]
+  }
+}

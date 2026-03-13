@@ -1,0 +1,357 @@
+{
+  "word": "被单",
+  "meaning": "覆在被子表面的床单或薄被",
+  "prep_stats": {
+    "word": "被单",
+    "meaning": "覆在被子表面的床单或薄被",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 29
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 5,
+    "anchor_clusters": [
+      3
+    ],
+    "candidate_clusters": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 2,
+        "n_anchor": 0,
+        "n_corpus": 2,
+        "examples": [
+          "今天突然通知被调岗，干了四年多，这是经历的第二次调岗，第一个岗位干了不到一年，第二个干了快四年。每次都是被单方面通知，就很懵，挺无所适从的，心里还是有点不得劲，毕竟干了很久，对每个岗位也是认真付出了。刚通知完就要求交接，得火速离开本岗位，反正就得讲政治。",
+          "被单细胞若汁刺激到以后还是觉得萌追最适合我 看剧反黑做数据买代言吸食美颜算了。没必要因为不相干的纸张生气"
+        ],
+        "items": [
+          {
+            "item_id": "被单_29",
+            "source": "corpus",
+            "text": "今天突然通知被调岗，干了四年多，这是经历的第二次调岗，第一个岗位干了不到一年，第二个干了快四年。每次都是被单方面通知，就很懵，挺无所适从的，心里还是有点不得劲，毕竟干了很久，对每个岗位也是认真付出了。刚通知完就要求交接，得火速离开本岗位，反正就得讲政治。",
+            "target_start": 52,
+            "target_end": 54,
+            "post_id": "5275778628718340"
+          },
+          {
+            "item_id": "被单_45",
+            "source": "corpus",
+            "text": "被单细胞若汁刺激到以后还是觉得萌追最适合我 看剧反黑做数据买代言吸食美颜算了。没必要因为不相干的纸张生气",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275761105439269"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 12,
+        "n_anchor": 0,
+        "n_corpus": 12,
+        "examples": [
+          "被单删后那个人能不能直接从我微信列表消失，我懒得后面一个一个去看谁把我删了",
+          "我怎么又被单取了。",
+          "在pyq很眼熟的宝宝突然好久没看到了 然后去找 发现被单删了 感觉很不得劲 为啥啊…",
+          "记录一下3.2换了被单",
+          "能不能有个测被单删功能呢"
+        ],
+        "items": [
+          {
+            "item_id": "被单_6",
+            "source": "corpus",
+            "text": "被单删后那个人能不能直接从我微信列表消失，我懒得后面一个一个去看谁把我删了",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5272923171717219"
+          },
+          {
+            "item_id": "被单_13",
+            "source": "corpus",
+            "text": "我怎么又被单取了。",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275810627323509"
+          },
+          {
+            "item_id": "被单_15",
+            "source": "corpus",
+            "text": "在pyq很眼熟的宝宝突然好久没看到了 然后去找 发现被单删了 感觉很不得劲 为啥啊…",
+            "target_start": 26,
+            "target_end": 28,
+            "post_id": "5275807103585961"
+          },
+          {
+            "item_id": "被单_18",
+            "source": "corpus",
+            "text": "记录一下3.2换了被单",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275796135478254"
+          },
+          {
+            "item_id": "被单_19",
+            "source": "corpus",
+            "text": "能不能有个测被单删功能呢",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275795367134634"
+          },
+          {
+            "item_id": "被单_21",
+            "source": "corpus",
+            "text": "「tg」没想到约过的老师遇到这种破事，约的稿被单主拿去隔壁过审了。 你十几次都没过一用约的稿就直接过了画师是不是还得高兴啊？ 道歉都轻飘飘的毫不在意的看了感觉真的挺气的。 约的老师人好我气不过代投一下，小心避雷吧 48433",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275790180090482"
+          },
+          {
+            "item_id": "被单_25",
+            "source": "corpus",
+            "text": "这到底有啥用 出个被单删提醒功能行不",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275785399110919"
+          },
+          {
+            "item_id": "被单_27",
+            "source": "corpus",
+            "text": "套了10多分钟被单 快完事时候发现套反了的无力感 无异于犁了一天才发现是别人家地的老牛",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275782604655664"
+          },
+          {
+            "item_id": "被单_31",
+            "source": "corpus",
+            "text": "能不能出一个单删的啊 被删除好友真的不知道 每次都是看到红色感叹号 才知道自己被单删了",
+            "target_start": 39,
+            "target_end": 41,
+            "post_id": "5275776741018704"
+          },
+          {
+            "item_id": "被单_36",
+            "source": "corpus",
+            "text": "先不说张子墨一拖二这件事 你们不觉得ts上音乐节是因为张子墨被单邀、张子墨受邀参加香水品牌活动并且能和创始人互动夯拉了吗！",
+            "target_start": 30,
+            "target_end": 32,
+            "post_id": "5275774158114497"
+          },
+          {
+            "item_id": "被单_37",
+            "source": "corpus",
+            "text": "套被单套了半个多小时，成功把自己套懵圈，获得一身累，毫无进展๐·°(৹˃ᗝ˂৹)°·๐",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275774122990616"
+          },
+          {
+            "item_id": "被单_39",
+            "source": "corpus",
+            "text": "为毛我当cp粉的时候老被单推贴脸啊 而且为啥现在单推都是拒全部关系性了 搞的我别的ip也单推个角色 但不拒所有关系性 这种状态我都不知道叫啥了",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275773385575406"
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "【第一赛段被单杀榜】Soboro、About、Rookie、naiyou位列前4 shy哥不在又有上单Soboro继承被单杀榜榜一，Rookie要成传奇中路被单杀王了，依旧在榜，WBG榜上有三，绷不住了"
+        ],
+        "items": [
+          {
+            "item_id": "被单_9",
+            "source": "corpus",
+            "text": "【第一赛段被单杀榜】Soboro、About、Rookie、naiyou位列前4 shy哥不在又有上单Soboro继承被单杀榜榜一，Rookie要成传奇中路被单杀王了，依旧在榜，WBG榜上有三，绷不住了",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5272767570119689"
+          }
+        ]
+      },
+      {
+        "cluster_id": 3,
+        "size": 18,
+        "n_anchor": 5,
+        "n_corpus": 13,
+        "examples": [
+          "他早上起床后先清洗了被单和枕巾。",
+          "新买的被单柔软舒适，让他一整晚都睡得很香。",
+          "每次换季时，都要好好清洗一次被单和床单，保持卫生。",
+          "小明的母亲习惯在睡前将被单叠放整齐，为第二天做准备。",
+          "被单上的花色很吸引人，让这个房间显得温馨又浪漫。"
+        ],
+        "items": [
+          {
+            "item_id": "被单_anchor_1",
+            "source": "anchor",
+            "text": "他早上起床后先清洗了被单和枕巾。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "被单_anchor_2",
+            "source": "anchor",
+            "text": "新买的被单柔软舒适，让他一整晚都睡得很香。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "被单_anchor_3",
+            "source": "anchor",
+            "text": "每次换季时，都要好好清洗一次被单和床单，保持卫生。",
+            "target_start": 14,
+            "target_end": 16
+          },
+          {
+            "item_id": "被单_anchor_4",
+            "source": "anchor",
+            "text": "小明的母亲习惯在睡前将被单叠放整齐，为第二天做准备。",
+            "target_start": 11,
+            "target_end": 13
+          },
+          {
+            "item_id": "被单_anchor_5",
+            "source": "anchor",
+            "text": "被单上的花色很吸引人，让这个房间显得温馨又浪漫。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "被单_1",
+            "source": "corpus",
+            "text": "晴25℃ 天气好，狠洗了两床被单被套。网购的两套希望今天能收到。 2 达州",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5275217809375738"
+          },
+          {
+            "item_id": "被单_2",
+            "source": "corpus",
+            "text": "最勤奋的一天 洗衣服换被单扫地 结果衣服里面又忘记掏卫生纸了 白忙一场 明天又要重洗",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275339397794838"
+          },
+          {
+            "item_id": "被单_3",
+            "source": "corpus",
+            "text": "发明被单自制狗窝的简直是天才",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5232106437348651"
+          },
+          {
+            "item_id": "被单_4",
+            "source": "corpus",
+            "text": "周末洗衣洗被单大扫除做饭 打工人的规律生活回来了",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5274259712907254"
+          },
+          {
+            "item_id": "被单_5",
+            "source": "corpus",
+            "text": "准备重启微信公众号，欢迎大家关注 晚上拖了拖地，换了新的被单被套，小窝还挺舒适 2 北京·清华大学双清公寓",
+            "target_start": 28,
+            "target_end": 30,
+            "post_id": "5273608341685492"
+          },
+          {
+            "item_id": "被单_8",
+            "source": "corpus",
+            "text": "这被单也太漂亮了吧",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5272440725833852"
+          },
+          {
+            "item_id": "被单_10",
+            "source": "corpus",
+            "text": "酒店的被单，都是这么大型洗衣机洗的。",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5272396622730601"
+          },
+          {
+            "item_id": "被单_16",
+            "source": "corpus",
+            "text": "大干皮+懒人真的很适合在南方生活，洗完脸很久不护肤也不觉得绷，甚至可以洗完脸直接拍一个水！ 缺点就是睡的被单也潮潮的 此时此刻在大西北的我：水、油、霜全部齐活才有安全感",
+            "target_start": 52,
+            "target_end": 54,
+            "post_id": "5275803203930476"
+          },
+          {
+            "item_id": "被单_20",
+            "source": "corpus",
+            "text": "长期从事脑力劳动的人 会非常沉迷简单的体力劳动 比如 我 此刻 吸干净了 俩床被子 一个被单 2个枕头和所有的毛绒玩具 一个字 爽",
+            "target_start": 44,
+            "target_end": 46,
+            "post_id": "5275790914882877"
+          },
+          {
+            "item_id": "被单_23",
+            "source": "corpus",
+            "text": "唉。好讨厌来月经，要随时随刻担心会不会露出来，会不会弄脏裤子和被单，弄脏了能不能洗干净，要忍受肚子痛，连情绪也变得更容易波动",
+            "target_start": 31,
+            "target_end": 33,
+            "post_id": "5275787026500878"
+          },
+          {
+            "item_id": "被单_42",
+            "source": "corpus",
+            "text": "我是被单我可以作证// :我可以作证 我是枕头",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275768493970552"
+          },
+          {
+            "item_id": "被单_46",
+            "source": "corpus",
+            "text": "成熟就是越长大越孤单吧 以前季节更替是妈妈给我换被单 洗衣服 如今是我给她换被单 洗羽绒服了 她总说我拿不动了 洗不动了 听着会很心酸 不敢去想 她也一天天的老去 而我也总想尽自己最大的努力去保护好他们",
+            "target_start": 24,
+            "target_end": 26,
+            "post_id": "5275760186890663"
+          },
+          {
+            "item_id": "被单_49",
+            "source": "corpus",
+            "text": "为了抢明天楼顶晒被单的位置，我今晚就把四件套洗了晾楼顶去！！！",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275746344899305"
+          }
+        ]
+      },
+      {
+        "cluster_id": 4,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "有个业务突然莫名翻红 小姐姐本来以为自己已过气 结果被单量冲了个跟头 梅花山你继续保持"
+        ],
+        "items": [
+          {
+            "item_id": "被单_41",
+            "source": "corpus",
+            "text": "有个业务突然莫名翻红 小姐姐本来以为自己已过气 结果被单量冲了个跟头 梅花山你继续保持",
+            "target_start": 26,
+            "target_end": 28,
+            "post_id": "5275771618985592"
+          }
+        ]
+      }
+    ]
+  }
+}

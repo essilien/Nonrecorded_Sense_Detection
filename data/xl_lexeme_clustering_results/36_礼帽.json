@@ -1,0 +1,204 @@
+{
+  "word": "礼帽",
+  "meaning": "礼服搭配的正式帽子",
+  "prep_stats": {
+    "word": "礼帽",
+    "meaning": "礼服搭配的正式帽子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 15
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 19,
+        "n_anchor": 5,
+        "n_corpus": 14,
+        "examples": [
+          "男士参加颁奖典礼时，头上戴着一顶精致的礼帽，显得庄重而得体。",
+          "她在一个老式舞会上遇到了一位身着燕尾服的男士，男士的礼帽在灯光下闪烁着光芒。",
+          "他的祖父留给他的那顶礼帽已经有些破旧了，但他还是喜欢带着它出席一些重要的场合。",
+          "婚礼进行曲响起，新娘在父亲的陪伴下缓缓走来，她头上的礼帽与她的婚纱完美呼应。",
+          "他偶尔会在周末的咖啡馆里戴上礼帽，仿佛时间倒流到了那个复古的时代。"
+        ],
+        "items": [
+          {
+            "item_id": "礼帽_anchor_1",
+            "source": "anchor",
+            "text": "男士参加颁奖典礼时，头上戴着一顶精致的礼帽，显得庄重而得体。",
+            "target_start": 19,
+            "target_end": 21
+          },
+          {
+            "item_id": "礼帽_anchor_2",
+            "source": "anchor",
+            "text": "她在一个老式舞会上遇到了一位身着燕尾服的男士，男士的礼帽在灯光下闪烁着光芒。",
+            "target_start": 26,
+            "target_end": 28
+          },
+          {
+            "item_id": "礼帽_anchor_3",
+            "source": "anchor",
+            "text": "他的祖父留给他的那顶礼帽已经有些破旧了，但他还是喜欢带着它出席一些重要的场合。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "礼帽_anchor_4",
+            "source": "anchor",
+            "text": "婚礼进行曲响起，新娘在父亲的陪伴下缓缓走来，她头上的礼帽与她的婚纱完美呼应。",
+            "target_start": 26,
+            "target_end": 28
+          },
+          {
+            "item_id": "礼帽_anchor_5",
+            "source": "anchor",
+            "text": "他偶尔会在周末的咖啡馆里戴上礼帽，仿佛时间倒流到了那个复古的时代。",
+            "target_start": 14,
+            "target_end": 16
+          },
+          {
+            "item_id": "礼帽_2",
+            "source": "corpus",
+            "text": "一顶礼帽从无到有的制作过程，不得不感叹手艺人的实力啊！",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5272475716028794"
+          },
+          {
+            "item_id": "礼帽_4",
+            "source": "corpus",
+            "text": "新买的小礼帽 又喜欢了",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5272851678760518"
+          },
+          {
+            "item_id": "礼帽_5",
+            "source": "corpus",
+            "text": "很有“礼帽”的allblack～🎩",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5256836215474167"
+          },
+          {
+            "item_id": "礼帽_6",
+            "source": "corpus",
+            "text": "收到此礼帽实物图片第一时间我就把这个微博下回来了，必须狠狠展示啊我日，神的孩子在做礼帽啊！！！😭",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5272125147450281"
+          },
+          {
+            "item_id": "礼帽_7",
+            "source": "corpus",
+            "text": "千辛万苦叠好这个礼帽顶然后发现东西还没放进去 从下面开膛破肚了一下（",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5271659946972784"
+          },
+          {
+            "item_id": "礼帽_10",
+            "source": "corpus",
+            "text": "礼帽 素材参考",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5270919162629204"
+          },
+          {
+            "item_id": "礼帽_15",
+            "source": "corpus",
+            "text": "第一次看到沛恩带礼帽的造型。 好帅～",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275789983225255"
+          },
+          {
+            "item_id": "礼帽_17",
+            "source": "corpus",
+            "text": "黑礼帽第七关卡两个多月了恋与深空再也不见",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275786255009489"
+          },
+          {
+            "item_id": "礼帽_30",
+            "source": "corpus",
+            "text": "观察低裆裤礼帽老头👖🎩",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275728159181225"
+          },
+          {
+            "item_id": "礼帽_32",
+            "source": "corpus",
+            "text": "我在和平精英活动中抽到了林地窄边礼帽（3天），点击链接参与活动有机会获得更多精美皮肤和现金奖励！ O 和平精英丝路贺新春活动开启！",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275724946609519"
+          },
+          {
+            "item_id": "礼帽_39",
+            "source": "corpus",
+            "text": "哎哟我去 礼帽出行感觉要把我颠出车外了",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275676318108724"
+          },
+          {
+            "item_id": "礼帽_40",
+            "source": "corpus",
+            "text": "翻到我去年十月份才发现那个有有礼帽版本和没礼帽版本…我个大傻福",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275675860927097"
+          },
+          {
+            "item_id": "礼帽_45",
+            "source": "corpus",
+            "text": "今晚鹏儿加班，我先回去收收衣服，洗个大澡（四天没洗头了，预制下周六的赏花穿搭:衬衫+爱丽丝蓝色jsk+蓝色小礼帽+鹅黄色开衫+蓝色大脸包+蓝色lo鞋+蓝色团扇",
+            "target_start": 54,
+            "target_end": 56,
+            "post_id": "5275649902382501"
+          },
+          {
+            "item_id": "礼帽_46",
+            "source": "corpus",
+            "text": "芭蕾兔、紫藤、绿葡萄园一个都没抢上一团二团 赫伦玫瑰11月意向金，现在定金都没出 是要从摘棉花开始做裙子吗 想着买个梗豆算了 虽然我衣柜开衫+衬衣已经多如牛毛 结果开衫售空 行吧行吧 黑色芭蕾兔好萌！ 畅想自己带着兔耳礼帽 帅气！ （实际排到了九团、、后年都说不定穿不上",
+            "target_start": 109,
+            "target_end": 111,
+            "post_id": "5275649787040294"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "所有人一人一句礼帽牛逼克拉斯"
+        ],
+        "items": [
+          {
+            "item_id": "礼帽_11",
+            "source": "corpus",
+            "text": "所有人一人一句礼帽牛逼克拉斯",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275809833025810"
+          }
+        ]
+      }
+    ]
+  }
+}

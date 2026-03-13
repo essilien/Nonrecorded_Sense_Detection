@@ -1,0 +1,310 @@
+{
+  "word": "门禁",
+  "meaning": "出入控制设施或制度",
+  "prep_stats": {
+    "word": "门禁",
+    "meaning": "出入控制设施或制度",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 30,
+        "n_anchor": 5,
+        "n_corpus": 25,
+        "examples": [
+          "公司大门设有门禁，员工需刷脸通过才能进出。",
+          "小区的入口装了电子门禁，居民进出都要扫码验证。",
+          "小王忘了拿门禁卡，只好向保安求助打开门。",
+          "学校图书馆实行门禁制度，每天都有专门的值班老师检查学生证件。",
+          "商务大楼的电梯旁也设置了门禁，只有会员才能乘坐。"
+        ],
+        "items": [
+          {
+            "item_id": "门禁_anchor_1",
+            "source": "anchor",
+            "text": "公司大门设有门禁，员工需刷脸通过才能进出。",
+            "target_start": 6,
+            "target_end": 8
+          },
+          {
+            "item_id": "门禁_anchor_2",
+            "source": "anchor",
+            "text": "小区的入口装了电子门禁，居民进出都要扫码验证。",
+            "target_start": 9,
+            "target_end": 11
+          },
+          {
+            "item_id": "门禁_anchor_3",
+            "source": "anchor",
+            "text": "小王忘了拿门禁卡，只好向保安求助打开门。",
+            "target_start": 5,
+            "target_end": 7
+          },
+          {
+            "item_id": "门禁_anchor_4",
+            "source": "anchor",
+            "text": "学校图书馆实行门禁制度，每天都有专门的值班老师检查学生证件。",
+            "target_start": 7,
+            "target_end": 9
+          },
+          {
+            "item_id": "门禁_anchor_5",
+            "source": "anchor",
+            "text": "商务大楼的电梯旁也设置了门禁，只有会员才能乘坐。",
+            "target_start": 12,
+            "target_end": 14
+          },
+          {
+            "item_id": "门禁_1",
+            "source": "corpus",
+            "text": "租了个房子，入住后才知道小区有门禁，像学校宿舍一样的门禁",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5273844920878135"
+          },
+          {
+            "item_id": "门禁_3",
+            "source": "corpus",
+            "text": "【吐槽】真的搞不懂为什么周末还要有门禁。。 导员批假堪比申请美签。去看个演唱会超过11点还要在外面住一晚上酒店",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5274136299705208"
+          },
+          {
+            "item_id": "门禁_6",
+            "source": "corpus",
+            "text": "我们安装门禁的时候真的会忽略这个细节，破碎开关真的好重要",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5259684731947128"
+          },
+          {
+            "item_id": "门禁_8",
+            "source": "corpus",
+            "text": "iphone手机可以成功添加小区门禁卡， 加密也可以写入 O",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5269875439173924"
+          },
+          {
+            "item_id": "门禁_15",
+            "source": "corpus",
+            "text": "尴尬了，今天从胖东来回郑州，到小区门口发现识别不了门禁，才发现车牌已经被雪给糊严了。话说，这算故意遮挡车牌吗？",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5271771932787592"
+          },
+          {
+            "item_id": "门禁_17",
+            "source": "corpus",
+            "text": "幸好学校有门禁，不然每天晚上饿成这样得吃外卖吃成大肥猪",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275812269917646"
+          },
+          {
+            "item_id": "门禁_19",
+            "source": "corpus",
+            "text": "20块钱买的校园门禁卡，毕业了送还还能退钱回来 于是每天都能收集早晚4张照片。送着送着就长大了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275807834441554"
+          },
+          {
+            "item_id": "门禁_21",
+            "source": "corpus",
+            "text": "晚上带小朋友去拿快递， 出了电梯她很快跑去开门禁的锁， 我以为她够不到， 开完后她自己说， 小宝贝长大了。",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275805899034306"
+          },
+          {
+            "item_id": "门禁_22",
+            "source": "corpus",
+            "text": "告诉我 小区门禁除了挡住快递员外卖员和双手抱满东西腾不出手的业主还有个什么几把用。",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275805539109055"
+          },
+          {
+            "item_id": "门禁_23",
+            "source": "corpus",
+            "text": "近期门禁状态一览 2 南京·南京理工大学",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275801139286356"
+          },
+          {
+            "item_id": "门禁_24",
+            "source": "corpus",
+            "text": "大学到底为什么要有门禁",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275797304639672"
+          },
+          {
+            "item_id": "门禁_27",
+            "source": "corpus",
+            "text": "卡着门禁最后8分钟进的校门。",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275786726607481"
+          },
+          {
+            "item_id": "门禁_29",
+            "source": "corpus",
+            "text": "十分幸运…… 一出地铁手机就没电了，绝望地步行回去，结果步行二十分钟到楼下刚好遇到邻居打开门禁",
+            "target_start": 45,
+            "target_end": 47,
+            "post_id": "5275781334044629"
+          },
+          {
+            "item_id": "门禁_32",
+            "source": "corpus",
+            "text": "今天提前10分钟赶上门禁了 那我这一路上急个集贸啊",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275777820265007"
+          },
+          {
+            "item_id": "门禁_33",
+            "source": "corpus",
+            "text": "卡门禁回寝室然后发现一只肚子饿饿咪更是卡着门禁冲下去送饭了！",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275775901106382"
+          },
+          {
+            "item_id": "门禁_35",
+            "source": "corpus",
+            "text": "跟舍友馋那两口羊肉串于是门禁前十五分钟极限去倒垃圾然后买完飞奔回来。",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275774148939278"
+          },
+          {
+            "item_id": "门禁_36",
+            "source": "corpus",
+            "text": "学校门禁为什么不能是12. 我好崩溃 有没有想过自己离in77有多远",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275774145791537"
+          },
+          {
+            "item_id": "门禁_37",
+            "source": "corpus",
+            "text": "呃，才想起来今天是星期四，这个点上不了号了，该死的奥比门禁",
+            "target_start": 27,
+            "target_end": 29,
+            "post_id": "5275772358237838"
+          },
+          {
+            "item_id": "门禁_38",
+            "source": "corpus",
+            "text": "第一次占领教室外面的小圆桌。我要看看二教关门之后长什么样。花了我15块买门禁NFC呢。不会有人赶我走吧👉👈",
+            "target_start": 36,
+            "target_end": 38,
+            "post_id": "5275772152974585"
+          },
+          {
+            "item_id": "门禁_39",
+            "source": "corpus",
+            "text": "我导师对我来说起到一个门禁卡的作用，没有他，我进不来这个学校，但是我进来以后，这个门禁卡就也没啥作用了",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275771243335363"
+          },
+          {
+            "item_id": "门禁_40",
+            "source": "corpus",
+            "text": "嗯嗯开次开次 其实我学校没有门禁一说 但是由于我的老年人作息很少这个点还在外面玩 偶尔出去玩一次尊的好爽 上学的时候除了在学校在哪都开心",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5275771024446294"
+          },
+          {
+            "item_id": "门禁_44",
+            "source": "corpus",
+            "text": "十点钟闪现嘉定有一种赶th门禁的错觉",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275768419523467"
+          },
+          {
+            "item_id": "门禁_45",
+            "source": "corpus",
+            "text": "化妆上班的目的是顺利通过每一个扫脸门禁…",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275766445312815"
+          },
+          {
+            "item_id": "门禁_47",
+            "source": "corpus",
+            "text": "赶门禁回去的打车费用真是惊为天人，但看到蛋白霜裁缝铺被quote感觉一切都值了，导师Don Juan牛逼，蛋白霜裁缝铺牛逼",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275762128846970"
+          },
+          {
+            "item_id": "门禁_49",
+            "source": "corpus",
+            "text": "下课后，在小区门口遇到一对小情侣，骑着电动车来我们小区领养小猫，没有门禁卡也不知道楼号，问了之后发现要找的目的地就在我家楼上。 感觉到了他们的幸福，于是我主动给他们拍了张合照，祝久久",
+            "target_start": 34,
+            "target_end": 36,
+            "post_id": "5275759040012727"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 3,
+        "n_anchor": 0,
+        "n_corpus": 3,
+        "examples": [
+          "这个方法真的好用！苹果手机终于能添加门禁卡了 再也不用到处翻门禁了",
+          "啊？！可以了吗？？？谁来教教我？？？我天天带着个安卓副机刷门禁老费劲了",
+          "刚看了个视频，说的就是手机添加的门禁卡安全性几乎为零。不知道这种加密的安不安全 。在我看来，只有是随意就可以复制的，感觉安全性估计也不高，一些懂点技术的估计也能轻易复制。"
+        ],
+        "items": [
+          {
+            "item_id": "门禁_2",
+            "source": "corpus",
+            "text": "这个方法真的好用！苹果手机终于能添加门禁卡了 再也不用到处翻门禁了",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5270339740503976"
+          },
+          {
+            "item_id": "门禁_11",
+            "source": "corpus",
+            "text": "啊？！可以了吗？？？谁来教教我？？？我天天带着个安卓副机刷门禁老费劲了",
+            "target_start": 29,
+            "target_end": 31,
+            "post_id": "5270327152354751"
+          },
+          {
+            "item_id": "门禁_12",
+            "source": "corpus",
+            "text": "刚看了个视频，说的就是手机添加的门禁卡安全性几乎为零。不知道这种加密的安不安全 。在我看来，只有是随意就可以复制的，感觉安全性估计也不高，一些懂点技术的估计也能轻易复制。",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5270355527599936"
+          }
+        ]
+      }
+    ]
+  }
+}

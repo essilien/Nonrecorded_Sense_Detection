@@ -1,0 +1,311 @@
+{
+  "word": "拖鞋",
+  "meaning": "室内穿的轻便鞋子",
+  "prep_stats": {
+    "word": "拖鞋",
+    "meaning": "室内穿的轻便鞋子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 30
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 35,
+        "n_anchor": 5,
+        "n_corpus": 30,
+        "examples": [
+          "回到家，他脱下皮靴换上了拖鞋，感觉轻松多了。",
+          "办公室里人来人往，她习惯性地在门口换上柔软的拖鞋。",
+          "天气变冷了，小明回家时习惯先脱下高跟鞋换上舒适的拖鞋。",
+          "妈妈总是提醒我们要在进家门前把鞋换成拖鞋，以免弄脏地毯。",
+          "下班后，她总喜欢光着脚丫，趿拉着拖鞋走在回家的路上。"
+        ],
+        "items": [
+          {
+            "item_id": "拖鞋_anchor_1",
+            "source": "anchor",
+            "text": "回到家，他脱下皮靴换上了拖鞋，感觉轻松多了。",
+            "target_start": 12,
+            "target_end": 14
+          },
+          {
+            "item_id": "拖鞋_anchor_2",
+            "source": "anchor",
+            "text": "办公室里人来人往，她习惯性地在门口换上柔软的拖鞋。",
+            "target_start": 22,
+            "target_end": 24
+          },
+          {
+            "item_id": "拖鞋_anchor_3",
+            "source": "anchor",
+            "text": "天气变冷了，小明回家时习惯先脱下高跟鞋换上舒适的拖鞋。",
+            "target_start": 24,
+            "target_end": 26
+          },
+          {
+            "item_id": "拖鞋_anchor_4",
+            "source": "anchor",
+            "text": "妈妈总是提醒我们要在进家门前把鞋换成拖鞋，以免弄脏地毯。",
+            "target_start": 18,
+            "target_end": 20
+          },
+          {
+            "item_id": "拖鞋_anchor_5",
+            "source": "anchor",
+            "text": "下班后，她总喜欢光着脚丫，趿拉着拖鞋走在回家的路上。",
+            "target_start": 16,
+            "target_end": 18
+          },
+          {
+            "item_id": "拖鞋_2",
+            "source": "corpus",
+            "text": "【古力娜扎】👠：白色拖鞋",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275294107700032"
+          },
+          {
+            "item_id": "拖鞋_3",
+            "source": "corpus",
+            "text": "拖鞋界的先锋，不但要时尚还要实用！",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275216832103302"
+          },
+          {
+            "item_id": "拖鞋_4",
+            "source": "corpus",
+            "text": "看我买的可爱拖鞋 还有大头包也到啦 哈哈😛",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275746772719305"
+          },
+          {
+            "item_id": "拖鞋_5",
+            "source": "corpus",
+            "text": "抽两双拖鞋。 不值钱哈，主要是放在店里占地方 评论里抽，不嫌弃的评哦。 O 详情",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5274890687219340"
+          },
+          {
+            "item_id": "拖鞋_7",
+            "source": "corpus",
+            "text": "4双夏季家居拖鞋分享，好看好穿超平价！ 今年选的拖鞋比去年更好看啦，外出穿的、在家穿的都有！而且都是EVA材质，不发臭的，看看有你喜欢的吗？",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "4889657206112350"
+          },
+          {
+            "item_id": "拖鞋_8",
+            "source": "corpus",
+            "text": "家里只有男人，视觉效应应该真的会很差。刚才一不小心看到地上一大片灰灰蓝蓝的难看东西，仔细一看只不过是儿子和老公的拖鞋放在一起而已。这还只是两双，要是三双四双五双，不就跟进了男澡堂子一样。 想想要是个女孩，白白粉粉的拖鞋就不会是这种效果。",
+            "target_start": 56,
+            "target_end": 58,
+            "post_id": "5275403167728909"
+          },
+          {
+            "item_id": "拖鞋_9",
+            "source": "corpus",
+            "text": "哈哈哈哈哈哈哈他拖鞋被洗坏了哈哈哈哈散架了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275003537851512"
+          },
+          {
+            "item_id": "拖鞋_10",
+            "source": "corpus",
+            "text": "也是在巨人家穿上刚从hk买的地雷女最爱这个逆天donki企鹅拖鞋了",
+            "target_start": 30,
+            "target_end": 32,
+            "post_id": "5275683141714478"
+          },
+          {
+            "item_id": "拖鞋_11",
+            "source": "corpus",
+            "text": "我为什么要在🫘上和装睡的驴说话，被驴缠身了好无力，非半天唾沫理解能力比不上一只未成年拖鞋",
+            "target_start": 42,
+            "target_end": 44,
+            "post_id": "5275814446760039"
+          },
+          {
+            "item_id": "拖鞋_13",
+            "source": "corpus",
+            "text": "今日推荐id:福原多闻的拖鞋",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275813541053069"
+          },
+          {
+            "item_id": "拖鞋_17",
+            "source": "corpus",
+            "text": "我室友的拖鞋走路声音像章鱼哥",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275812186292917"
+          },
+          {
+            "item_id": "拖鞋_18",
+            "source": "corpus",
+            "text": "我这辈子绝对不会干把朋友变成暧昧对象甚至恋人这种蠢事 我的每一个朋友都是我用心珍惜好好经营来的个个都特别珍贵 就算有一天世界上只剩我们两个人我也绝不会和她们谈恋爱就是这种底线 真的搞不懂为什么有人就这么耐不住寂寞非要把好好的朋友变成对象 寂寞了痒了就拿拖鞋自己拍一拍别霍霍朋友",
+            "target_start": 126,
+            "target_end": 128,
+            "post_id": "5275811898720865"
+          },
+          {
+            "item_id": "拖鞋_19",
+            "source": "corpus",
+            "text": "时隔两年，我终于又干回我喜欢的工作了，可以上班听歌，可以上班穿拖鞋，可以迟到，无拘无束，作图虽然累，但是成就感满满，非常感谢半年前勇敢的自己",
+            "target_start": 31,
+            "target_end": 33,
+            "post_id": "5275811752182892"
+          },
+          {
+            "item_id": "拖鞋_20",
+            "source": "corpus",
+            "text": "小咪，你真牛福！每天就抓抓窗帘挠挠拖鞋，谁都不敢惹你！你太酷了我要向你学习！",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275811695298615"
+          },
+          {
+            "item_id": "拖鞋_21",
+            "source": "corpus",
+            "text": "午盘时间，大盘横盘为主，试图回到$670上方。消息面上传出胡塞拖鞋军炸了一条油轮，红海现在也变得不安全了。负面消息没有让大盘继续下台阶。坚持到下午2：30左右，下午就可望反弹。",
+            "target_start": 31,
+            "target_end": 33,
+            "post_id": "5275811538272805"
+          },
+          {
+            "item_id": "拖鞋_23",
+            "source": "corpus",
+            "text": "260312 ppnaravit Fame‘ 拖鞋ver",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275770832291128"
+          },
+          {
+            "item_id": "拖鞋_26",
+            "source": "corpus",
+            "text": "买了鲷鱼烧拖鞋好喜欢 ！！",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275765576043380"
+          },
+          {
+            "item_id": "拖鞋_29",
+            "source": "corpus",
+            "text": "穿着拖鞋睡衣出去和某人打游戏",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275808065128179"
+          },
+          {
+            "item_id": "拖鞋_30",
+            "source": "corpus",
+            "text": "准备一次复试才知道自己有多差 我的学习能力和自制力堪比一只蓝色小狗毛绒拖鞋。",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5275807766286071"
+          },
+          {
+            "item_id": "拖鞋_31",
+            "source": "corpus",
+            "text": "前天 和小殷一人顶个大油头 穿着起球的毛衣在商场里吃饭 碰到了粉丝姐妹 今天 我头发乱糟糟 随便套了个羽绒服 小殷身穿睡衣 棉拖鞋 去银行 碰到了粉丝姐妹 每次打扮的漂亮怎么都没和姐妹相遇",
+            "target_start": 63,
+            "target_end": 65,
+            "post_id": "5275807037785936"
+          },
+          {
+            "item_id": "拖鞋_33",
+            "source": "corpus",
+            "text": "重庆吃的7788 重庆太好吃的太多了 就是这肠和胃受不了 受不了也吃 先吃了再说 再睡个5小时就起床去机场回家咯 我的小百万又想我了 躺在我的拖鞋上 好想抱抱我的小狗宝",
+            "target_start": 71,
+            "target_end": 73,
+            "post_id": "5275805693248504"
+          },
+          {
+            "item_id": "拖鞋_35",
+            "source": "corpus",
+            "text": "小细节上总是为自己感到不值得 因为有你早点回家 因为怕你凉到拖鞋给你穿 但这些不知道你有没有为我想过",
+            "target_start": 30,
+            "target_end": 32,
+            "post_id": "5275805007744037"
+          },
+          {
+            "item_id": "拖鞋_38",
+            "source": "corpus",
+            "text": "姐姐 ，想做姐姐的猫，想做姐姐的狗，想做姐姐睡觉怀里抱的抱枕，再不成，做姐姐洗澡时候穿的拖鞋也行啊🥺",
+            "target_start": 44,
+            "target_end": 46,
+            "post_id": "5275802704021725"
+          },
+          {
+            "item_id": "拖鞋_39",
+            "source": "corpus",
+            "text": "什么小笨蛋快去睡觉吧，我要笑死了，中文说得感觉喉咙里卡了个拖鞋",
+            "target_start": 29,
+            "target_end": 31,
+            "post_id": "5275802671253773"
+          },
+          {
+            "item_id": "拖鞋_40",
+            "source": "corpus",
+            "text": "18分钟碾压式的3:0获胜我不知道失误在哪，可能唯一的失误就是我的拖鞋没出现在你们这些媒体的脸上吧",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5275802644253743"
+          },
+          {
+            "item_id": "拖鞋_42",
+            "source": "corpus",
+            "text": "喜欢这种天气，光脚穿拖鞋不会冷",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275802393379269"
+          },
+          {
+            "item_id": "拖鞋_46",
+            "source": "corpus",
+            "text": "然后薄薄出门前对着两只右脚愣了半响心想有时早上起来发现床边的拖鞋总是乱了位置，估计也是挂挂半夜起来穿上两只就去厕所了，也不分左右不分是谁的// :很可能还是一只脚穿了左脚的粉色闪光雷霆鞋另一只脚也穿的是左脚鞋然而是自己的黑色性冷淡风",
+            "target_start": 30,
+            "target_end": 32,
+            "post_id": "5275800549198913"
+          },
+          {
+            "item_id": "拖鞋_48",
+            "source": "corpus",
+            "text": "260312 cr.ppnaravit 【X】更新银硕相关 Fame .ver 拖鞋也能跳的很好👍",
+            "target_start": 40,
+            "target_end": 42,
+            "post_id": "5275797377516652"
+          },
+          {
+            "item_id": "拖鞋_49",
+            "source": "corpus",
+            "text": "脚逛废来买拖鞋了 puff好好好好好好好好穿 只要200+",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275797168587466"
+          },
+          {
+            "item_id": "拖鞋_50",
+            "source": "corpus",
+            "text": "不化妆穿着小裙子拖鞋出去玩🍃最舒适的状态",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275756806801001"
+          }
+        ]
+      }
+    ]
+  }
+}

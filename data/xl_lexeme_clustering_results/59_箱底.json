@@ -1,0 +1,316 @@
+{
+  "word": "箱底",
+  "meaning": "箱子底部",
+  "prep_stats": {
+    "word": "箱底",
+    "meaning": "箱子底部",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 29
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 33,
+        "n_anchor": 5,
+        "n_corpus": 28,
+        "examples": [
+          "箱底的灰尘被他轻轻拂去，露出了里面的好几本书。",
+          "妈妈说要把那些压箱底的旧照片翻出来看看，回忆起以前的事情。",
+          "打开那个大箱子，发现箱底居然还藏着一个小小的信封。",
+          "她小心翼翼地把那些尘封已久的信件从箱底翻了出来。",
+          "他经常在翻箱倒柜后，在箱底找到一些有趣的旧物件。"
+        ],
+        "items": [
+          {
+            "item_id": "箱底_anchor_1",
+            "source": "anchor",
+            "text": "箱底的灰尘被他轻轻拂去，露出了里面的好几本书。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "箱底_anchor_2",
+            "source": "anchor",
+            "text": "妈妈说要把那些压箱底的旧照片翻出来看看，回忆起以前的事情。",
+            "target_start": 8,
+            "target_end": 10
+          },
+          {
+            "item_id": "箱底_anchor_3",
+            "source": "anchor",
+            "text": "打开那个大箱子，发现箱底居然还藏着一个小小的信封。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "箱底_anchor_4",
+            "source": "anchor",
+            "text": "她小心翼翼地把那些尘封已久的信件从箱底翻了出来。",
+            "target_start": 17,
+            "target_end": 19
+          },
+          {
+            "item_id": "箱底_anchor_5",
+            "source": "anchor",
+            "text": "他经常在翻箱倒柜后，在箱底找到一些有趣的旧物件。",
+            "target_start": 11,
+            "target_end": 13
+          },
+          {
+            "item_id": "箱底_2",
+            "source": "corpus",
+            "text": "薅出我真压箱底的毛衣。",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5273580197646502"
+          },
+          {
+            "item_id": "箱底_5",
+            "source": "corpus",
+            "text": "更新：伊朗伊斯兰革命卫队发布第32号公告，通报“真实承诺4”第39波打击行动战报。——革命卫队发射“卡德尔”、“霍拉姆沙赫尔-4”、“伊玛德”导弹，对海湾地区的美军基地“实施了毁灭性打击”。 拿压箱底的东西出来了？难怪油又涨了。",
+            "target_start": 98,
+            "target_end": 100,
+            "post_id": "5275557680123398"
+          },
+          {
+            "item_id": "箱底_7",
+            "source": "corpus",
+            "text": "好的东西总是压箱底的 我想…我应该也是吧",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275020079400147"
+          },
+          {
+            "item_id": "箱底_10",
+            "source": "corpus",
+            "text": "NRG零封PRX了，还帮AG打出了PRX藏的两套压箱底的变阵！但PRX有可能会逃课换回联赛阵容！",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5274958131627618"
+          },
+          {
+            "item_id": "箱底_11",
+            "source": "corpus",
+            "text": "发了几条消息 像把压在箱底的信抽出来晒了晒月光 思念是倒出来一点了 但也知道 倒出来的就不算藏着了 过去很好 所以不用忘 往前走也很好 所以不停 风往哪吹 我就往哪走 店还在那里 但我不进去了",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275806890722489"
+          },
+          {
+            "item_id": "箱底_13",
+            "source": "corpus",
+            "text": "昨天和今天有好多幸运时刻哦！急匆匆出门赶车以为自己没带身份证其实在口袋里，上车发现手机忘充电了充电宝就在包里，以为没带的隐形眼镜也就在包里，票位置在最后面但是我窜去第二排了，出地铁迷路了🍠搜到了指路还不用重新进站就找到口了，泡火鸡面以为盒装没筷子结果在快递箱底发现了有！",
+            "target_start": 128,
+            "target_end": 130,
+            "post_id": "5275805072491778"
+          },
+          {
+            "item_id": "箱底_16",
+            "source": "corpus",
+            "text": "你敲了敲冰箱门，我便从冷冻室里爬了出来，我找出那只压在箱底的、前年为你买的、有着好看花纹的餐盘，守着它静静地躺着等你。可是，可是你去了哪里呀，我都要化了也没等到你啊。有风从窗棂间吹进来，我看了看窗外，外面好像已经是春天了呢。春天是危险的季节。我收起餐盘，又默默地钻回到了冷冻室。",
+            "target_start": 27,
+            "target_end": 29,
+            "post_id": "5275799867626332"
+          },
+          {
+            "item_id": "箱底_18",
+            "source": "corpus",
+            "text": "家里没有下酒小零食了 不得不拿出我的压箱底 妈妈手剥的花生米 满满一口袋 只因为我说我想喝花生稀饭",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275794236508585"
+          },
+          {
+            "item_id": "箱底_21",
+            "source": "corpus",
+            "text": "偶尔会翻出压箱底的裙子玩一下",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275788995729501"
+          },
+          {
+            "item_id": "箱底_24",
+            "source": "corpus",
+            "text": "目前我大禹的发育路用户体验感都还行呀...我现在要好好练他了奥...🐟和蔡蔡被禁的时候我终于有压箱底的英雄啦...哇咔咔",
+            "target_start": 48,
+            "target_end": 50,
+            "post_id": "5275784453298687"
+          },
+          {
+            "item_id": "箱底_25",
+            "source": "corpus",
+            "text": "男号有点意思。早知道不抽这期医院了。心如碎 完全压箱底",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275783870286812"
+          },
+          {
+            "item_id": "箱底_27",
+            "source": "corpus",
+            "text": "当很久没播放到的压箱底老歌突然和刷手机视频里的bgm对上真的很神奇",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275782465456580"
+          },
+          {
+            "item_id": "箱底_28",
+            "source": "corpus",
+            "text": "好的总是压箱底 我猜幸福也是.",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275781644158272"
+          },
+          {
+            "item_id": "箱底_31",
+            "source": "corpus",
+            "text": "好的总是压箱底 我想幸福也是",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275764787775132"
+          },
+          {
+            "item_id": "箱底_32",
+            "source": "corpus",
+            "text": "好想低价把压箱底的卡全部一把出了但又舍不得",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275760996648813"
+          },
+          {
+            "item_id": "箱底_33",
+            "source": "corpus",
+            "text": "对J人来说最大的崩溃莫过于掏出十年前买来一直压箱底的裙子准备出门，发现莫名其妙地有配件不见了……………………",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275760504086704"
+          },
+          {
+            "item_id": "箱底_35",
+            "source": "corpus",
+            "text": "冬天买的春装一次没穿过 压箱底好皱 今天翻衣柜发现 诶还有这套 有种如获至宝的感觉🤣 优衣库的这套好春天呐 喜欢喜欢等天气暖和了穿💐",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275753489109330"
+          },
+          {
+            "item_id": "箱底_37",
+            "source": "corpus",
+            "text": "《悄悄话》前奏一响，仿佛被星光裹挟着跌回那个夏天✨～ 感冒ing，用压箱底的《悄悄话》和你们重逢～愿这缕声音，悄悄酿成你心头一勺甜💕 嗓子正在休眠中，待它满血复活，再为你高歌✨",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5275743145691135"
+          },
+          {
+            "item_id": "箱底_39",
+            "source": "corpus",
+            "text": "可乐最近超迷《三国演义》，看绘本、听故事都选《三国演义》，还喜欢问我各种跟它有关的问题。 四大名著，我只看过《红楼梦》，眼看就跟她聊不到一起去了，只好把书柜里压箱底的一套《三国演义》拿出来看。 能看一点儿是一点儿吧 。",
+            "target_start": 80,
+            "target_end": 82,
+            "post_id": "5275736334403569"
+          },
+          {
+            "item_id": "箱底_40",
+            "source": "corpus",
+            "text": "翻出压箱底的老节目《越策越开心》！里面那位家喻户晓的主持人，还有那些让人笑到打鸣的笑星，各位都认得吧？",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275734006566987"
+          },
+          {
+            "item_id": "箱底_42",
+            "source": "corpus",
+            "text": "以牙还牙，伊朗动用压箱底顶尖导弹，精准击中以色列海法炼油厂 O 来自 …邪恶势力也有今天…！",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275731592480613"
+          },
+          {
+            "item_id": "箱底_43",
+            "source": "corpus",
+            "text": "主打情怀杀，盘点的三大平台经典剧确实都是耐刷的“压箱底”佳作，剧单虽经典却缺乏新意，不过能勾起观众怀旧情绪",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275729545664079"
+          },
+          {
+            "item_id": "箱底_44",
+            "source": "corpus",
+            "text": "突然连续卖出一条热门，一条温热，一条压箱底挂了三年无人问津的裙子…… 可见Lolita现在真的没啥好看的新款。 Lo不如故，旧Lo如新了【？】",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275728851763352"
+          },
+          {
+            "item_id": "箱底_45",
+            "source": "corpus",
+            "text": "ootd，友方赞助的六边形➕压箱底的nono稀",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275725487409163"
+          },
+          {
+            "item_id": "箱底_46",
+            "source": "corpus",
+            "text": "之前就想说了你们突开团真的量大管饱,,这次跟的团和之前收的周边我已经存了一个箱底了而且烫金拍立得包边色纸都好便宜 好漂亮 越说越想哭tjl你还我钱",
+            "target_start": 38,
+            "target_end": 40,
+            "post_id": "5275725418731125"
+          },
+          {
+            "item_id": "箱底_47",
+            "source": "corpus",
+            "text": "蓝锁啥时候能再火一波我要把压箱底的谷子都出了",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5275723255778344"
+          },
+          {
+            "item_id": "箱底_48",
+            "source": "corpus",
+            "text": "🔥十年老兵的肺腑之言，你过去是谁不重要，来到久御方，你可以重新定义你是谁，导师雨微九月份到现在组建一百多人的团队，压箱底的经验此刻正在分享中…",
+            "target_start": 58,
+            "target_end": 60,
+            "post_id": "5275715043328257"
+          },
+          {
+            "item_id": "箱底_49",
+            "source": "corpus",
+            "text": "黄紫绿白，四色琼瑶； 琢为葫芦，满堂福耀。 集齐四色葫芦， 纳福、禄、寿、喜入怀。 #压箱底",
+            "target_start": 44,
+            "target_end": 46,
+            "post_id": "5275711998789672"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "一图看懂：A股十二家唯一性医药龙头 今天把压箱底的… 戳我查看完整笔记>> O 更多 投资指南针 发布的笔记都在 ，立刻下载 App： O 应用详情"
+        ],
+        "items": [
+          {
+            "item_id": "箱底_36",
+            "source": "corpus",
+            "text": "一图看懂：A股十二家唯一性医药龙头 今天把压箱底的… 戳我查看完整笔记>> O 更多 投资指南针 发布的笔记都在 ，立刻下载 App： O 应用详情",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275744353914612"
+          }
+        ]
+      }
+    ]
+  }
+}

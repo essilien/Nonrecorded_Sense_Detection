@@ -1,0 +1,268 @@
+{
+  "word": "砂锅",
+  "meaning": "用砂土烧制的厚壁锅具，多用于炖煮",
+  "prep_stats": {
+    "word": "砂锅",
+    "meaning": "用砂土烧制的厚壁锅具，多用于炖煮",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 23
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 27,
+        "n_anchor": 5,
+        "n_corpus": 22,
+        "examples": [
+          "他特意选了一个砂锅炖老母鸡，味道鲜美极了。",
+          "为了做一道砂锅白菜，她提前在砂锅里加了足够的水。",
+          "妈妈用砂锅炖了一大锅牛肉，香气扑鼻，全家人都围过来抢着吃。",
+          "爸爸从老家带回来一个精致的砂锅，说是炖野菜的好帮手。",
+          "小红把砂锅里的鱼汤端上桌，一家人围着桌子边吃边聊着天。"
+        ],
+        "items": [
+          {
+            "item_id": "砂锅_anchor_1",
+            "source": "anchor",
+            "text": "他特意选了一个砂锅炖老母鸡，味道鲜美极了。",
+            "target_start": 7,
+            "target_end": 9
+          },
+          {
+            "item_id": "砂锅_anchor_2",
+            "source": "anchor",
+            "text": "为了做一道砂锅白菜，她提前在砂锅里加了足够的水。",
+            "target_start": 5,
+            "target_end": 7
+          },
+          {
+            "item_id": "砂锅_anchor_3",
+            "source": "anchor",
+            "text": "妈妈用砂锅炖了一大锅牛肉，香气扑鼻，全家人都围过来抢着吃。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "砂锅_anchor_4",
+            "source": "anchor",
+            "text": "爸爸从老家带回来一个精致的砂锅，说是炖野菜的好帮手。",
+            "target_start": 13,
+            "target_end": 15
+          },
+          {
+            "item_id": "砂锅_anchor_5",
+            "source": "anchor",
+            "text": "小红把砂锅里的鱼汤端上桌，一家人围着桌子边吃边聊着天。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "砂锅_1",
+            "source": "corpus",
+            "text": "今天下夜班，到现在才吃上今天的第一顿饭，吃点好的不过分吧！羊肉丸子砂锅＋凉菜＋大猪蹄子",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5275623421380104"
+          },
+          {
+            "item_id": "砂锅_2",
+            "source": "corpus",
+            "text": "这样做的砂锅鲈鱼，肉质鲜嫩，比红烧和清蒸都要好吃～",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275165854269636"
+          },
+          {
+            "item_id": "砂锅_3",
+            "source": "corpus",
+            "text": "用砂锅焗出来的八种神仙吃法﻿",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275259683213632"
+          },
+          {
+            "item_id": "砂锅_4",
+            "source": "corpus",
+            "text": "一家藏在菜场里的砂锅粉丝小馄饨 吃了很多年还是那个味道 灵魂是加辣加醋 老板自己熬的辣椒油太上头啦！ 2 无锡",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275504627156307"
+          },
+          {
+            "item_id": "砂锅_5",
+            "source": "corpus",
+            "text": "宁夏吴忠，特色沸腾砂锅，尝尝怎么样？",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5256136257176325"
+          },
+          {
+            "item_id": "砂锅_6",
+            "source": "corpus",
+            "text": "新买的砂锅不要直接用，容易开裂，学会这个开锅保养方法，用个几十年～",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275165521086820"
+          },
+          {
+            "item_id": "砂锅_8",
+            "source": "corpus",
+            "text": "天冷了，赶紧给家人做上一锅热乎乎的砂锅豆腐！有肉有菜，简单下饭，上桌连汤都抢光！",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5256362751953925"
+          },
+          {
+            "item_id": "砂锅_9",
+            "source": "corpus",
+            "text": "冬天就该来一锅胡椒砂锅鸡！暖乎乎一锅下肚，从胃暖到心，真的绝绝子！",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275073926660595"
+          },
+          {
+            "item_id": "砂锅_10",
+            "source": "corpus",
+            "text": "事实上砂锅对游牧民族没用，铁锅方便携带，砂锅磕碰就碎，而他们放牧追逐水草肥沃的地方，经常迁移，千百年的生活经验，他们自然知道哪个对自己更有利，你白送也没人要，都是累赘，更不要说拿羊来换",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275096186881971"
+          },
+          {
+            "item_id": "砂锅_13",
+            "source": "corpus",
+            "text": "火啫啫·粤式啫啫煲 在六楼想吃锅气十足的粤式美味？火啫啫粤式啫啫煲来啦！砂锅端上桌还在滋滋作响，生啫啫排骨酱香浓郁，排骨软烂脱骨；啫啫黄鳝鲜嫩入味，锅气十足。每一份啫啫煲都靠着砂锅的高温锁住食材鲜味，粤式的鲜香全在这一煲里！",
+            "target_start": 36,
+            "target_end": 38,
+            "post_id": "5275806843800108"
+          },
+          {
+            "item_id": "砂锅_14",
+            "source": "corpus",
+            "text": "马垅砂锅真的好好吃啊！！",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275805908468149"
+          },
+          {
+            "item_id": "砂锅_18",
+            "source": "corpus",
+            "text": "超级爱我的宝贝另一半呀 小孩上学都是他送去的晾衣服扫地拖地全包了 我睡醒了还专门做了美味可口的砂锅粥 在家里我什么都可以不用做 还会赚钱给我花超级疼我的 要越来越好顺顺利利",
+            "target_start": 47,
+            "target_end": 49,
+            "post_id": "5275803195015674"
+          },
+          {
+            "item_id": "砂锅_23",
+            "source": "corpus",
+            "text": "排骨汤爱好者一枚 砂锅炖出的排骨真的比高压锅炖的更好吃～",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275798824289207"
+          },
+          {
+            "item_id": "砂锅_29",
+            "source": "corpus",
+            "text": "昨晚的聚餐，深夜砂锅粥， 可惜没有能趁热吃， 口味应该就能刚好一些。",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275793607627205"
+          },
+          {
+            "item_id": "砂锅_30",
+            "source": "corpus",
+            "text": "初中毕业后就没吃过砂锅米线了 好怀念",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275793420978975"
+          },
+          {
+            "item_id": "砂锅_34",
+            "source": "corpus",
+            "text": "Daily blog | What I ate today 3.1 晚：小麻花 辣条 砂锅土豆粉13 今日消费：13",
+            "target_start": 43,
+            "target_end": 45,
+            "post_id": "5275792456030310"
+          },
+          {
+            "item_id": "砂锅_35",
+            "source": "corpus",
+            "text": "不知道是什么时候开始打破砂锅问到底不见黄河不死心。感觉自己变成了小时候意林里的人",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275792042626333"
+          },
+          {
+            "item_id": "砂锅_37",
+            "source": "corpus",
+            "text": "这个砂锅黄喉毛肚和铁板鲫鱼会再来十次 2 岳阳·肖有为烧烤小排档",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275790595589676"
+          },
+          {
+            "item_id": "砂锅_39",
+            "source": "corpus",
+            "text": "我爸爸这个大聪明，他把刚出锅的砂锅直接放在这个垫子上！好生气啊！把垫子烫出一个凹下去的圈，垫子都不好看了，所以我忍不住又把同款补上去了，毕竟每一个都那么可爱，怎么可以有一个坏掉呢，每个图案整整齐齐都在才行呢。",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275789029281778"
+          },
+          {
+            "item_id": "砂锅_40",
+            "source": "corpus",
+            "text": "说要在夏天来临之前完成减肥结果前天油泼辣子砂锅昨天火锅今天烙锅 还吃了巧克力蛋糕 罪恶至极",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5275788907905922"
+          },
+          {
+            "item_id": "砂锅_41",
+            "source": "corpus",
+            "text": "我是蜀王砂锅梦女 没人能懂多好吃",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275786748629676"
+          },
+          {
+            "item_id": "砂锅_45",
+            "source": "corpus",
+            "text": "Ok啊明天周五爽之 在公司楼下和喆发现了超好吃的砂锅麻酱土豆粉 还买到了喜欢的衣服 打算这个周末再继续逛合适的裤子 muji这个茉莉花味的洗发水我也是被一个帅哥安利的 没想到这么好闻这么好用我都想邀请每一个在青岛的朋友来我这儿洗头了",
+            "target_start": 24,
+            "target_end": 26,
+            "post_id": "5275782182341431"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "当遇到很没边界感的人， 总是问一些冒犯的问题， 穷追不舍的问，打破砂锅的问， 该如何diss呢！ 又不能完全撕破脸的那种（好无语啊"
+        ],
+        "items": [
+          {
+            "item_id": "砂锅_32",
+            "source": "corpus",
+            "text": "当遇到很没边界感的人， 总是问一些冒犯的问题， 穷追不舍的问，打破砂锅的问， 该如何diss呢！ 又不能完全撕破脸的那种（好无语啊",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5275792913204545"
+          }
+        ]
+      }
+    ]
+  }
+}

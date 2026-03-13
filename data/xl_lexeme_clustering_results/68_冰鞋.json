@@ -1,0 +1,215 @@
+{
+  "word": "冰鞋",
+  "meaning": "滑冰时穿的鞋，鞋底装有冰刀",
+  "prep_stats": {
+    "word": "冰鞋",
+    "meaning": "滑冰时穿的鞋，鞋底装有冰刀",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 23,
+        "n_anchor": 5,
+        "n_corpus": 18,
+        "examples": [
+          "他今天去溜冰，特意买了双新冰鞋。",
+          "冰鞋上的冰刀让他在冰上飞驰起来。",
+          "孩子们在冰场练习冰鞋技巧，个个滑得风生水起。",
+          "冰鞋是滑冰的重要装备，缺了它就没法滑冰了。",
+          "教练提醒小明别忘了把冰鞋上的护垫系好。"
+        ],
+        "items": [
+          {
+            "item_id": "冰鞋_anchor_1",
+            "source": "anchor",
+            "text": "他今天去溜冰，特意买了双新冰鞋。",
+            "target_start": 13,
+            "target_end": 15
+          },
+          {
+            "item_id": "冰鞋_anchor_2",
+            "source": "anchor",
+            "text": "冰鞋上的冰刀让他在冰上飞驰起来。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "冰鞋_anchor_3",
+            "source": "anchor",
+            "text": "孩子们在冰场练习冰鞋技巧，个个滑得风生水起。",
+            "target_start": 8,
+            "target_end": 10
+          },
+          {
+            "item_id": "冰鞋_anchor_4",
+            "source": "anchor",
+            "text": "冰鞋是滑冰的重要装备，缺了它就没法滑冰了。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "冰鞋_anchor_5",
+            "source": "anchor",
+            "text": "教练提醒小明别忘了把冰鞋上的护垫系好。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "冰鞋_1",
+            "source": "corpus",
+            "text": "亚美的签名冰鞋 cr. O",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5272359457524277"
+          },
+          {
+            "item_id": "冰鞋_5",
+            "source": "corpus",
+            "text": "【超全的冰鞋模型来啦】 为所有苦恼冰鞋到底该怎么画的小画手们消除烦恼，请吃冰鞋自助餐！！！ 共整合市面上的 4 款鞋和 11 款刀，共计 13 种搭配，适配CSP、优动漫、Procreate、Photoshop，一键可以转线稿！ 二次创作可商用，无需授权、署名。 遵守模型的使用约定，一起愉快地创作吧！",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5269947666401596"
+          },
+          {
+            "item_id": "冰鞋_8",
+            "source": "corpus",
+            "text": "羽生結弦と仙台市展 p4冰鞋上的伤痕，记录下了311大地震的清晰痕迹",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275025353212123"
+          },
+          {
+            "item_id": "冰鞋_9",
+            "source": "corpus",
+            "text": "这届冬奥会冰鞋出问题的有： 美、日、意团体赛领奖台选手 三浦佳生赛前 瓢特短节目 狗狗短节目 金博洋自由滑 持续更新中……",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5266256095615173"
+          },
+          {
+            "item_id": "冰鞋_15",
+            "source": "corpus",
+            "text": "yuzu的『TOHOKU HEART』卡 （东北之心），写了花滑历史，五色沼，冰场，还画了可爱的小冰鞋，然后投进卡片箱里（箱子里有很多其他名人的东北之心卡）",
+            "target_start": 49,
+            "target_end": 51,
+            "post_id": "5275709436330838"
+          },
+          {
+            "item_id": "冰鞋_16",
+            "source": "corpus",
+            "text": "好喜欢这张🥹 凌乱的黑发和裸露的冰鞋呼应，好像奉献又好像在接纳神明的赠予，加上像病服/囚服一样随风摇曳的简陋衣服，有一种单薄赤裸的生命顶着风霜虔诚地前行的感觉，美丽的….",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275808631095526"
+          },
+          {
+            "item_id": "冰鞋_20",
+            "source": "corpus",
+            "text": "无比感谢我至少是会抓重点的 在仙台市展一楼只看了不到五分钟 认真看了zu的字迹 看到右脚冰鞋的磨损鼻头一酸 贴近观察了悲怆的材质和水钻 除此之外啥也没看 3.10早上也来不及去了 快被自己气死",
+            "target_start": 44,
+            "target_end": 46,
+            "post_id": "5275750869767576"
+          },
+          {
+            "item_id": "冰鞋_25",
+            "source": "corpus",
+            "text": "在受过双板雪鞋的折磨之后冰鞋实在是有点太舒服了",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275638059503782"
+          },
+          {
+            "item_id": "冰鞋_26",
+            "source": "corpus",
+            "text": "当着全世界的面亲冰鞋太绝了，老维你是真的会撩 太好吃了太好吃了太好吃了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275626246506577"
+          },
+          {
+            "item_id": "冰鞋_29",
+            "source": "corpus",
+            "text": "跟随座长大人的足迹打卡之瑞凤殿 冰鞋石头那里大概是被人问得有点多了，于是还做了个专门的指示牌，确实是有点子幽默了 考斯滕吹流し在相机里的图懒得导了，但记录随风飘扬的状态那还得是live图。 2 日本·瑞凤殿",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275594931044943"
+          },
+          {
+            "item_id": "冰鞋_33",
+            "source": "corpus",
+            "text": "很想学滑冰，上过三四次冰场感觉很好。但是买冰鞋是一笔钱，门票也是一笔钱，还想请教练教一下正确的姿势又是一大笔钱，到底要不要把这笔钱花出去 -",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5275568821764277"
+          },
+          {
+            "item_id": "冰鞋_34",
+            "source": "corpus",
+            "text": "躺在床上冥想突然觉得不能老怪自己，虽然本人确实一点运动细胞都没有，但是能踩冰鞋正常上冰就代表平衡力问题不算大。为什么滑得好好的突然脚底一滑就想摔了？这可能不是平衡因，是冰场因。。冰场鞋都不磨刀开刃，冰刀钝了上冰就打滑，我摔跤是必然。。",
+            "target_start": 37,
+            "target_end": 39,
+            "post_id": "5275544505813998"
+          },
+          {
+            "item_id": "冰鞋_35",
+            "source": "corpus",
+            "text": "冰鞋买了有4年，去的次数不多，前两年仅去了三次。去年也就3次。今年略好，最近去冰场比较勤，两周内第三次。太开心，今天终于会倒滑了。勤能补拙啊",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275461823235005"
+          },
+          {
+            "item_id": "冰鞋_37",
+            "source": "corpus",
+            "text": "666直井怜穿冰鞋上台打歌第一人",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275416446635370"
+          },
+          {
+            "item_id": "冰鞋_39",
+            "source": "corpus",
+            "text": "孩子皮肤像雪一样白头发像乌木一样黑所以孩子是白雪公主，孩子一直找不到合脚的冰鞋所以孩子是豌豆公主+车德瑞拉，车公wake up你们是大泥塑家！",
+            "target_start": 37,
+            "target_end": 39,
+            "post_id": "5275401173860716"
+          },
+          {
+            "item_id": "冰鞋_45",
+            "source": "corpus",
+            "text": "还是觉得kaori抓起还在行礼的yuma的手跑进场那个瞬间非常动人…忘了谁配的萌文案 #时间不够了该轮到我们进场了！很像那个meme… 骗你的 我们不去滑比赛 穿上你的冰鞋吧 我们要自由地起舞了。",
+            "target_start": 84,
+            "target_end": 86,
+            "post_id": "5275280522084760"
+          },
+          {
+            "item_id": "冰鞋_49",
+            "source": "corpus",
+            "text": "意外找到三年前刚买冰鞋的神秘照片。。。",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275165334439106"
+          },
+          {
+            "item_id": "冰鞋_50",
+            "source": "corpus",
+            "text": "时隔三年我终于发现nd的小巧思之他俩的冰鞋不一样",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275078381799437"
+          }
+        ]
+      }
+    ]
+  }
+}

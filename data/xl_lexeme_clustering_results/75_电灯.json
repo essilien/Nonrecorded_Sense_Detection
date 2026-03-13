@@ -1,0 +1,215 @@
+{
+  "word": "电灯",
+  "meaning": "利用电能发光的灯具",
+  "prep_stats": {
+    "word": "电灯",
+    "meaning": "利用电能发光的灯具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 18
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 23,
+        "n_anchor": 5,
+        "n_corpus": 18,
+        "examples": [
+          "突然家里来了客人，我赶紧打开电灯迎接。",
+          "电灯亮起，房间立刻变得明亮起来。",
+          "电灯坏了，我只好临时借用了邻居的。",
+          "街上的路灯都是用电灯来照明的。",
+          "商场里的LED电灯比以前的节能电灯更加节能环保。"
+        ],
+        "items": [
+          {
+            "item_id": "电灯_anchor_1",
+            "source": "anchor",
+            "text": "突然家里来了客人，我赶紧打开电灯迎接。",
+            "target_start": 14,
+            "target_end": 16
+          },
+          {
+            "item_id": "电灯_anchor_2",
+            "source": "anchor",
+            "text": "电灯亮起，房间立刻变得明亮起来。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "电灯_anchor_3",
+            "source": "anchor",
+            "text": "电灯坏了，我只好临时借用了邻居的。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "电灯_anchor_4",
+            "source": "anchor",
+            "text": "街上的路灯都是用电灯来照明的。",
+            "target_start": 8,
+            "target_end": 10
+          },
+          {
+            "item_id": "电灯_anchor_5",
+            "source": "anchor",
+            "text": "商场里的LED电灯比以前的节能电灯更加节能环保。",
+            "target_start": 7,
+            "target_end": 9
+          },
+          {
+            "item_id": "电灯_2",
+            "source": "corpus",
+            "text": "1945年的台湾，普通人家里都有电灯……我都四五岁了，我们农村才有电灯，小学三年级家里才有黑白电视机。",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5272130948170871"
+          },
+          {
+            "item_id": "电灯_3",
+            "source": "corpus",
+            "text": "世界上第一个用电灯做路灯的城市是德国柏林，那是1879年。 图1 是画家卡尔·萨尔茨曼于1884年绘制的图画——《第一条电力照明街道》。 从此之后，用电灯做路灯开始在世界各地流行。 图2 是从离地面400公里的国际空间站俯瞰的柏林夜景。",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5270310930879567"
+          },
+          {
+            "item_id": "电灯_6",
+            "source": "corpus",
+            "text": "电灯是谁发明的？ 电灯是谁发明的？",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5271243357160059"
+          },
+          {
+            "item_id": "电灯_7",
+            "source": "corpus",
+            "text": "掌管电灯开关的小猫",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5264868160573390"
+          },
+          {
+            "item_id": "电灯_11",
+            "source": "corpus",
+            "text": "照亮世界的电灯发明，却不知背后同样历经坎坷！",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5262357501838487"
+          },
+          {
+            "item_id": "电灯_12",
+            "source": "corpus",
+            "text": "电灯代替油灯供佛｜法忍法师",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5261781405533139"
+          },
+          {
+            "item_id": "电灯_13",
+            "source": "corpus",
+            "text": "这个小电灯承载着多少人的童年记忆！",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5265528139815540"
+          },
+          {
+            "item_id": "电灯_14",
+            "source": "corpus",
+            "text": "男子在店里修着电灯泡，妻子冷不丁直接打开开关",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5248521046854788"
+          },
+          {
+            "item_id": "电灯_15",
+            "source": "corpus",
+            "text": "不相信手摇式充电电灯的猫w “感觉用不久呢”",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5270653885484365"
+          },
+          {
+            "item_id": "电灯_18",
+            "source": "corpus",
+            "text": "失去了毛主席思想就像是丢了灵活，所有人都会变得焦虑！ 即使生活质量提高，反而不会快乐； 即使工资挣高，反而不够用； 即使交通越来越方便，人情反而淡薄； 即使天天吃肉喝酒，反而喜欢青菜萝卜； 即使住上了楼上楼下电灯电话的好房子，反而不如回老家坐一坐心情更宁静！",
+            "target_start": 104,
+            "target_end": 106,
+            "post_id": "5275667399967606"
+          },
+          {
+            "item_id": "电灯_19",
+            "source": "corpus",
+            "text": "工作程序就很有问题了，我特么一个工厂打螺丝的都每天下班检查电源电灯有没有关闭，这么大个医院下班前各类功能部门不检查就下班了？",
+            "target_start": 31,
+            "target_end": 33,
+            "post_id": "5275783455048471"
+          },
+          {
+            "item_id": "电灯_23",
+            "source": "corpus",
+            "text": "电灯开关为啥不装床头",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275750995332246"
+          },
+          {
+            "item_id": "电灯_24",
+            "source": "corpus",
+            "text": "已经进展到高科技换脸的时代了，我们老一辈艺术家还在坚持手搓人皮面具和物理整容……传统鬼片一直用现代科技证明灵异现象，电灯乱闪，电话响了，照相机的鬼影……现在好了，机器本身开始主动闹鬼。只在屏幕出现里的鬼和现实里的鬼相比还是温和许多……",
+            "target_start": 58,
+            "target_end": 60,
+            "post_id": "5275749282223502"
+          },
+          {
+            "item_id": "电灯_26",
+            "source": "corpus",
+            "text": "一种浓厚的感觉横亘在我的唇齿之间，如同含住一个电灯的开关，在off和on间切换，直觉雷同于滚筒洗衣机的内芯，这样的感受曾在我目前为止的人生中多次出现，却转瞬即逝，说不出话来",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275709071165461"
+          },
+          {
+            "item_id": "电灯_28",
+            "source": "corpus",
+            "text": "原来无电灯是这样的原理，盛水的杯子了加两滴牛奶，会更亮！！！",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275678022835246"
+          },
+          {
+            "item_id": "电灯_35",
+            "source": "corpus",
+            "text": "一直坚信专业的是要交给专业的人去做。 我们开美发店这么多年，从来没有出现过这种情况。 严格一点都是要做过敏测试的。。 当然，这个教学老师也是有不可推卸的责任。 就好像我家里的电灯水管马桶什么坏了，我从来都是叫专业的人来维修。",
+            "target_start": 87,
+            "target_end": 89,
+            "post_id": "5275609598527396"
+          },
+          {
+            "item_id": "电灯_43",
+            "source": "corpus",
+            "text": "之前有网友跟我说她家装修的时候出去租了个大房子，楼上楼下电灯电话，结果夫妻俩每天下了班回家还得喊，在大房子里寻找对方，笑得我啊，想起在武汉的时候租的是三居室，结果到我们走都没怎么进过两个次卧，怀疑就算住进八百平的房子里每天的动线也是卧室到沙发。",
+            "target_start": 28,
+            "target_end": 30,
+            "post_id": "5275394001344739"
+          },
+          {
+            "item_id": "电灯_47",
+            "source": "corpus",
+            "text": "做物理电路实验，没有不让电灯亮得闪眼睛的义务",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275409002531754"
+          }
+        ]
+      }
+    ]
+  }
+}

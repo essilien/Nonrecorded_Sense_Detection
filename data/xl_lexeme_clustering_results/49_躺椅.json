@@ -1,0 +1,231 @@
+{
+  "word": "躺椅",
+  "meaning": "可以让人躺着休息的椅子",
+  "prep_stats": {
+    "word": "躺椅",
+    "meaning": "可以让人躺着休息的椅子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 20
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 25,
+        "n_anchor": 5,
+        "n_corpus": 20,
+        "examples": [
+          "他喜欢在书房里放一把躺椅，累了就躺在上面看会儿书。",
+          "公园里的躺椅总是早早被上班族们抢占，偶尔有空闲的人会来坐一会儿放松一下。",
+          "客厅角落里摆着一张大大的躺椅，每当天气晴朗，全家人都喜欢围坐在上面聊天。",
+          "海滩上的躺椅总是很抢手，因为天气热，大家都不想动。",
+          "周末的时候，他经常会找一个安静的地方，躺在自家的小躺椅上读几页书。"
+        ],
+        "items": [
+          {
+            "item_id": "躺椅_anchor_1",
+            "source": "anchor",
+            "text": "他喜欢在书房里放一把躺椅，累了就躺在上面看会儿书。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "躺椅_anchor_2",
+            "source": "anchor",
+            "text": "公园里的躺椅总是早早被上班族们抢占，偶尔有空闲的人会来坐一会儿放松一下。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "躺椅_anchor_3",
+            "source": "anchor",
+            "text": "客厅角落里摆着一张大大的躺椅，每当天气晴朗，全家人都喜欢围坐在上面聊天。",
+            "target_start": 12,
+            "target_end": 14
+          },
+          {
+            "item_id": "躺椅_anchor_4",
+            "source": "anchor",
+            "text": "海滩上的躺椅总是很抢手，因为天气热，大家都不想动。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "躺椅_anchor_5",
+            "source": "anchor",
+            "text": "周末的时候，他经常会找一个安静的地方，躺在自家的小躺椅上读几页书。",
+            "target_start": 25,
+            "target_end": 27
+          },
+          {
+            "item_id": "躺椅_2",
+            "source": "corpus",
+            "text": "单人病房两张床，一张我的，一张给家属的。可是这床硬的类，躺半天腰酸背痛。所以这张躺椅成了香饽饽。",
+            "target_start": 40,
+            "target_end": 42,
+            "post_id": "5269942586576142"
+          },
+          {
+            "item_id": "躺椅_3",
+            "source": "corpus",
+            "text": "竹躺椅手工制造过程",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275680122079069"
+          },
+          {
+            "item_id": "躺椅_4",
+            "source": "corpus",
+            "text": "有没有推荐的躺椅牌子？感觉电竞椅躺着都不舒服，推荐一个纯躺着的。",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5213600286245881"
+          },
+          {
+            "item_id": "躺椅_6",
+            "source": "corpus",
+            "text": "【骆驼】户外休闲便携折叠躺椅",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5273107583470773"
+          },
+          {
+            "item_id": "躺椅_7",
+            "source": "corpus",
+            "text": "想问问首页或者偶然刷到的大家 两把躺椅哪个比较好看 不考虑颜色 单单款式设计",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275072631931183"
+          },
+          {
+            "item_id": "躺椅_8",
+            "source": "corpus",
+            "text": "深圳机场好人性化哦，专门做躺椅区，还有淋浴间，刚刚进去洗了个澡，好舒适捏…",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5265565075376135"
+          },
+          {
+            "item_id": "躺椅_9",
+            "source": "corpus",
+            "text": "折叠沙发躺椅是最难以揣测的人类家具，尤其是质量不太好的沙发，我躺下之后腹部发力徐徐后仰，在达到一个静态平衡之后人就不能再动了，躺久了稍微挪一下腰，躺椅啪一声收回去，像捕蝇草一样。",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5191305656536750"
+          },
+          {
+            "item_id": "躺椅_24",
+            "source": "corpus",
+            "text": "今天很充实啊 早上早起打扫了整个房间 换洗晒了被套 中午去完成了一个拖了超级无敌久的事情 下午上完课和室友一起去海边散步 玩了很多游乐项目还在躺椅上吹海风 回来的路上还逛了很久大创 到家之后吃了一块榴莲千层还喝了酸奶 然后立马洗澡躺下看今天更新的视频 好幸福的一天 希望以后每天都能这样",
+            "target_start": 71,
+            "target_end": 73,
+            "post_id": "5275791803549632"
+          },
+          {
+            "item_id": "躺椅_27",
+            "source": "corpus",
+            "text": "咪从来我家就没睡过猫窝、躺椅等他自己的地方，什么意思呢",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275789898813504"
+          },
+          {
+            "item_id": "躺椅_28",
+            "source": "corpus",
+            "text": "好久没见到外面的阳光了 好久没体验毫无压力的日子了 这两天学不进去 又特别焦虑 下午干脆不学了想着出去转转晒晒太阳 但是风好大好冷 我又回家了 如果不用那么忙碌的话 我好想在公园的躺椅上晒一下午太阳 时常问自己 这样真的会换来一个好未来吗 我不知道 时间自会给出答案",
+            "target_start": 90,
+            "target_end": 92,
+            "post_id": "5275787071849067"
+          },
+          {
+            "item_id": "躺椅_30",
+            "source": "corpus",
+            "text": "最近感慨颇多！时间过得太快，抓不住一点！真希望自己老了的那天躺在躺椅上不要后悔年轻时的自己没有多做些自己喜欢的事情！！！所以趁着还没老，多出去玩玩，多哄自己开心，能力范围内对自己好一点吧！",
+            "target_start": 32,
+            "target_end": 34,
+            "post_id": "5275786531310939"
+          },
+          {
+            "item_id": "躺椅_31",
+            "source": "corpus",
+            "text": "又去看牙医，今天是VIP中P 口腔部一进去，感觉不是进了医院，而是进了工地，到处是滋滋滋…嗡嗡嗡…哒哒哒…的声音，不由得心头一紧。 人多到躺椅不够用，因为我的牙齿处理时间较长，后面的人又多，所以去了VIP 接下来还得去几次，修了右边修左边。 没想到有牙病的人这么多。",
+            "target_start": 69,
+            "target_end": 71,
+            "post_id": "5275659146100811"
+          },
+          {
+            "item_id": "躺椅_32",
+            "source": "corpus",
+            "text": "一首let'stry够养活躺椅和军用小后半辈子",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275782441075375"
+          },
+          {
+            "item_id": "躺椅_35",
+            "source": "corpus",
+            "text": "春天快点来吧 我想穿轻快单薄的衣服 看绿意盎然的花草树木遍布校园 然后买一个躺椅去江边喝酒晒太阳 嗯我还想买一个手机拍照片 拍生机勃勃的照片",
+            "target_start": 38,
+            "target_end": 40,
+            "post_id": "5275774225485409"
+          },
+          {
+            "item_id": "躺椅_36",
+            "source": "corpus",
+            "text": "救命谁能懂这一刻！！！ 打开天窗 调好躺椅 抬头就是满天星河💫 这一刻人怎么可以这么幸福 这么chill我好爱这寂静的夜这满天的星呜呜呜呜呜呜呜呜呜呜呜呜",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275771375454633"
+          },
+          {
+            "item_id": "躺椅_37",
+            "source": "corpus",
+            "text": "压力很大的时候急头白脸练一顿背，累的跟死狗一样往躺椅上一躺真是惬意啊",
+            "target_start": 24,
+            "target_end": 26,
+            "post_id": "5275769813337198"
+          },
+          {
+            "item_id": "躺椅_38",
+            "source": "corpus",
+            "text": "天啊噜，一晚上把所有零碎的书给收拾了一遍，丢的丢留的留，刚洗漱完毕，完活儿了，明天是黑暗周五之课多事多，把躺椅搬过去中午好好睡一下，希望周六完完整整属于我，我要出去吃喝玩乐",
+            "target_start": 53,
+            "target_end": 55,
+            "post_id": "5275768961894667"
+          },
+          {
+            "item_id": "躺椅_41",
+            "source": "corpus",
+            "text": "说你懂事吧 我做卫生知道跑躺椅上待着 但是直接睡了是不是有点过分",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275761751886243"
+          },
+          {
+            "item_id": "躺椅_45",
+            "source": "corpus",
+            "text": "我是买可以摇的躺椅还是小沙发…有点纠结啊",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275759291662724"
+          },
+          {
+            "item_id": "躺椅_49",
+            "source": "corpus",
+            "text": "吃太多了，还有恨这个躺椅",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275745408518328"
+          }
+        ]
+      }
+    ]
+  }
+}

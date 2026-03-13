@@ -1,0 +1,327 @@
+{
+  "word": "高压锅",
+  "meaning": "利用高压原理缩短烹饪时间的锅具",
+  "prep_stats": {
+    "word": "高压锅",
+    "meaning": "利用高压原理缩短烹饪时间的锅具",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 32
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 37,
+        "n_anchor": 5,
+        "n_corpus": 32,
+        "examples": [
+          "他今天用高压锅煮了一锅面条，很快就做好了。",
+          "小明用高压锅做了几个家常菜，味道不错。",
+          "妈妈说每次用高压锅做汤都能更快出锅。",
+          "爷爷喜欢用高压锅蒸包子，松软又好吃。",
+          "她用高压锅炒了一盘青椒肉丝，色泽诱人。"
+        ],
+        "items": [
+          {
+            "item_id": "高压锅_anchor_1",
+            "source": "anchor",
+            "text": "他今天用高压锅煮了一锅面条，很快就做好了。",
+            "target_start": 4,
+            "target_end": 7
+          },
+          {
+            "item_id": "高压锅_anchor_2",
+            "source": "anchor",
+            "text": "小明用高压锅做了几个家常菜，味道不错。",
+            "target_start": 3,
+            "target_end": 6
+          },
+          {
+            "item_id": "高压锅_anchor_3",
+            "source": "anchor",
+            "text": "妈妈说每次用高压锅做汤都能更快出锅。",
+            "target_start": 6,
+            "target_end": 9
+          },
+          {
+            "item_id": "高压锅_anchor_4",
+            "source": "anchor",
+            "text": "爷爷喜欢用高压锅蒸包子，松软又好吃。",
+            "target_start": 5,
+            "target_end": 8
+          },
+          {
+            "item_id": "高压锅_anchor_5",
+            "source": "anchor",
+            "text": "她用高压锅炒了一盘青椒肉丝，色泽诱人。",
+            "target_start": 2,
+            "target_end": 5
+          },
+          {
+            "item_id": "高压锅_2",
+            "source": "corpus",
+            "text": "气死了，不准再说高压锅的坏话了，你可以说我厨艺不好就是不能说高压锅不好用",
+            "target_start": 8,
+            "target_end": 11,
+            "post_id": "5275628268163959"
+          },
+          {
+            "item_id": "高压锅_4",
+            "source": "corpus",
+            "text": "香得冒油的五香鸡蛋做法，把煮开的料汁倒进生鸡蛋里面，再用高压锅给它压一压，出锅的瞬间个个出砂流油！比大鱼大肉还要好吃。",
+            "target_start": 28,
+            "target_end": 31,
+            "post_id": "5272766095035858"
+          },
+          {
+            "item_id": "高压锅_5",
+            "source": "corpus",
+            "text": "在长岛暴风雪来临前，我定的电高压锅到了，Amazon快递小哥把锅子扔在家大门外马路边就走了。这社区几十年没刑事案件，小哥都习惯把快递放家大门外。退货期同样是30天，这是一款可以精细调节压力和温度的锅子，体积不大，不像我之前买的instant pot那么bulky，支持慢火炖。 . 2 American·New York Nassau",
+            "target_start": 14,
+            "target_end": 17,
+            "post_id": "5259012653974111"
+          },
+          {
+            "item_id": "高压锅_6",
+            "source": "corpus",
+            "text": "厨师利用高压锅泄气“悬浮蒸蛋”，高压锅泄气完蛋也熟透了",
+            "target_start": 4,
+            "target_end": 7,
+            "post_id": "5274504794212674"
+          },
+          {
+            "item_id": "高压锅_7",
+            "source": "corpus",
+            "text": "给孩子们用高压锅清炖了排骨➕两个猪蹄 再炒一个神菜：西红柿炒鸡蛋 我可没吃，我减肥",
+            "target_start": 5,
+            "target_end": 8,
+            "post_id": "5275377200008074"
+          },
+          {
+            "item_id": "高压锅_9",
+            "source": "corpus",
+            "text": "只要把猪脚放进高压锅，做出来的猪脚皮脆肉嫩、咸香入味，比炖汤红烧的还要好吃",
+            "target_start": 7,
+            "target_end": 10,
+            "post_id": "5274913489551791"
+          },
+          {
+            "item_id": "高压锅_10",
+            "source": "corpus",
+            "text": "安全警示案例：女子手持高压锅边缘运输，锅体忽然从盖子脱落引起爆炸...",
+            "target_start": 11,
+            "target_end": 14,
+            "post_id": "5274856555810496"
+          },
+          {
+            "item_id": "高压锅_11",
+            "source": "corpus",
+            "text": "摩登家常菜在《一饭封神》前几期的操作让人摇头，不会用高压锅，处理鱼带皮、汤煮得浑浊，结果复活赛成功晋级16强，这运气我也想有。",
+            "target_start": 26,
+            "target_end": 29,
+            "post_id": "5275813147575282"
+          },
+          {
+            "item_id": "高压锅_12",
+            "source": "corpus",
+            "text": "见识一下美国疗养院的“白人饭”天花板！为了照顾没牙的老人，所有肉类、蔬菜一律高压锅煮成泥，不加盐。主播锐评：这玩意儿连营养膏都不如，纯纯的生命体征维持餐。",
+            "target_start": 38,
+            "target_end": 41,
+            "post_id": "5275808626378114"
+          },
+          {
+            "item_id": "高压锅_15",
+            "source": "corpus",
+            "text": "【蘑菇炖牛腩】牛腩切片，在冷水中泡出血水后沥干水将牛腩放在高压锅中，香料准备好倒入高压锅中，倒料酒没过牛腩，生抽(1小半碗)，两大勺辣椒酱，加姜片，盐和糖(比例为2:1)，图中为各种料加完后的各种比例。高压2小时，将压好的牛腩移到另一个锅中，煮开后加入切好的蘑菇，煮20min收汁。",
+            "target_start": 29,
+            "target_end": 32,
+            "post_id": "5275801269568984"
+          },
+          {
+            "item_id": "高压锅_17",
+            "source": "corpus",
+            "text": "排骨汤爱好者一枚 砂锅炖出的排骨真的比高压锅炖的更好吃～",
+            "target_start": 19,
+            "target_end": 22,
+            "post_id": "5275798824289207"
+          },
+          {
+            "item_id": "高压锅_20",
+            "source": "corpus",
+            "text": "今年换房子 得要有燃气灶！！！本人江西小炒的厨艺被电磁炉衰减起码百分之五十！！！（也变相遏制了我自己做饭两个月可以出栏的历史故事 ）也还缺一个大容量的高压锅做大荤…小电饭煲放俩鸡腿就满了…炖大肉靠电磁炉要炖一个世纪…",
+            "target_start": 75,
+            "target_end": 78,
+            "post_id": "5275788888769362"
+          },
+          {
+            "item_id": "高压锅_21",
+            "source": "corpus",
+            "text": "打了两个多小时羽毛球 回来吃了三碗高压锅压的稀饭 配家里的腌萝卜个 我有罪",
+            "target_start": 17,
+            "target_end": 20,
+            "post_id": "5275788488216465"
+          },
+          {
+            "item_id": "高压锅_23",
+            "source": "corpus",
+            "text": "卧槽妹子你俩肩膀使使劲把你脖子上面那个痘挤了吧，我这是卡颜号，不是称重号，你出门左转那里有个菜市场，里面有个卖猪肉的，你现在最重要的事是跳上去，再找到粉条子和高压锅压两个小时",
+            "target_start": 79,
+            "target_end": 82,
+            "post_id": "5275781737480869"
+          },
+          {
+            "item_id": "高压锅_24",
+            "source": "corpus",
+            "text": "早上起床人不舒服，老黄特地给我用高压锅熬了粥再出门去上班 以及晚上加班时候交代我加工的预制品夜宵 谁能想到一个警校生能这么有耐心，有时候我都对自己嗤之以鼻",
+            "target_start": 16,
+            "target_end": 19,
+            "post_id": "5275781062198608"
+          },
+          {
+            "item_id": "高压锅_27",
+            "source": "corpus",
+            "text": "260312 胜澈S.Coups丨直播 因为游戏是「不要尖叫」小澈看到画面出现鬼后憋着声音 鼻子里发出了高压锅一样的声音ㅎㅎㅋㅋㅋ （恐怖预警）",
+            "target_start": 52,
+            "target_end": 55,
+            "post_id": "5275754041970839"
+          },
+          {
+            "item_id": "高压锅_29",
+            "source": "corpus",
+            "text": "心情不好，想用高压锅煮饭",
+            "target_start": 7,
+            "target_end": 10,
+            "post_id": "5275767324804018"
+          },
+          {
+            "item_id": "高压锅_31",
+            "source": "corpus",
+            "text": "求挂简介和别人对骂文案：比如兄弟别看了马上就把你拉黑了，我这是卡颜号，不是称重号，你出门左转那里有个菜市场，里面有个卖猪肉的，你现在最重要的事是跳上去，再找到粉条子和高压锅压两个小时",
+            "target_start": 83,
+            "target_end": 86,
+            "post_id": "5275413388728903"
+          },
+          {
+            "item_id": "高压锅_33",
+            "source": "corpus",
+            "text": "粉丝抗压能力堪比高压锅",
+            "target_start": 8,
+            "target_end": 11,
+            "post_id": "5275754239626031"
+          },
+          {
+            "item_id": "高压锅_34",
+            "source": "corpus",
+            "text": "第一顿饭 和高压锅还不太熟 15分钟快把饭煮成粥了",
+            "target_start": 6,
+            "target_end": 9,
+            "post_id": "5275752855505646"
+          },
+          {
+            "item_id": "高压锅_36",
+            "source": "corpus",
+            "text": "我是勇士，高压锅太好用了！",
+            "target_start": 5,
+            "target_end": 8,
+            "post_id": "5275751155763896"
+          },
+          {
+            "item_id": "高压锅_37",
+            "source": "corpus",
+            "text": "虽然嘴上说着不想考不想学还经常发脾气把复习资料撕烂，但还是边哭边学下去了，为什么东亚人能把学习搞得这么痛苦，每一次读书都不是为了想学而是为了前途，从小到大都是关键时期，感觉整个东亚的生存环境像个高压锅，一步走错人生就彻底完蛋……",
+            "target_start": 97,
+            "target_end": 100,
+            "post_id": "5275750358843965"
+          },
+          {
+            "item_id": "高压锅_38",
+            "source": "corpus",
+            "text": "下班先骑15km 今天风大骑一半就不想骑了… 回家炖肉！沙茶牛腩煲种草很久了！ 高压锅也是会用了！但还是掌握不好 土豆太面了 不敢大火收汁了🤌 下回收一下汁！ 我有罪 打算不吃的 又炫了一碗………….",
+            "target_start": 40,
+            "target_end": 43,
+            "post_id": "5275749105800209"
+          },
+          {
+            "item_id": "高压锅_41",
+            "source": "corpus",
+            "text": "下班回来想喝汤，临时解冻鸡肉和猪肚，急匆匆泡发羊肚菌、天麻，用高压锅熬了一锅煮炖鸡汤，快手慢炖，一个半小时之后喝上了，一碗下肚，味道鲜美，心满意足。",
+            "target_start": 31,
+            "target_end": 34,
+            "post_id": "5275743170857462"
+          },
+          {
+            "item_id": "高压锅_43",
+            "source": "corpus",
+            "text": "==康巴赫高压锅304不锈钢可立盖 / 2PWpUw9i35A/ == 康巴赫高压锅家用304不锈钢压力锅燃气电磁炉通用防爆官方旗舰店 ==",
+            "target_start": 5,
+            "target_end": 8,
+            "post_id": "5275741349742086"
+          },
+          {
+            "item_id": "高压锅_44",
+            "source": "corpus",
+            "text": "今晚做了个 番茄花菜 比想象中好吃 高压锅压了牛肉汤 可能我掺水掺多了 感觉有点淡…",
+            "target_start": 18,
+            "target_end": 21,
+            "post_id": "5275741139764330"
+          },
+          {
+            "item_id": "高压锅_45",
+            "source": "corpus",
+            "text": "人类第二次驯服高压锅 超级无敌成功",
+            "target_start": 7,
+            "target_end": 10,
+            "post_id": "5275738399837051"
+          },
+          {
+            "item_id": "高压锅_46",
+            "source": "corpus",
+            "text": "勇闯高压锅赛道 今晚是养生局",
+            "target_start": 2,
+            "target_end": 5,
+            "post_id": "5275737759416546"
+          },
+          {
+            "item_id": "高压锅_47",
+            "source": "corpus",
+            "text": "我现在就像即将炸开的高压锅",
+            "target_start": 10,
+            "target_end": 13,
+            "post_id": "5275732189382577"
+          },
+          {
+            "item_id": "高压锅_48",
+            "source": "corpus",
+            "text": "每次来姨妈前一个星期的心情真的很差 整个人和高压锅没什么区别。",
+            "target_start": 22,
+            "target_end": 25,
+            "post_id": "5275727889961810"
+          },
+          {
+            "item_id": "高压锅_49",
+            "source": "corpus",
+            "text": "说任何是皇族的人感觉会造谣萨达姆偷了美国布什家的高压锅。",
+            "target_start": 24,
+            "target_end": 27,
+            "post_id": "5275726643206808"
+          },
+          {
+            "item_id": "高压锅_50",
+            "source": "corpus",
+            "text": "Life is like a pressure cooker, you too much pressure on yourself is ripe.-----人生就像是高压锅，压力太大的时候你自己也就熟了。",
+            "target_start": 84,
+            "target_end": 87,
+            "post_id": "5275725809845066"
+          }
+        ]
+      }
+    ]
+  }
+}

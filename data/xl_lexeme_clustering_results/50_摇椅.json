@@ -1,0 +1,295 @@
+{
+  "word": "摇椅",
+  "meaning": "可以前后摇动的椅子",
+  "prep_stats": {
+    "word": "摇椅",
+    "meaning": "可以前后摇动的椅子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 33,
+        "n_anchor": 5,
+        "n_corpus": 28,
+        "examples": [
+          "爷爷在摇椅上回忆年轻时的农场生活。",
+          "公园里的摇椅成了老人们午后的休闲角落。",
+          "小明经常在周末的下午坐在摇椅上阅读课外书籍。",
+          "外婆坐在摇椅上编织毛衣，孙子在一旁玩耍。",
+          "新买的摇椅放在阳台上，为炎热的夏日带来一丝凉爽。"
+        ],
+        "items": [
+          {
+            "item_id": "摇椅_anchor_1",
+            "source": "anchor",
+            "text": "爷爷在摇椅上回忆年轻时的农场生活。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "摇椅_anchor_2",
+            "source": "anchor",
+            "text": "公园里的摇椅成了老人们午后的休闲角落。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "摇椅_anchor_3",
+            "source": "anchor",
+            "text": "小明经常在周末的下午坐在摇椅上阅读课外书籍。",
+            "target_start": 12,
+            "target_end": 14
+          },
+          {
+            "item_id": "摇椅_anchor_4",
+            "source": "anchor",
+            "text": "外婆坐在摇椅上编织毛衣，孙子在一旁玩耍。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "摇椅_anchor_5",
+            "source": "anchor",
+            "text": "新买的摇椅放在阳台上，为炎热的夏日带来一丝凉爽。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "摇椅_1",
+            "source": "corpus",
+            "text": "涨姿势，原来摇椅是这样制作的！ 也是门厉害手艺呀～",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5270575842592843"
+          },
+          {
+            "item_id": "摇椅_2",
+            "source": "corpus",
+            "text": "今晚从宜家买了个摇椅！ 晚上看Tim直播装好了，以后就是看电视专属位置了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5258397462045433"
+          },
+          {
+            "item_id": "摇椅_3",
+            "source": "corpus",
+            "text": "这样的摇椅你体验过吗",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5246004496699641"
+          },
+          {
+            "item_id": "摇椅_6",
+            "source": "corpus",
+            "text": "天气真好适合窝在摇椅里晒着太阳午睡💤",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5233625241224634"
+          },
+          {
+            "item_id": "摇椅_7",
+            "source": "corpus",
+            "text": "姐姐书房的摇椅，是历届猫咪最爱的地方",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5221486040449204"
+          },
+          {
+            "item_id": "摇椅_8",
+            "source": "corpus",
+            "text": "年儿实在不爱坐这个摇椅，也就用了几次吧。 原价2380，我799在海鲜市场卖了。 过几天打算把这个法国ludi海洋球和球池也出了，年儿也不爱玩，一进去就想出来。 犹记得潼小时候很喜欢海洋球呀。",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5019540976828544"
+          },
+          {
+            "item_id": "摇椅_10",
+            "source": "corpus",
+            "text": "成步堂龙一专用摇椅（bushi",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5024091905722871"
+          },
+          {
+            "item_id": "摇椅_11",
+            "source": "corpus",
+            "text": "夏天 蒲扇 摇椅 果树回忆涌上来了🥹 “永远记得那年夏天”思念思念思的是那年无锡的夏天",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5265933829669922"
+          },
+          {
+            "item_id": "摇椅_12",
+            "source": "corpus",
+            "text": "给外孙女买了个摇椅，可以在屋里推着溜达，长大点还可以当餐椅。 这两天拆快递给我累坏了。 昨天洗澡化妆吃东西精神抖擞准备出门之前拆了一堆快递，完事给我累得我想掉头回去睡觉了。",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5265832630552898"
+          },
+          {
+            "item_id": "摇椅_13",
+            "source": "corpus",
+            "text": "那年夏的摇椅，蝉鸣，玉米地又何尝不是盼着故人归来的故乡…..",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5264418348729176"
+          },
+          {
+            "item_id": "摇椅_14",
+            "source": "corpus",
+            "text": "今天去东山草原，和喜喜一起坐爱心摇椅。 下来才发现人家是给谈恋爱的坐的 不过很多男生羡慕我吧，我一直说喜喜这样的女孩子是男生梦寐以求的老婆，人漂亮，性格好，能干，还做了一手好菜。 2 腾冲·腾冲市东山草场",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5263013584308620"
+          },
+          {
+            "item_id": "摇椅_16",
+            "source": "corpus",
+            "text": "好好的时光 已更26集资源 4K臻彩 D: O K: O 《好好的时光》庄先进特意请人给庄好好做了一张舒适的摇椅，让她可以安心养胎，还经常陪她在院子里聊天，诉说自己的心事，父女间的隔阂彻底化解，相处得十分融洽。",
+            "target_start": 54,
+            "target_end": 56,
+            "post_id": "5275808040226464"
+          },
+          {
+            "item_id": "摇椅_22",
+            "source": "corpus",
+            "text": "等我老了 坐在摇椅上给我大孙儿讲 奶奶一生都在隔三差五考试",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275767435169709"
+          },
+          {
+            "item_id": "摇椅_24",
+            "source": "corpus",
+            "text": "等我老了 坐在摇椅上 给我乖孙讲 姥姥这一生啊 都在隔三差五的减肥 减了一辈子 饿了一辈子 胖了一辈子 也馋了一辈子 2026.3.12 —— 一辈子没学会七分饱的胖姥姥",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275736277786424"
+          },
+          {
+            "item_id": "摇椅_25",
+            "source": "corpus",
+            "text": "诗人的日常931 今天醒的特早 吃完饭躺摇椅上看红楼 阳光超给面子 是那种温和不晒人的 我就在摇椅上睡着了 究竟睡得有多好呢 就是 我醒来的时候以为只过了一分钟 实际上过了一小时。。。",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5275734295973581"
+          },
+          {
+            "item_id": "摇椅_28",
+            "source": "corpus",
+            "text": "在这春暖花开的季节，好想有个院子，躺在摇椅上，听着音乐看云卷云舒，和风拂面，阳光穿过树叶的缝隙，斑驳的光影洒落，耳边还有虫鸣鸟叫该是多么幸福呢",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275718521197250"
+          },
+          {
+            "item_id": "摇椅_29",
+            "source": "corpus",
+            "text": "每天最喜欢的时间 吃完饭打扫卫生 洗衣服 家里干干净净 香喷喷 躺在摇椅上晒太阳",
+            "target_start": 34,
+            "target_end": 36,
+            "post_id": "5275712647073576"
+          },
+          {
+            "item_id": "摇椅_35",
+            "source": "corpus",
+            "text": "育儿嫂带娃时躺床上玩手机，用脚蹬婴儿摇椅哄娃，因靠床边太近 摇椅和孩子被蹬摔落床下…",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275663877803493"
+          },
+          {
+            "item_id": "摇椅_36",
+            "source": "corpus",
+            "text": "以后我的小家要在窗边放一个摇椅，然后在春天坐在那晒太阳。",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275654905135649"
+          },
+          {
+            "item_id": "摇椅_37",
+            "source": "corpus",
+            "text": "🔴hagaday哈卡达宝宝餐椅摇椅二合一【314】 “你怎么知道这里有密室？”苏紫嫣一脸1惊讶，“此房比其他略宽，",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275653026349085"
+          },
+          {
+            "item_id": "摇椅_38",
+            "source": "corpus",
+            "text": "又是一个安静的晚上 一个人窝在摇椅里乘凉～",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275651760459829"
+          },
+          {
+            "item_id": "摇椅_39",
+            "source": "corpus",
+            "text": "好想好想 和posuto一起在摇椅上睡觉 光是想想就要哭了 有很多一时半会说不出的滋味 我好喜欢posuto 我好想马上就捏捏他的肚子",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275651465544071"
+          },
+          {
+            "item_id": "摇椅_40",
+            "source": "corpus",
+            "text": "烟、酒和性，不单是肉体上的享受，也是精神上的享受。有了精神上的储蓄，做人才做得美满。让你的身体上有百分百的健康吧，让你活到一百岁吧，让你安安稳稳地坐在摇椅上望向远处吧！但是你的脑袋一片空白，一点美好的回忆都没有，这不叫健康，这叫惩罚。蔡澜《人间清醒》",
+            "target_start": 75,
+            "target_end": 77,
+            "post_id": "5275628284152656"
+          },
+          {
+            "item_id": "摇椅_43",
+            "source": "corpus",
+            "text": "等我老了， 坐在摇椅上给我大孙子讲 奶奶的一生 都在隔三差五的减肥 ------从来没吃饱过饭的胖奶奶",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275609430492207"
+          },
+          {
+            "item_id": "摇椅_44",
+            "source": "corpus",
+            "text": "小派的睡觉日记 小车小床小摇椅 点到哪里睡哪里",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275607451566821"
+          },
+          {
+            "item_id": "摇椅_45",
+            "source": "corpus",
+            "text": "我以前梦想有个书房，满屋子的书和超大的书桌。 现在我只需要一把摇椅。 ——两年前买的那把摇椅真是买对了！",
+            "target_start": 31,
+            "target_end": 33,
+            "post_id": "5275604983481296"
+          },
+          {
+            "item_id": "摇椅_47",
+            "source": "corpus",
+            "text": "☁ 🐰 希望你，永远快乐的像个孩子！ 等到我们都老了，依然坐着摇椅慢慢聊，那便是最浪漫的事！",
+            "target_start": 31,
+            "target_end": 33,
+            "post_id": "5275599502575147"
+          },
+          {
+            "item_id": "摇椅_49",
+            "source": "corpus",
+            "text": "吃完猫草元宝跟到阳光房里跳上摇椅很快躺倒眯着了，看着好享受的样子，猫猫比人更懂得享受生活。 我给柠檬喷了一点治红蜘蛛的药，招呼元宝进屋也不理我。 阳光房里的窗户都开着，它可能能忍受药的味道吧，我闻不了赶快进屋了。 今天 又是阳光灿烂的一天，离我们北方春暖花开的日子越来越近了。",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5275588782719600"
+          }
+        ]
+      }
+    ]
+  }
+}

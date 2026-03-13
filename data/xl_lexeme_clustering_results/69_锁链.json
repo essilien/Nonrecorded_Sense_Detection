@@ -1,0 +1,228 @@
+{
+  "word": "锁链",
+  "meaning": "由多个金属环环相扣组成的链条",
+  "prep_stats": {
+    "word": "锁链",
+    "meaning": "由多个金属环环相扣组成的链条",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 16
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 6,
+        "n_anchor": 0,
+        "n_corpus": 6,
+        "examples": [
+          "关于化妆 “别人家化妆师不上锁链的”",
+          "天，我才知道重击特效也是锁链，菲菲的锁链元素以后会解释吗",
+          "我的想法很多很少很小很大 但似乎都装不下一个自己 天地间这么大 人这么小 每个人都有一个脑子 每个人的脑子都要想今天要吃什么 每个人的脑子都有一条隐形的锁链 你看不见 它就不存在 你看见了 待你解开之前 你就没办法当作看不见了 但不破不立",
+          "如果天时地利能量帮身都干不翻固有惯性和观念锁链，那还有什么好遗憾的？",
+          "在你我之间的锁链"
+        ],
+        "items": [
+          {
+            "item_id": "锁链_1",
+            "source": "corpus",
+            "text": "关于化妆 “别人家化妆师不上锁链的”",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5275387425982517"
+          },
+          {
+            "item_id": "锁链_7",
+            "source": "corpus",
+            "text": "天，我才知道重击特效也是锁链，菲菲的锁链元素以后会解释吗",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275032814100213"
+          },
+          {
+            "item_id": "锁链_20",
+            "source": "corpus",
+            "text": "我的想法很多很少很小很大 但似乎都装不下一个自己 天地间这么大 人这么小 每个人都有一个脑子 每个人的脑子都要想今天要吃什么 每个人的脑子都有一条隐形的锁链 你看不见 它就不存在 你看见了 待你解开之前 你就没办法当作看不见了 但不破不立",
+            "target_start": 76,
+            "target_end": 78,
+            "post_id": "5275797369656004"
+          },
+          {
+            "item_id": "锁链_32",
+            "source": "corpus",
+            "text": "如果天时地利能量帮身都干不翻固有惯性和观念锁链，那还有什么好遗憾的？",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5275778393572241"
+          },
+          {
+            "item_id": "锁链_33",
+            "source": "corpus",
+            "text": "在你我之间的锁链",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275760327656558"
+          },
+          {
+            "item_id": "锁链_47",
+            "source": "corpus",
+            "text": "嗯，等我研究下这锁链咋带的",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275721956066960"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "huawei这个破matebook连那个锁链人都玩不了我真崩不住了"
+        ],
+        "items": [
+          {
+            "item_id": "锁链_12",
+            "source": "corpus",
+            "text": "huawei这个破matebook连那个锁链人都玩不了我真崩不住了",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5275811072705206"
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 14,
+        "n_anchor": 5,
+        "n_corpus": 9,
+        "examples": [
+          "他不小心把钥匙掉进锁链里，无法打开铁笼子。",
+          "博物馆里的古代锁链吸引了许多参观者的目光。",
+          "她用漂亮的锁链将手链串在一起，增添了不少时尚感。",
+          "警察在嫌疑人的背包里发现了一条锈迹斑斑的旧锁链。",
+          "他小心翼翼地解开挂在汽车上的锁链，准备出门。"
+        ],
+        "items": [
+          {
+            "item_id": "锁链_anchor_1",
+            "source": "anchor",
+            "text": "他不小心把钥匙掉进锁链里，无法打开铁笼子。",
+            "target_start": 9,
+            "target_end": 11
+          },
+          {
+            "item_id": "锁链_anchor_2",
+            "source": "anchor",
+            "text": "博物馆里的古代锁链吸引了许多参观者的目光。",
+            "target_start": 7,
+            "target_end": 9
+          },
+          {
+            "item_id": "锁链_anchor_3",
+            "source": "anchor",
+            "text": "她用漂亮的锁链将手链串在一起，增添了不少时尚感。",
+            "target_start": 5,
+            "target_end": 7
+          },
+          {
+            "item_id": "锁链_anchor_4",
+            "source": "anchor",
+            "text": "警察在嫌疑人的背包里发现了一条锈迹斑斑的旧锁链。",
+            "target_start": 21,
+            "target_end": 23
+          },
+          {
+            "item_id": "锁链_anchor_5",
+            "source": "anchor",
+            "text": "他小心翼翼地解开挂在汽车上的锁链，准备出门。",
+            "target_start": 14,
+            "target_end": 16
+          },
+          {
+            "item_id": "锁链_2",
+            "source": "corpus",
+            "text": "巨狼被锁链捆缚，纳吉尔法的舵手葬身冥河，诸神的杯中斟满美酒，欢饮的夜宴永不停歇。 西西弗斯的碎石铸就了通往神国的巴别塔 反抗者们正高举火把。",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275052934439411"
+          },
+          {
+            "item_id": "锁链_8",
+            "source": "corpus",
+            "text": "水牢锁链：极限逃脱秀",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5274500042069906"
+          },
+          {
+            "item_id": "锁链_10",
+            "source": "corpus",
+            "text": "能卡出锁链的武器😋",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5273064860552659"
+          },
+          {
+            "item_id": "锁链_21",
+            "source": "corpus",
+            "text": "捡起了地上的雨 地上落满黑色枯草 地上洒满泛黄碎屑 地上长满白色贝壳 抓住了云里的风 云里落下红色的网 云里落下灰色锁链 云里落下青色铁环",
+            "target_start": 58,
+            "target_end": 60,
+            "post_id": "5275795641865802"
+          },
+          {
+            "item_id": "锁链_27",
+            "source": "corpus",
+            "text": "lyx lyx 涟漪自尺端荡开，圈禁皇陵未腐的龙棺，你躬身捻香时，棺底锁链缠上新帝脚踝。",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5275784199536716"
+          },
+          {
+            "item_id": "锁链_30",
+            "source": "corpus",
+            "text": "给锁链手布置婚房♡",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275781292627432"
+          },
+          {
+            "item_id": "锁链_31",
+            "source": "corpus",
+            "text": "好困，累死了 对挑了2小时玻璃渣的我说道：以后所有易碎东西都带上锁链免得小马碎了",
+            "target_start": 32,
+            "target_end": 34,
+            "post_id": "5275778860451566"
+          },
+          {
+            "item_id": "锁链_48",
+            "source": "corpus",
+            "text": "其实真的好想看老闸cover一次诅咒人偶 锁链或者error也很好 失去的机器人概念你回来吧",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5275715813512908"
+          },
+          {
+            "item_id": "锁链_50",
+            "source": "corpus",
+            "text": "雨果单行本封面完整版🈶 这个标题完全把齿轮锁链细节挡住了啊喂",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5275659307844211"
+          }
+        ]
+      }
+    ]
+  }
+}

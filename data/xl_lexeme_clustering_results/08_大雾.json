@@ -1,0 +1,292 @@
+{
+  "word": "大雾",
+  "meaning": "指由于近地层空气中悬浮的无数小水滴或小冰晶造成水平能见度不足500米的一种天气现象。",
+  "prep_stats": {
+    "word": "大雾",
+    "meaning": "指由于近地层空气中悬浮的无数小水滴或小冰晶造成水平能见度不足500米的一种天气现象。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 24
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 4,
+        "n_anchor": 0,
+        "n_corpus": 4,
+        "examples": [
+          "李灿荣今年生日撞大雾了 因为他生日前面一天是马丁18岁生日",
+          "我本来有图要发的，网宣发了战报我就这样美美撞大雾，明天再发吧",
+          "代号鸢策划自己看这个大雾3阴不阴",
+          "txt回归真的撞大雾了"
+        ],
+        "items": [
+          {
+            "item_id": "大雾_13",
+            "source": "corpus",
+            "text": "李灿荣今年生日撞大雾了 因为他生日前面一天是马丁18岁生日",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275802268598459"
+          },
+          {
+            "item_id": "大雾_16",
+            "source": "corpus",
+            "text": "我本来有图要发的，网宣发了战报我就这样美美撞大雾，明天再发吧",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275799323414987"
+          },
+          {
+            "item_id": "大雾_25",
+            "source": "corpus",
+            "text": "代号鸢策划自己看这个大雾3阴不阴",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275789445567467"
+          },
+          {
+            "item_id": "大雾_50",
+            "source": "corpus",
+            "text": "txt回归真的撞大雾了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275759430082078"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 2,
+        "n_anchor": 0,
+        "n_corpus": 2,
+        "examples": [
+          "也是，公司没人没💰，全都去忙太子团了，还不能冲淡了太子团的回归，还和大雾排在一起，打歌花钱属于打水漂，糕算的一笔好账。 也就无负担听听歌了。 那么帅的几个哥，新歌舞台都没有",
+          "想回苏 想吃春喜 小海鲜 神宫 鹿来也行想去SD喝到2. 想吃蜜茉 平时不爱吃但现在非常想吃的漂亮饭餐厅 想坐大雾门口打惯蛋 la nuit也行 想喜乐鹊 and换瓶 and云南菜。想喝豆浆 kun 黑狗也行… Mersey也行啊"
+        ],
+        "items": [
+          {
+            "item_id": "大雾_32",
+            "source": "corpus",
+            "text": "也是，公司没人没💰，全都去忙太子团了，还不能冲淡了太子团的回归，还和大雾排在一起，打歌花钱属于打水漂，糕算的一笔好账。 也就无负担听听歌了。 那么帅的几个哥，新歌舞台都没有",
+            "target_start": 34,
+            "target_end": 36,
+            "post_id": "5275783161447290"
+          },
+          {
+            "item_id": "大雾_34",
+            "source": "corpus",
+            "text": "想回苏 想吃春喜 小海鲜 神宫 鹿来也行想去SD喝到2. 想吃蜜茉 平时不爱吃但现在非常想吃的漂亮饭餐厅 想坐大雾门口打惯蛋 la nuit也行 想喜乐鹊 and换瓶 and云南菜。想喝豆浆 kun 黑狗也行… Mersey也行啊",
+            "target_start": 55,
+            "target_end": 57,
+            "post_id": "5275781179641235"
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 23,
+        "n_anchor": 5,
+        "n_corpus": 18,
+        "examples": [
+          "清晨的大雾笼罩着城市，让街道上的行人不得不加快脚步寻找遮挡物。",
+          "今天早晨，一场突如其来的大雾使得高速公路封闭，许多车辆被困在了路上。",
+          "为了应对大雾天气，机场已经启动了紧急预案，提醒乘客及时了解航班动态。",
+          "大雾使得整个校园变成了一片朦胧的世界，学生们只能借助手机的屏幕来指引方向。",
+          "大雾天气让户外活动变得困难，人们纷纷选择在家通过网络与亲友保持联系。"
+        ],
+        "items": [
+          {
+            "item_id": "大雾_anchor_1",
+            "source": "anchor",
+            "text": "清晨的大雾笼罩着城市，让街道上的行人不得不加快脚步寻找遮挡物。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "大雾_anchor_2",
+            "source": "anchor",
+            "text": "今天早晨，一场突如其来的大雾使得高速公路封闭，许多车辆被困在了路上。",
+            "target_start": 12,
+            "target_end": 14
+          },
+          {
+            "item_id": "大雾_anchor_3",
+            "source": "anchor",
+            "text": "为了应对大雾天气，机场已经启动了紧急预案，提醒乘客及时了解航班动态。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "大雾_anchor_4",
+            "source": "anchor",
+            "text": "大雾使得整个校园变成了一片朦胧的世界，学生们只能借助手机的屏幕来指引方向。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "大雾_anchor_5",
+            "source": "anchor",
+            "text": "大雾天气让户外活动变得困难，人们纷纷选择在家通过网络与亲友保持联系。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "大雾_1",
+            "source": "corpus",
+            "text": "【大雾警报】【未来三天全省以多云天气为主。明晨江淮之间和本省东北部地区有雾或浓雾】3月12日20时至3月13日20时，全省晴到多云。最高温度：全省15～16℃；最低温度：长江以北的中东部地区-1～-2℃，其他地区2℃左右。全省偏东风3-4级。",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275678623926486"
+          },
+          {
+            "item_id": "大雾_2",
+            "source": "corpus",
+            "text": "【 】3月12日， 发布大雾黄色预警：预计今天后半夜到明天早晨，淮安、盐城、扬州中北部、连云港、泰州北部地区将出现能见度小于500米、局部小于200米的浓雾或强浓雾。提醒：注意防范。",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275690002810338"
+          },
+          {
+            "item_id": "大雾_6",
+            "source": "corpus",
+            "text": "大雾！随着孩子开学，早高峰更猛烈了～",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5273013954284063"
+          },
+          {
+            "item_id": "大雾_8",
+            "source": "corpus",
+            "text": "昨日厦门大雾让城市仙气超标！抬头望去以为在天庭办公。",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5272298514549863"
+          },
+          {
+            "item_id": "大雾_9",
+            "source": "corpus",
+            "text": "安徽省气象台2026年03月12日10时30分解除大雾黄色预警。 O",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275590183357813"
+          },
+          {
+            "item_id": "大雾_10",
+            "source": "corpus",
+            "text": "梧州出现大雾天气 ，网友：一觉醒来以为“误入仙境”（记者 成栩娴）",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275690769580829"
+          },
+          {
+            "item_id": "大雾_11",
+            "source": "corpus",
+            "text": "如东县气象台2026年03月13日00时56分发布大雾橙色预警信号：预计今天凌晨前后到早晨我县城中、苴镇、新店、洋口等镇（区、街道）将出现能见度不足200米的强浓雾，预计大雾将于8时左右消散。县应急局、县气象局提醒注意防范。 O",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275811059074485"
+          },
+          {
+            "item_id": "大雾_18",
+            "source": "corpus",
+            "text": "大雾天的早晨，退潮时期正是抓鱿鱼的时候。长翅膀的飞鱼，还是第一次见。",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275796304302386"
+          },
+          {
+            "item_id": "大雾_23",
+            "source": "corpus",
+            "text": "3.12 大雾弥漫",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275792138830299"
+          },
+          {
+            "item_id": "大雾_30",
+            "source": "corpus",
+            "text": "【庆阳市气象台发布大雾黄色预警信号】",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275784501268336"
+          },
+          {
+            "item_id": "大雾_33",
+            "source": "corpus",
+            "text": "我的生命有场大雾,你愿不愿意折断一根肋骨做我的船夫。",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275782077219902"
+          },
+          {
+            "item_id": "大雾_36",
+            "source": "corpus",
+            "text": "然后就是那天起大雾，左奇函在满是雾气的玻璃上写张桂源名字，张桂源犯困在车上睡觉，车上只有左奇函一个人醒着。 没有摄像头没有人擦玻璃，雾气又笼罩上玻璃，张桂源的名字又渐渐消失了，左奇函盯着张桂源看了一会儿。 这就是结局了。",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275776854262192"
+          },
+          {
+            "item_id": "大雾_37",
+            "source": "corpus",
+            "text": "山上大雾🌫 听听声也算一种意境 张家界·张家界天门山旅游景区",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275774866164647"
+          },
+          {
+            "item_id": "大雾_39",
+            "source": "corpus",
+            "text": "第六站元阳县，由于山上有雾，红河哈尼梯田笼罩在大雾之中",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275772231359941"
+          },
+          {
+            "item_id": "大雾_41",
+            "source": "corpus",
+            "text": "cy “大雾四起，我在无人处爱你；大雾散去，我爱你人尽皆知” 成毅莲花楼|李相夷|李莲花|南风知我意|傅云深|狐妖小红娘王权篇|王权富贵|英雄志|卢云|潇秋水|",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275768041248002"
+          },
+          {
+            "item_id": "大雾_46",
+            "source": "corpus",
+            "text": "大雾四起 偷偷藏匿 我在无人处爱你",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275765197247309"
+          },
+          {
+            "item_id": "大雾_47",
+            "source": "corpus",
+            "text": "和十几年前一样的下雨和大雾 大太阳留给下一次☀ 2 峨眉山·峨眉山旅游风景区",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275765046250925"
+          },
+          {
+            "item_id": "大雾_49",
+            "source": "corpus",
+            "text": "不要指责当时的自己，她当时一个人站在大雾里也很迷茫",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275760581413358"
+          }
+        ]
+      }
+    ]
+  }
+}

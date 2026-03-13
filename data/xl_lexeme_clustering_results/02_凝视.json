@@ -1,0 +1,207 @@
+{
+  "word": "凝视",
+  "meaning": "聚精会神地看",
+  "prep_stats": {
+    "word": "凝视",
+    "meaning": "聚精会神地看",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 22,
+        "n_anchor": 5,
+        "n_corpus": 17,
+        "examples": [
+          "她凝视着窗外的夜景，心中默默计算着回家的路程。",
+          "他凝视着手中的地图，眉头紧锁，显然遇到了难题。",
+          "孩子们凝视着天空中飞翔的鸽子，仿佛能从那里感受到自由。",
+          "她凝视着墙上的挂钟，时间仿佛在这一刻静止了。",
+          "他凝视着自己的影子，试图找出内心深处的秘密。"
+        ],
+        "items": [
+          {
+            "item_id": "凝视_anchor_1",
+            "source": "anchor",
+            "text": "她凝视着窗外的夜景，心中默默计算着回家的路程。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "凝视_anchor_2",
+            "source": "anchor",
+            "text": "他凝视着手中的地图，眉头紧锁，显然遇到了难题。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "凝视_anchor_3",
+            "source": "anchor",
+            "text": "孩子们凝视着天空中飞翔的鸽子，仿佛能从那里感受到自由。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "凝视_anchor_4",
+            "source": "anchor",
+            "text": "她凝视着墙上的挂钟，时间仿佛在这一刻静止了。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "凝视_anchor_5",
+            "source": "anchor",
+            "text": "他凝视着自己的影子，试图找出内心深处的秘密。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "凝视_2",
+            "source": "corpus",
+            "text": "欣赏喝凝视的眼神是一眼能看出的！ 欣赏 监视者",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5265138451222138"
+          },
+          {
+            "item_id": "凝视_3",
+            "source": "corpus",
+            "text": "脱口秀演员狠戳女性遭遇的信任危机、性别枷锁与恶意凝视，以幽默解构现实荒诞",
+            "target_start": 24,
+            "target_end": 26,
+            "post_id": "5263067413747773"
+          },
+          {
+            "item_id": "凝视_4",
+            "source": "corpus",
+            "text": "有大量女性錁露镜头的电影可能不性剥削 不凝视吗？ 3539",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5260049338599467"
+          },
+          {
+            "item_id": "凝视_5",
+            "source": "corpus",
+            "text": "这两天疾吧正在批判《巅峰对决》， 我觉得是这个好兆头。 欧美那些男酷题材的影视作品， 充斥着异性恋的凝视， 散播着刻板印象。 真正站在酷儿叙事的作品细细一查，居然是0诶！ 2025年了，能别再出现“男主角拿不定自己的性取向，在谈过女友之后才确认自我”这种暗示着“性取向选择论”的剧情吗？",
+            "target_start": 50,
+            "target_end": 52,
+            "post_id": "5249857537445961"
+          },
+          {
+            "item_id": "凝视_9",
+            "source": "corpus",
+            "text": "解说Kitty晒照：当你凝视深渊的时候，深渊也在凝视你！ 不懂就问，Kitty的深渊凝视是啥意思？",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275228437220712"
+          },
+          {
+            "item_id": "凝视_10",
+            "source": "corpus",
+            "text": "小方忘记蓝蓝说过的话，遭蓝蓝死亡凝视，绝对是妻管严丨心动8。",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275234422492583"
+          },
+          {
+            "item_id": "凝视_11",
+            "source": "corpus",
+            "text": "微博会员（50）爱奇艺会员（113）芒果TV会员（69）优酷（69）腾讯视频（113） 夸克会员 世界的模样，取决于你凝视它的目光。心在哪里世界就在哪里！",
+            "target_start": 59,
+            "target_end": 61,
+            "post_id": "5275810999304764"
+          },
+          {
+            "item_id": "凝视_14",
+            "source": "corpus",
+            "text": "我尼玛在评论区看到问单身女性生理需求咋解决？ 这种问题真的既低俗又恶心，充满了对女性的不尊重和恶意凝视。人家的感情状态、私人生活，跟你没有任何关系。与其在网上对一位优秀的女性问这种没分寸的话，不如先提升自己的素质和教养，学会什么叫边界感，什么叫尊重。",
+            "target_start": 49,
+            "target_end": 51,
+            "post_id": "5275810206319990"
+          },
+          {
+            "item_id": "凝视_17",
+            "source": "corpus",
+            "text": "tzz：爱的凝视 zyzy收到的：您有新的饿了么订单请及时处理",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275789059949863"
+          },
+          {
+            "item_id": "凝视_18",
+            "source": "corpus",
+            "text": "两个人一个使劲瞪眼一个使劲凝视 好想当电视剧博主像这样用上一些草稿话以为很文艺范 其实。",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275807200051441"
+          },
+          {
+            "item_id": "凝视_23",
+            "source": "corpus",
+            "text": "和杠上花凝视的一瞬间 情不自禁而泪流 还好有你陪着我",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275803522171805"
+          },
+          {
+            "item_id": "凝视_27",
+            "source": "corpus",
+            "text": "① 我在寻找世界的深刻性 ② 学科的知识是一把钥匙，批判性思维… ③.当我凝视世界而不是被凝视的时候，我感到幸福且安定",
+            "target_start": 37,
+            "target_end": 39,
+            "post_id": "5275802288786614"
+          },
+          {
+            "item_id": "凝视_35",
+            "source": "corpus",
+            "text": "天呐翻到了小狗宝刚到家里那段时间的视频，那么奶的哼哼就听了这么几个月，现在有要求只会凝视，打喷嚏然后大叫。",
+            "target_start": 42,
+            "target_end": 44,
+            "post_id": "5275800355734271"
+          },
+          {
+            "item_id": "凝视_36",
+            "source": "corpus",
+            "text": "我的工作每天都会遇见很多不同的人 有些人的无礼傲慢会潜移默化的滋生出某一部分邪恶，仇恨的我，每当我觉得自己快要变的和他们一样的时候，总会出现另一部分人，他们宽厚仁慈，充满善意，他们总在提醒我不要被凝视的深渊吞噬，要记得什么才是我，要记得做一个善良的人",
+            "target_start": 98,
+            "target_end": 100,
+            "post_id": "5275799995549055"
+          },
+          {
+            "item_id": "凝视_39",
+            "source": "corpus",
+            "text": "久久凝视着一个哭泣🍞久违的炫压抑让人好痛苦",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275798018987888"
+          },
+          {
+            "item_id": "凝视_42",
+            "source": "corpus",
+            "text": "呃本人在2019年剧播的时候当过龟我先说，但是剧播完大概九月吧已经转成唯粉惹，此后也再没有凝视过龟圈深渊，所以其实兲爱咋嗑什么的都完全不了解，如果本人最近的嗑药方式太龟大家可以友善提醒我。（不过其实准确来说我当年是占山为王批我服了因为我之前从小到大的口味都是当攻妈啊这😅",
+            "target_start": 45,
+            "target_end": 47,
+            "post_id": "5275796941832924"
+          },
+          {
+            "item_id": "凝视_49",
+            "source": "corpus",
+            "text": "感觉发朋友圈堪称当代最微妙哲学 发了总摆脱不了前台的角色扮演与被凝视的焦虑不安暗暗比较的内耗 完全不又失去了发射微弱信号或也能寻得共鸣偶尔被看见联系感情的机会 …",
+            "target_start": 32,
+            "target_end": 34,
+            "post_id": "5275795606211574"
+          }
+        ]
+      }
+    ]
+  }
+}

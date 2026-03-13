@@ -1,0 +1,325 @@
+{
+  "word": "划水",
+  "meaning": "拨水使前进；游泳。",
+  "prep_stats": {
+    "word": "划水",
+    "meaning": "拨水使前进；游泳。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 2,
+        "n_anchor": 0,
+        "n_corpus": 2,
+        "examples": [
+          "第一次坐鸭船，这划水声太治愈了",
+          "举高高会划水的白土松"
+        ],
+        "items": [
+          {
+            "item_id": "划水_1",
+            "source": "corpus",
+            "text": "第一次坐鸭船，这划水声太治愈了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275373468392890"
+          },
+          {
+            "item_id": "划水_15",
+            "source": "corpus",
+            "text": "举高高会划水的白土松",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275784928561125"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 5,
+        "n_anchor": 0,
+        "n_corpus": 5,
+        "examples": [
+          "还有八百个视频演唱会对口型、划水审判了 错敌丝还在空口zy已无须多言",
+          "比起加不加rf logo明显是clare大妈的挂名划水设计更值得骂吧",
+          "上班的每一天都在期待周五 工作久了疲惫感带来的消极效应就是 干呗干呗 搞砸了也无所谓 划水也无所谓 浪费时间也无所谓",
+          "白鹿真的又敬业又让人好感拉满！为了宣传《唐宫奇案》，微博之夜和品质盛典两场红毯都用心搭配高定造型，还把红毯变成沉浸式剧宣现场，全程在线又有诚意。她对每一部戏、每一次宣传都这么认真负责，不敷衍不划水，用心对待每一个角色和作品，这样努力又踏实的演员，真的越看越喜欢！",
+          "和狗子的弓娘双双美丽上榜 但被压榨得最狠的一车，团长奶疯狂在那聊天划水还吃我俩凤凰，俺不中了"
+        ],
+        "items": [
+          {
+            "item_id": "划水_11",
+            "source": "corpus",
+            "text": "还有八百个视频演唱会对口型、划水审判了 错敌丝还在空口zy已无须多言",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5275808989971359"
+          },
+          {
+            "item_id": "划水_18",
+            "source": "corpus",
+            "text": "比起加不加rf logo明显是clare大妈的挂名划水设计更值得骂吧",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275804045939807"
+          },
+          {
+            "item_id": "划水_40",
+            "source": "corpus",
+            "text": "上班的每一天都在期待周五 工作久了疲惫感带来的消极效应就是 干呗干呗 搞砸了也无所谓 划水也无所谓 浪费时间也无所谓",
+            "target_start": 43,
+            "target_end": 45,
+            "post_id": "5275779692758452"
+          },
+          {
+            "item_id": "划水_44",
+            "source": "corpus",
+            "text": "白鹿真的又敬业又让人好感拉满！为了宣传《唐宫奇案》，微博之夜和品质盛典两场红毯都用心搭配高定造型，还把红毯变成沉浸式剧宣现场，全程在线又有诚意。她对每一部戏、每一次宣传都这么认真负责，不敷衍不划水，用心对待每一个角色和作品，这样努力又踏实的演员，真的越看越喜欢！",
+            "target_start": 96,
+            "target_end": 98,
+            "post_id": "5275777845428792"
+          },
+          {
+            "item_id": "划水_45",
+            "source": "corpus",
+            "text": "和狗子的弓娘双双美丽上榜 但被压榨得最狠的一车，团长奶疯狂在那聊天划水还吃我俩凤凰，俺不中了",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5275776023006426"
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 26,
+        "n_anchor": 5,
+        "n_corpus": 21,
+        "examples": [
+          "夏日里，我们几个小伙伴在湖边兴致勃勃地划水，溅起一圈圈水花。",
+          "他虽然不会游泳，但也尝试着划水，脸上洋溢着快乐的笑容。",
+          "她躺在草地上，偶尔划水戏水，让微风吹过脸颊，心情格外舒畅。",
+          "他站在河边的木板上，用力划动木板，仿佛真的在水中划水一般。",
+          "孩子们在海边开心地玩水，其中一个小男孩正认真地划水练习"
+        ],
+        "items": [
+          {
+            "item_id": "划水_anchor_1",
+            "source": "anchor",
+            "text": "夏日里，我们几个小伙伴在湖边兴致勃勃地划水，溅起一圈圈水花。",
+            "target_start": 19,
+            "target_end": 21
+          },
+          {
+            "item_id": "划水_anchor_2",
+            "source": "anchor",
+            "text": "他虽然不会游泳，但也尝试着划水，脸上洋溢着快乐的笑容。",
+            "target_start": 13,
+            "target_end": 15
+          },
+          {
+            "item_id": "划水_anchor_3",
+            "source": "anchor",
+            "text": "她躺在草地上，偶尔划水戏水，让微风吹过脸颊，心情格外舒畅。",
+            "target_start": 9,
+            "target_end": 11
+          },
+          {
+            "item_id": "划水_anchor_4",
+            "source": "anchor",
+            "text": "他站在河边的木板上，用力划动木板，仿佛真的在水中划水一般。",
+            "target_start": 24,
+            "target_end": 26
+          },
+          {
+            "item_id": "划水_anchor_5",
+            "source": "anchor",
+            "text": "孩子们在海边开心地玩水，其中一个小男孩正认真地划水练习",
+            "target_start": 23,
+            "target_end": 25
+          },
+          {
+            "item_id": "划水_2",
+            "source": "corpus",
+            "text": "jennie:没想到吧！姐已经划水五年啦～～～",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5270625281377972"
+          },
+          {
+            "item_id": "划水_4",
+            "source": "corpus",
+            "text": "最后三天啥都不想干只想在工位上划水划够本。。。",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5249129631451866"
+          },
+          {
+            "item_id": "划水_6",
+            "source": "corpus",
+            "text": "自然界的划水王，极具启发性的昆虫（鼓甲）",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5172631885581721"
+          },
+          {
+            "item_id": "划水_7",
+            "source": "corpus",
+            "text": "又一轮划水 P.S. 天气转暖了，出好多汗… 2 长春·小鹏健身",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275035750369921"
+          },
+          {
+            "item_id": "划水_13",
+            "source": "corpus",
+            "text": "在无意识挥了两下拳、练个自由泳划水姿势后，我就知道，原来我也是个伪人NPC",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275806864769922"
+          },
+          {
+            "item_id": "划水_16",
+            "source": "corpus",
+            "text": "以为自己过年回来需要缓一下 继续划水 突然想到我去年就这吊样",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275804552398122"
+          },
+          {
+            "item_id": "划水_21",
+            "source": "corpus",
+            "text": "一个划水逼觉得自己多吊呢？",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275796828064141"
+          },
+          {
+            "item_id": "划水_22",
+            "source": "corpus",
+            "text": "这学期体育课选了健美操 上课总是跳到一半就跳不动了于是摸鱼划水 一开始负罪感还很重 后来一想反正那么多男团女团成员练习七八年上台都还划水 我这种短期在役的摸一下鱼简直再正常不过了吧 呵呵呵就这么好心态",
+            "target_start": 29,
+            "target_end": 31,
+            "post_id": "5275795758517021"
+          },
+          {
+            "item_id": "划水_25",
+            "source": "corpus",
+            "text": "小鸭子在池塘里划水，留下V字形波纹",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275794983092232"
+          },
+          {
+            "item_id": "划水_27",
+            "source": "corpus",
+            "text": "人宁都没有把镜头直接转去划水吉那边去，只是自己在直播。就划水吉等咚！咚！卸完妆直播还直接让人入镜、一边怀念时装周一边厌倦巡演说感觉巡演了八十年，糊作非为 。",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275792569538937"
+          },
+          {
+            "item_id": "划水_28",
+            "source": "corpus",
+            "text": "其实近期锻炼经常划水，但一抬胳膊发现我仍然拥有了三角肌，即肩膀头子嘭一下起来了，新奇的体验，我喜欢26年的开始。 我有了三角肌和小猫咪。",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275791028130110"
+          },
+          {
+            "item_id": "划水_30",
+            "source": "corpus",
+            "text": "划水程度给到一个夯 训练痕迹给到一个拉",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275788655988847"
+          },
+          {
+            "item_id": "划水_34",
+            "source": "corpus",
+            "text": "📓第386天日记 开奖倒计时49天 和不同的小伙伴聊了一会儿又一会儿 今天没有因为工作不愉悦的痛苦 只有放开划水的快乐",
+            "target_start": 54,
+            "target_end": 56,
+            "post_id": "5275783629114322"
+          },
+          {
+            "item_id": "划水_37",
+            "source": "corpus",
+            "text": "我都那么划水了怎么还不踩我",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275780822341874"
+          },
+          {
+            "item_id": "划水_38",
+            "source": "corpus",
+            "text": "台上舞步轻又懒，划水常被路人叹。 恋情几番惹波澜，粉丝争执闹不断。 室内吞云犯了禁，餐厅处事引议论。 言语也曾惹争议，抄袭疑云难定论。 合照无心遮同伴，穿搭造型多评判。 资源缠身是非满，风波一段又一段。",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275780352311608"
+          },
+          {
+            "item_id": "划水_41",
+            "source": "corpus",
+            "text": "他上课跳舞真的蛮热情的。。虽然之前点我划水是他不对",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275779589213810"
+          },
+          {
+            "item_id": "划水_42",
+            "source": "corpus",
+            "text": "我真服了 跳个广场舞还划水",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275778373915365"
+          },
+          {
+            "item_id": "划水_43",
+            "source": "corpus",
+            "text": "为闪到腰依然坚持划水锻炼的我点赞",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275778143226639"
+          },
+          {
+            "item_id": "划水_47",
+            "source": "corpus",
+            "text": "体重：57.6kg 训练：划水练了个背，上课没时间练，抽空凑了一小时练背 心情：淡淡的，没啥感觉，三观已崩塌，正在重建",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275774493135258"
+          },
+          {
+            "item_id": "划水_48",
+            "source": "corpus",
+            "text": "谁跟你们enhypen is 6了，5ff以为五脚盆重生要获得第二次新人美了，实则不过是团队里少了一个人一起摆烂而已。几个月后坤续划水、发胖、木头人拍团综、关了摄像头成天不见人影，5ff打开窝窝屎自己看看，明明只有6 is enhypen好不",
+            "target_start": 65,
+            "target_end": 67,
+            "post_id": "5275774165979631"
+          },
+          {
+            "item_id": "划水_49",
+            "source": "corpus",
+            "text": "一直觉得自己健身跟划水一样 没想到嗓子发炎了",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275770692043800"
+          }
+        ]
+      }
+    ]
+  }
+}

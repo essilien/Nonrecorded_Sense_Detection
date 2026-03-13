@@ -1,0 +1,388 @@
+{
+  "word": "墙头",
+  "meaning": "墙的上部或顶端。",
+  "prep_stats": {
+    "word": "墙头",
+    "meaning": "墙的上部或顶端。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 36
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 3,
+    "anchor_clusters": [
+      2
+    ],
+    "candidate_clusters": [
+      0,
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 23,
+        "n_anchor": 0,
+        "n_corpus": 23,
+        "examples": [
+          "正主及心肝：原味乐事 墙头：青柠味乐事 番茄味乐事 好感：红烩味乐事 烧烤味乐事 无感：黄瓜味乐事",
+          "墙头发墙头无料的盗版 已经惨到看到有人说我发无料的盗版了，真的很好笑，墙头你今年还能不能出一个更离谱的笑话",
+          "搞到我都不想看老鼠了，本来工作就烦，怪就怪老狗好脾气不会告粉 这么喜欢欺软怕硬，那祝你粉的新担新墙头都恨粉哈",
+          "是一定要这样对待我吗？我说老丨我回味一下16岁我爱上他的青春岁月心里想着要是说能再当个墙头老公也是很不错，一点开tag，一个巨大的丑脸就过来了，你多大了？",
+          "不是，主要是我追星20多年粉过的墙头数不胜数，我对墙头的入坑标准是非常高的，比如会写歌的还得有独到品味，会演戏的还会写小说最好还得运动好，哪有人光靠脸就能一直循环播放而一年多都出不了坑的"
+        ],
+        "items": [
+          {
+            "item_id": "墙头_3",
+            "source": "corpus",
+            "text": "正主及心肝：原味乐事 墙头：青柠味乐事 番茄味乐事 好感：红烩味乐事 烧烤味乐事 无感：黄瓜味乐事",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5273809477440349"
+          },
+          {
+            "item_id": "墙头_8",
+            "source": "corpus",
+            "text": "墙头发墙头无料的盗版 已经惨到看到有人说我发无料的盗版了，真的很好笑，墙头你今年还能不能出一个更离谱的笑话",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5163803789233868"
+          },
+          {
+            "item_id": "墙头_19",
+            "source": "corpus",
+            "text": "搞到我都不想看老鼠了，本来工作就烦，怪就怪老狗好脾气不会告粉 这么喜欢欺软怕硬，那祝你粉的新担新墙头都恨粉哈",
+            "target_start": 48,
+            "target_end": 50,
+            "post_id": "5275794903404162"
+          },
+          {
+            "item_id": "墙头_21",
+            "source": "corpus",
+            "text": "是一定要这样对待我吗？我说老丨我回味一下16岁我爱上他的青春岁月心里想着要是说能再当个墙头老公也是很不错，一点开tag，一个巨大的丑脸就过来了，你多大了？",
+            "target_start": 43,
+            "target_end": 45,
+            "post_id": "5275793156740095"
+          },
+          {
+            "item_id": "墙头_22",
+            "source": "corpus",
+            "text": "不是，主要是我追星20多年粉过的墙头数不胜数，我对墙头的入坑标准是非常高的，比如会写歌的还得有独到品味，会演戏的还会写小说最好还得运动好，哪有人光靠脸就能一直循环播放而一年多都出不了坑的",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275793114793013"
+          },
+          {
+            "item_id": "墙头_23",
+            "source": "corpus",
+            "text": "球球老天爷能不能对我的每个墙头都好一点",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275791367082145"
+          },
+          {
+            "item_id": "墙头_24",
+            "source": "corpus",
+            "text": "娱乐圈拼命营业的，十有八九是缺钱 我是说我墙头",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5275791095236017"
+          },
+          {
+            "item_id": "墙头_25",
+            "source": "corpus",
+            "text": "不行了，最近的墙头跟哥哥就是两个极端！ 墙头：宝宝宝贝巴拉巴拉，哥哥：不是宝宝 哥哥你就是宝宝宝宝",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275789999735728"
+          },
+          {
+            "item_id": "墙头_28",
+            "source": "corpus",
+            "text": "我一直以为我地偶墙头营业的算少了 没想到我王天意更少",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275786161685004"
+          },
+          {
+            "item_id": "墙头_29",
+            "source": "corpus",
+            "text": "太无聊了啊 我的墙头们都安安静静的拍戏or休息",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275784992525853"
+          },
+          {
+            "item_id": "墙头_30",
+            "source": "corpus",
+            "text": "27号的时候雷子能和姐姐互动一下吗？没啥，就是想看我墙头认识",
+            "target_start": 26,
+            "target_end": 28,
+            "post_id": "5275784710718069"
+          },
+          {
+            "item_id": "墙头_32",
+            "source": "corpus",
+            "text": "以后当墙头追啊，有空过来看一下那种 回望过去，对男的真情实感的我真的是有病，没钱算个p",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275784344503028"
+          },
+          {
+            "item_id": "墙头_34",
+            "source": "corpus",
+            "text": "如果有人因为别人一句似是而非的话而怀疑你不喜欢你了，那这种喜欢也不需要啊，本来就是个墙头草，这种喜欢很廉价。",
+            "target_start": 42,
+            "target_end": 44,
+            "post_id": "5275691962600174"
+          },
+          {
+            "item_id": "墙头_37",
+            "source": "corpus",
+            "text": "最近淡淡的 感觉已经没有心肝了，大家一起当墙头",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5275779678078616"
+          },
+          {
+            "item_id": "墙头_38",
+            "source": "corpus",
+            "text": "妹子你装啥笨蛋呢每次有人揭露女神真面目你就力挺维护这会又装上了！如此墙头草咋给女神当腿毛的",
+            "target_start": 34,
+            "target_end": 36,
+            "post_id": "5275778288977915"
+          },
+          {
+            "item_id": "墙头_42",
+            "source": "corpus",
+            "text": "( ˝ᗢ̈˝ ): 涉及到我心肝立马开火🔥 好感和墙头全部扫射",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275618614973796"
+          },
+          {
+            "item_id": "墙头_43",
+            "source": "corpus",
+            "text": "试图在火车上刷出TFT视频结果刷到津叔转推？？他是配了这部吗？ 我：草啊墙头连成一片。。。 唐师：直接连成墙了（？）",
+            "target_start": 36,
+            "target_end": 38,
+            "post_id": "5275772681197588"
+          },
+          {
+            "item_id": "墙头_44",
+            "source": "corpus",
+            "text": "墙头马上遥相顾，一见知君即断肠。",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275772512108978"
+          },
+          {
+            "item_id": "墙头_45",
+            "source": "corpus",
+            "text": "看了《玫瑰丛生》，刘宇宁的小贝成功成为了我的新墙头，他的演技太圈粉了",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275771598802982"
+          },
+          {
+            "item_id": "墙头_46",
+            "source": "corpus",
+            "text": "现在处于一个正月佳节凯悦大街惊鸿一瞥百官沦陷，或者什么凯悦之阴初遇乔拉君惊鸿一瞥乱我心曲，也有可能是墙头马上遥相望，一见知帝即断肠的一个非常混乱的状态",
+            "target_start": 50,
+            "target_end": 52,
+            "post_id": "5275771159447419"
+          },
+          {
+            "item_id": "墙头_47",
+            "source": "corpus",
+            "text": "天呐，宫尚角是人设更吸引我，晋安那可是妆发太帅啦 咱就是这么肤浅的人，还是喜欢看帅哥 丞磊的可塑性很强啊！我的新墙头",
+            "target_start": 56,
+            "target_end": 58,
+            "post_id": "5275769165055238"
+          },
+          {
+            "item_id": "墙头_48",
+            "source": "corpus",
+            "text": "豆包建议我不能只有一个本命要多搞几个墙头吸引注意力我觉得很有道理",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275765970834712"
+          },
+          {
+            "item_id": "墙头_50",
+            "source": "corpus",
+            "text": "说这种话的也是完全没有自我思考的墙头草，臭跟风的一位啊// :臭烟这种毫无营养又不便宜的产品完全是是被父权制和资本培养出来的喜好，他们告诉你男人就喜欢抽这种东西，让一大群男的跟风去抽// :喝甜水也要被大烧烤吗// :有病// :父权制……资本………",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275762697700993"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "给大家介绍一下我的新墙头"
+        ],
+        "items": [
+          {
+            "item_id": "墙头_1",
+            "source": "corpus",
+            "text": "给大家介绍一下我的新墙头",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275680891996302"
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 17,
+        "n_anchor": 5,
+        "n_corpus": 12,
+        "examples": [
+          "墙头上长满了青苔，显得格外阴森。",
+          "夕阳西下，金色的余晖洒在墙头上。",
+          "他偷偷地爬上了墙头，俯瞰着街市。",
+          "墙头上挂着一个旧灯笼，仿佛诉说着往昔的故事。",
+          "夜幕降临，墙头上的灯光温暖而宁静。"
+        ],
+        "items": [
+          {
+            "item_id": "墙头_anchor_1",
+            "source": "anchor",
+            "text": "墙头上长满了青苔，显得格外阴森。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "墙头_anchor_2",
+            "source": "anchor",
+            "text": "夕阳西下，金色的余晖洒在墙头上。",
+            "target_start": 12,
+            "target_end": 14
+          },
+          {
+            "item_id": "墙头_anchor_3",
+            "source": "anchor",
+            "text": "他偷偷地爬上了墙头，俯瞰着街市。",
+            "target_start": 7,
+            "target_end": 9
+          },
+          {
+            "item_id": "墙头_anchor_4",
+            "source": "anchor",
+            "text": "墙头上挂着一个旧灯笼，仿佛诉说着往昔的故事。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "墙头_anchor_5",
+            "source": "anchor",
+            "text": "夜幕降临，墙头上的灯光温暖而宁静。",
+            "target_start": 5,
+            "target_end": 7
+          },
+          {
+            "item_id": "墙头_2",
+            "source": "corpus",
+            "text": "桃李墙头，向人都似他年意。 舞丝千丈颺晴光，骀青春无际。 花气薰人自醉。傍垂杨、行行缓辔。 倦游无奈，回首云山，归期犹未。 玉锁楼空，鸟啼花外东风起。 ——赵善扛《烛影摇红》",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275189495467631"
+          },
+          {
+            "item_id": "墙头_4",
+            "source": "corpus",
+            "text": "含羞的闻时太心爱了，尘不到你手往哪放？！ 画师：墙头",
+            "target_start": 24,
+            "target_end": 26,
+            "post_id": "5264028533787252"
+          },
+          {
+            "item_id": "墙头_5",
+            "source": "corpus",
+            "text": "嗷？你们怎么知道这次全套是墙头设计的🥺",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5181840738749016"
+          },
+          {
+            "item_id": "墙头_9",
+            "source": "corpus",
+            "text": "雨过天晴，墙头上长出了一群狗狗",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5216506704563174"
+          },
+          {
+            "item_id": "墙头_12",
+            "source": "corpus",
+            "text": "我只是一个爱吃瓜的墙头草",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275808707118790"
+          },
+          {
+            "item_id": "墙头_15",
+            "source": "corpus",
+            "text": "感觉自己好像墙头草呀 但那咋办呢",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275806533159537"
+          },
+          {
+            "item_id": "墙头_20",
+            "source": "corpus",
+            "text": "刷到红膏开始心疼哥哥 我就这样墙头草",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275794483191024"
+          },
+          {
+            "item_id": "墙头_26",
+            "source": "corpus",
+            "text": "每次看到辱追说自己以前多对他们有感情多真心实意就觉得好笑...说句难听的，你这点根本扛不住什么的像墙头草一样的真心更是毫无重量",
+            "target_start": 49,
+            "target_end": 51,
+            "post_id": "5275789641651552"
+          },
+          {
+            "item_id": "墙头_31",
+            "source": "corpus",
+            "text": "一打开🍠就是札幌蛋 如果不是下周要去看jhs我真的现在已经哭晕，所以多找墙头多重要 感谢自己13年前遇到欧巴吧",
+            "target_start": 36,
+            "target_end": 38,
+            "post_id": "5275784475316462"
+          },
+          {
+            "item_id": "墙头_35",
+            "source": "corpus",
+            "text": "“昔予赋诗云：‘为见墙头拂面花。’时唯乐天知此。”",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275782508710924"
+          },
+          {
+            "item_id": "墙头_40",
+            "source": "corpus",
+            "text": "杜威就不能死在2里然后成为盖儿挂在墙头的白月光吗",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275777392444407"
+          },
+          {
+            "item_id": "墙头_41",
+            "source": "corpus",
+            "text": "今天看到逐玉城墙头的打戏，坏了，感觉还挺精彩的。",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275776258935656"
+          }
+        ]
+      }
+    ]
+  }
+}

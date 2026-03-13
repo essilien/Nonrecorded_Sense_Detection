@@ -1,0 +1,220 @@
+{
+  "word": "便盆",
+  "meaning": "不能外出时用的简易厕所器具或婴儿马桶",
+  "prep_stats": {
+    "word": "便盆",
+    "meaning": "不能外出时用的简易厕所器具或婴儿马桶",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 21,
+        "n_anchor": 5,
+        "n_corpus": 16,
+        "examples": [
+          "老人在卧室里放了一个便盆，以防外出不便时使用。",
+          "妈妈带儿子去公园玩，不小心摔倒了，只好把便盆带回车上。",
+          "小宝宝还不会自己如厕，所以每次回家后都会用便盆训练他排便。",
+          "老奶奶年纪大了，腿脚不太利索，经常在家用便盆解决大小便问题。",
+          "宠物狗在户外活动时偶尔会尿尿，主人就会把它带到家里用便盆收集。"
+        ],
+        "items": [
+          {
+            "item_id": "便盆_anchor_1",
+            "source": "anchor",
+            "text": "老人在卧室里放了一个便盆，以防外出不便时使用。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "便盆_anchor_2",
+            "source": "anchor",
+            "text": "妈妈带儿子去公园玩，不小心摔倒了，只好把便盆带回车上。",
+            "target_start": 20,
+            "target_end": 22
+          },
+          {
+            "item_id": "便盆_anchor_3",
+            "source": "anchor",
+            "text": "小宝宝还不会自己如厕，所以每次回家后都会用便盆训练他排便。",
+            "target_start": 21,
+            "target_end": 23
+          },
+          {
+            "item_id": "便盆_anchor_4",
+            "source": "anchor",
+            "text": "老奶奶年纪大了，腿脚不太利索，经常在家用便盆解决大小便问题。",
+            "target_start": 20,
+            "target_end": 22
+          },
+          {
+            "item_id": "便盆_anchor_5",
+            "source": "anchor",
+            "text": "宠物狗在户外活动时偶尔会尿尿，主人就会把它带到家里用便盆收集。",
+            "target_start": 26,
+            "target_end": 28
+          },
+          {
+            "item_id": "便盆_1",
+            "source": "corpus",
+            "text": "如何给卧床老人使用便盆，让护理更便捷",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5240260637758732"
+          },
+          {
+            "item_id": "便盆_3",
+            "source": "corpus",
+            "text": "这种便盆连个纸巾都冲不下去",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5171309308806609"
+          },
+          {
+            "item_id": "便盆_4",
+            "source": "corpus",
+            "text": "在一场关于谁先拿到便盆的争吵中，女儿跳出来保护她的妈妈",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5091512185001212"
+          },
+          {
+            "item_id": "便盆_6",
+            "source": "corpus",
+            "text": "我刚拉了一根约50cm的粗长大便，直径约5cm，像一条蛇一样盘居在便盆当中，正在研究如何冲下去。",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5220655977204772"
+          },
+          {
+            "item_id": "便盆_9",
+            "source": "corpus",
+            "text": "上厕所手机没放稳，叽里咕噜掉进了便盆，虽然家里的不脏，拿湿巾擦了好几遍，感觉这个手机不能要了 可是又没有换手机的实力",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5196600332781009"
+          },
+          {
+            "item_id": "便盆_11",
+            "source": "corpus",
+            "text": "阿chan给我买的住院用的东西 有喝水的奶瓶、尿壶还有便盆 哈哈哈哈哈有种回到小时候被妈妈照顾的错觉！ 2 广州·南方医院",
+            "target_start": 27,
+            "target_end": 29,
+            "post_id": "5059669991097414"
+          },
+          {
+            "item_id": "便盆_12",
+            "source": "corpus",
+            "text": "马玻璃回到家看到中午刚刚铲干净的便盆里又多了好大一坨超级大便，心生愤慨，当他看到另外一个便盆里还有一坨更加大的超级无敌大便，他终于崩溃了。 （是二筒拉的）",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5049990776361945"
+          },
+          {
+            "item_id": "便盆_18",
+            "source": "corpus",
+            "text": "【PDD】【¥55】 日康儿童马桶坐便器婴儿便盆六月以上男女宝宝专用尿盆座便携厕所",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275615743707973"
+          },
+          {
+            "item_id": "便盆_21",
+            "source": "corpus",
+            "text": "昨天可能凌晨两点多睡着啦 梦到我坐在婴儿便盆上拉稀 屎糊了满屁股都是 然后同事过来找我 虽然恶心但睡得特别踏实 我猜只要进入睡眠状态 不管梦到啥拉稀吃屎的事儿 我的身体都会感到满足 这应该是身体开启了自我保护机制",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5274485850638960"
+          },
+          {
+            "item_id": "便盆_24",
+            "source": "corpus",
+            "text": "昨日忘了关狗笼门，墨菲是把大便拉在外面狗便盆上的，但无奈与两猫打闹，早上起来发现扫地机器人被散落在地上的大便卡住， 。终于体会了抹开大便的感觉，刚打扫完，把扫地机器人拖布换了，还用水冲了，不然真洗不干净。没想到扫地机器人还能用 。",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5273765492820566"
+          },
+          {
+            "item_id": "便盆_29",
+            "source": "corpus",
+            "text": "极简/断舍离第37天:白色塑料医用一体式便盆",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5272675349955696"
+          },
+          {
+            "item_id": "便盆_35",
+            "source": "corpus",
+            "text": "我家小时候猫咪的便盆要丢了",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5271541785035415"
+          },
+          {
+            "item_id": "便盆_39",
+            "source": "corpus",
+            "text": "英氏（YEEHOO）宝宝马桶儿童坐便器学如厕训练日常护理上厕所宝宝便盆宝宝座便器若竹绿自主训练",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5271280321565831"
+          },
+          {
+            "item_id": "便盆_41",
+            "source": "corpus",
+            "text": "妹子们我真的要养花枝鼠了 笼子水壶便盆吊篮鼠粮那些都买好了，现在就看啥时候接鼠子来俺家了",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5271077802739776"
+          },
+          {
+            "item_id": "便盆_44",
+            "source": "corpus",
+            "text": "翻译器把一个作者名翻成了便盆我骇然道你这大不敬的软件在说些什么呢怎么可能有人这么起名给我对作者尊重一点啊遂换翻译结果显示的是马桶",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5270693596896129"
+          },
+          {
+            "item_id": "便盆_50",
+            "source": "corpus",
+            "text": "狗子拉屎，拉完掉了一小坨在便盆外面，我刚好看见，她刚好没踩到。苍天啊。",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5269898562637704"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 1,
+        "n_anchor": 0,
+        "n_corpus": 1,
+        "examples": [
+          "卧槽骑鸭子！虽然但是这个系列叫便盆。。"
+        ],
+        "items": [
+          {
+            "item_id": "便盆_8",
+            "source": "corpus",
+            "text": "卧槽骑鸭子！虽然但是这个系列叫便盆。。",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5255080307593069"
+          }
+        ]
+      }
+    ]
+  }
+}

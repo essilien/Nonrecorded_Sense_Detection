@@ -1,0 +1,223 @@
+{
+  "word": "橱柜",
+  "meaning": "放置厨具、餐具或食材的柜子",
+  "prep_stats": {
+    "word": "橱柜",
+    "meaning": "放置厨具、餐具或食材的柜子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 24,
+        "n_anchor": 5,
+        "n_corpus": 19,
+        "examples": [
+          "为了找到合适的橱柜，她在网上看了好多家的设计。",
+          "她发现新买的橱柜比旧的更宽敞，能放下更多的锅碗瓢盆。",
+          "妈妈把调料都放在橱柜的最上面一层，以防孩子不小心拿错。",
+          "客厅旁边的橱柜被她用来存放一些不再需要的书籍和杂志。",
+          "她觉得新买的橱柜颜色和家里其他家具搭配得很好，整体看起来很和谐。"
+        ],
+        "items": [
+          {
+            "item_id": "橱柜_anchor_1",
+            "source": "anchor",
+            "text": "为了找到合适的橱柜，她在网上看了好多家的设计。",
+            "target_start": 7,
+            "target_end": 9
+          },
+          {
+            "item_id": "橱柜_anchor_2",
+            "source": "anchor",
+            "text": "她发现新买的橱柜比旧的更宽敞，能放下更多的锅碗瓢盆。",
+            "target_start": 6,
+            "target_end": 8
+          },
+          {
+            "item_id": "橱柜_anchor_3",
+            "source": "anchor",
+            "text": "妈妈把调料都放在橱柜的最上面一层，以防孩子不小心拿错。",
+            "target_start": 8,
+            "target_end": 10
+          },
+          {
+            "item_id": "橱柜_anchor_4",
+            "source": "anchor",
+            "text": "客厅旁边的橱柜被她用来存放一些不再需要的书籍和杂志。",
+            "target_start": 5,
+            "target_end": 7
+          },
+          {
+            "item_id": "橱柜_anchor_5",
+            "source": "anchor",
+            "text": "她觉得新买的橱柜颜色和家里其他家具搭配得很好，整体看起来很和谐。",
+            "target_start": 6,
+            "target_end": 8
+          },
+          {
+            "item_id": "橱柜_1",
+            "source": "corpus",
+            "text": "装修的坑：之前的橱柜竟然都是80cm高，如果我老了腰痛就全部怪它，这次我洗菜区95cm炒菜区85cm！",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5274691188560383"
+          },
+          {
+            "item_id": "橱柜_3",
+            "source": "corpus",
+            "text": "我设计了一个更适合中国家庭的橱柜",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5266548875068827"
+          },
+          {
+            "item_id": "橱柜_5",
+            "source": "corpus",
+            "text": "最近当做饭博主，发现家里菜刀都钝了。 磨了半天也不行，就在网上买了几把。 五天都没发货，商家说不让发，得等到14号。 结果昨晚收拾厨柜，发现了崭新的！ 宝藏橱柜！不知道还藏了多少小惊喜？",
+            "target_start": 78,
+            "target_end": 80,
+            "post_id": "5272386892203960"
+          },
+          {
+            "item_id": "橱柜_6",
+            "source": "corpus",
+            "text": "姐妹们，厨房橱柜样式投票了",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275691444863218"
+          },
+          {
+            "item_id": "橱柜_7",
+            "source": "corpus",
+            "text": "这种整体橱柜收纳，是很方便实用了",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5269823505826427"
+          },
+          {
+            "item_id": "橱柜_8",
+            "source": "corpus",
+            "text": "现在越来越多的家庭，都开始选择这种瓷砖橱柜了",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5234467556822868"
+          },
+          {
+            "item_id": "橱柜_11",
+            "source": "corpus",
+            "text": "听劝！开放了新业务！给邻居家改造瓷砖橱柜！邻居说简直太值了！",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275316890635682"
+          },
+          {
+            "item_id": "橱柜_14",
+            "source": "corpus",
+            "text": "金牌橱柜：厨房美学，悦享烹饪时光金牌橱柜在万家丽三楼的展厅，专注打造高品质厨房空间。作为全屋定制领域的知名品牌，其产品将收纳功能与美学设计完美融合，从吊柜的升降拉篮到地柜的分区收纳，让厨房用品各归其位。",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275807239111874"
+          },
+          {
+            "item_id": "橱柜_17",
+            "source": "corpus",
+            "text": "很多人问我的装修风格，其实就是一个精装改造 ，砖吊顶门都是自带的 我把带的橱柜鞋柜拆了重做的，又做个电视和沙发背景墙，贴的壁布，自己住 都是自己喜欢的元素 也没啥具体风格。",
+            "target_start": 37,
+            "target_end": 39,
+            "post_id": "5275651149927320"
+          },
+          {
+            "item_id": "橱柜_21",
+            "source": "corpus",
+            "text": "Lsw完全就是三次元来的…我想知道他到底知不知道自己有些时候有些想法还有行为真的很找糙如果只是单纯把自己放在是橱柜里非卖绝版商品的位置的话 那很好小姐姐你做到了让全世界人都凝你但糙不到 我被气死了吧",
+            "target_start": 55,
+            "target_end": 57,
+            "post_id": "5275785805693366"
+          },
+          {
+            "item_id": "橱柜_27",
+            "source": "corpus",
+            "text": "厨房垃圾袋用抽取盒，放橱柜，超方便",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275776299828028"
+          },
+          {
+            "item_id": "橱柜_33",
+            "source": "corpus",
+            "text": "💢 rattle 💢 rat（老鼠）+tle（偷） 老鼠在偷东西了！你听，橱柜门被咬的“咯咯作响”！",
+            "target_start": 37,
+            "target_end": 39,
+            "post_id": "5275754929850062"
+          },
+          {
+            "item_id": "橱柜_36",
+            "source": "corpus",
+            "text": "本人彻底变弯虾🦐 爱夫负责最近餐食 清汤牛肉粉和台式卤肉饭都盘光光 甚至开始期待每日晚餐 到点就会去橱柜翻翻等下用到的餐具 看来 我也不是外卖胃嘛 嗝～",
+            "target_start": 50,
+            "target_end": 52,
+            "post_id": "5275737869258128"
+          },
+          {
+            "item_id": "橱柜_42",
+            "source": "corpus",
+            "text": "那还说啥了橱柜99 Angels of Fire Divine Divine Divine～",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275698019435155"
+          },
+          {
+            "item_id": "橱柜_44",
+            "source": "corpus",
+            "text": "4分橱柜B材料包，先行包邮，连接已上wd，专+评抓一个送4分刀具套装（4刀+刀架） O 详情",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5274978960019288"
+          },
+          {
+            "item_id": "橱柜_45",
+            "source": "corpus",
+            "text": "【泽凡定制】以用心定制、亲民价格为理念，深耕全屋定制，为刚需家庭打造高性价比解决方案，涵盖衣柜、橱柜等全品类。采用优质环保板材，符合国标，无甲醛异味，五金优质耐用，专业设计师根据户型定制，提供一站式服务，让刚需家庭轻松享受品质定制。",
+            "target_start": 48,
+            "target_end": 50,
+            "post_id": "5275687020663183"
+          },
+          {
+            "item_id": "橱柜_47",
+            "source": "corpus",
+            "text": "集成灶多功能合一，省空间、吸力强。蒸烤一体，美食轻松做。节省橱柜空间，小户型也能实现大厨电梦想。易清洁好打理，让厨房更高端。",
+            "target_start": 30,
+            "target_end": 32,
+            "post_id": "5275680104776268"
+          },
+          {
+            "item_id": "橱柜_49",
+            "source": "corpus",
+            "text": "万家丽家居建材广场五楼美集盛木作，高端整家木作定制品牌，专注实木定制，打造个性化家居空间。产品覆盖木门、衣柜、护墙板、橱柜等，全品类木作定制，风格统一，颜值与实用双在线。甄选优质实木，环保涂装，无醛无害，守护家人健康；精细工艺，细节考究，质感高级，适配各类户型，提升家居档次。",
+            "target_start": 59,
+            "target_end": 61,
+            "post_id": "5275671678681295"
+          },
+          {
+            "item_id": "橱柜_50",
+            "source": "corpus",
+            "text": "炸炸如果橱柜就好了 这样就没人zy他们谈异性了 首先他们接触的男的基本上都结婚了 其次炸炸估计卡颜应该只会队内消化 再者队外的不可能因为都在拍异性恋影视十有八九都是异性恋 最后123456799zy的dw丝了。",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275668283655246"
+          }
+        ]
+      }
+    ]
+  }
+}

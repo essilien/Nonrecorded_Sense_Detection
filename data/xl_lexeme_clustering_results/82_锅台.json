@@ -1,0 +1,207 @@
+{
+  "word": "锅台",
+  "meaning": "厨房中放置炒锅等的灶台",
+  "prep_stats": {
+    "word": "锅台",
+    "meaning": "厨房中放置炒锅等的灶台",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 22,
+        "n_anchor": 5,
+        "n_corpus": 17,
+        "examples": [
+          "他把刚炒好的土豆丝端下锅台，放在了案板上。",
+          "厨房里挂着一块大大的锅台清洁提示牌，提醒大家勤打扫。",
+          "妈妈把炖好的排骨盛到碗里，端下锅台，放到餐桌上。",
+          "锅台上的几样小工具，像是铲子、夹子，随时能派上用场。",
+          "为了防止锅台烧伤，他在上面铺了一层垫布。"
+        ],
+        "items": [
+          {
+            "item_id": "锅台_anchor_1",
+            "source": "anchor",
+            "text": "他把刚炒好的土豆丝端下锅台，放在了案板上。",
+            "target_start": 11,
+            "target_end": 13
+          },
+          {
+            "item_id": "锅台_anchor_2",
+            "source": "anchor",
+            "text": "厨房里挂着一块大大的锅台清洁提示牌，提醒大家勤打扫。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "锅台_anchor_3",
+            "source": "anchor",
+            "text": "妈妈把炖好的排骨盛到碗里，端下锅台，放到餐桌上。",
+            "target_start": 15,
+            "target_end": 17
+          },
+          {
+            "item_id": "锅台_anchor_4",
+            "source": "anchor",
+            "text": "锅台上的几样小工具，像是铲子、夹子，随时能派上用场。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "锅台_anchor_5",
+            "source": "anchor",
+            "text": "为了防止锅台烧伤，他在上面铺了一层垫布。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "锅台_1",
+            "source": "corpus",
+            "text": "小院垒大锅台 大锅土豆芸豆炖排骨，煎饼卷锅贴子",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5269158648615254"
+          },
+          {
+            "item_id": "锅台_3",
+            "source": "corpus",
+            "text": "冬天就适合吃大锅台 香！！",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5246046370530106"
+          },
+          {
+            "item_id": "锅台_4",
+            "source": "corpus",
+            "text": "这才是真正的围着锅台转",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5175323760266965"
+          },
+          {
+            "item_id": "锅台_5",
+            "source": "corpus",
+            "text": "下雪了，食叔露天做大锅台，猪牛鸡鱼一锅焖，围着锅越吃越香",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5115141192420476"
+          },
+          {
+            "item_id": "锅台_14",
+            "source": "corpus",
+            "text": "每次吃都觉得香迷糊了！天冷了，大锅台吃起来，老板自己腌的泡菜、做得剁椒酱和紫苏酱都超绝！",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5222825537569619"
+          },
+          {
+            "item_id": "锅台_15",
+            "source": "corpus",
+            "text": "中午吃的咱妈烀饼， 味道很不错，有点像我们湖北的大锅台。 但是感觉没这里好吃😊",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5235792123531765"
+          },
+          {
+            "item_id": "锅台_22",
+            "source": "corpus",
+            "text": "给老爸接回家以后，上班反而变成休息了 ，还好他能半自理，以前宁可不吃都不做饭的人（是我没错了），现在早晨睁眼就往厨房跑，下班就围锅台转。 人这一生真是不能偷懒，该你做的事前面不做后面做，老天爷一件也不会让你少做 。",
+            "target_start": 64,
+            "target_end": 66,
+            "post_id": "5275217173677117"
+          },
+          {
+            "item_id": "锅台_26",
+            "source": "corpus",
+            "text": "刚刚读到的一句话： “她白天可以绕着锅台和工位转悠，夜晚也可以脱下围裙坐着南瓜马车去赴一场盛会。” 对于30＋已婚已育的女性，建立自己的生活当如是。",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5274948685794357"
+          },
+          {
+            "item_id": "锅台_27",
+            "source": "corpus",
+            "text": "可能是没睡醒吧 煮个小米粥 那锅台比炒了十个菜还惨",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5274859552641208"
+          },
+          {
+            "item_id": "锅台_28",
+            "source": "corpus",
+            "text": "看逐玉真想他们永远待在这个村子里绕着锅台家长里短过小日子就好了……完全不想看后续的剧情推进TT",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5274656724748901"
+          },
+          {
+            "item_id": "锅台_34",
+            "source": "corpus",
+            "text": "今年妇女节一个最大的变化，就是没人叫女神节了！这就对了，因为三八妇女节的全称是国际劳动妇女节，本质是致敬广大劳动女性的勤劳和智慧。“妇女”二字，代表的是为人女、为人妻、为人母的担当，是一边围着锅台转，一边认真工作的每一位了不起的女性！",
+            "target_start": 96,
+            "target_end": 98,
+            "post_id": "5274216858912199"
+          },
+          {
+            "item_id": "锅台_40",
+            "source": "corpus",
+            "text": "O 【中吕·卖花声】忆往昔 黎明陌上挖筐菜，傍晚田中捡捆柴，煤油灯下绕锅台。夜听蟋蟀，昼勒裤带。哪知今、减肥无奈。",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5273933767248109"
+          },
+          {
+            "item_id": "锅台_41",
+            "source": "corpus",
+            "text": "……… 跳到锅台上进锅就太不像话了吧！！",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5273610489172039"
+          },
+          {
+            "item_id": "锅台_44",
+            "source": "corpus",
+            "text": "昨晚吃的大锅台也太辣了 辣的拉肚子 烧得慌 还想着这么久没吃辣了非得去辣的那桌",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5273769229944081"
+          },
+          {
+            "item_id": "锅台_46",
+            "source": "corpus",
+            "text": "不劳灶神尊口开，自动抢挡上锅台。舍身取义又献羔，一并适溷烹好歹。《迟早的事》",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5273433911854331"
+          },
+          {
+            "item_id": "锅台_48",
+            "source": "corpus",
+            "text": "新局长给开会 让我们平时干点活不要“急头掰脸”“五马长枪” 工作先跟副局长汇报 不要“隔着锅台上炕” 这要不是东北人 还真听不懂",
+            "target_start": 45,
+            "target_end": 47,
+            "post_id": "5273410036826600"
+          },
+          {
+            "item_id": "锅台_50",
+            "source": "corpus",
+            "text": "我旁边个女士一身油烟味 我很难想象我要是没工作，每天围着锅台转是啥样子",
+            "target_start": 28,
+            "target_end": 30,
+            "post_id": "5273403088962415"
+          }
+        ]
+      }
+    ]
+  }
+}

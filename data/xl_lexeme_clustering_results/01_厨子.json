@@ -1,0 +1,312 @@
+{
+  "word": "厨子",
+  "meaning": "厨师",
+  "prep_stats": {
+    "word": "厨子",
+    "meaning": "厨师",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 28
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      1
+    ],
+    "candidate_clusters": [
+      0
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 7,
+        "n_anchor": 0,
+        "n_corpus": 7,
+        "examples": [
+          "连这个也有锤！厨子此生分明了",
+          "卧槽我不行了。本来我想说你搞清某黑图别搞人家头像那个美少女，也不知道是什么ip说不定人家厨子伤心了……后来点进去一看，啊，美，美少年，自设。那，那好吧。",
+          "原来棍年这么带劲吗.. 冷圈遇上好厨子",
+          "卧槽啊好厨子直接一句话“我以为他带我去结婚”",
+          "吃到仙品了 爽哉 美哉 如此nb的厨子只更了一个系列的📱 甚至还是未完结 我真哭了吧。"
+        ],
+        "items": [
+          {
+            "item_id": "厨子_2",
+            "source": "corpus",
+            "text": "连这个也有锤！厨子此生分明了",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5274962250434795"
+          },
+          {
+            "item_id": "厨子_14",
+            "source": "corpus",
+            "text": "卧槽我不行了。本来我想说你搞清某黑图别搞人家头像那个美少女，也不知道是什么ip说不定人家厨子伤心了……后来点进去一看，啊，美，美少年，自设。那，那好吧。",
+            "target_start": 44,
+            "target_end": 46,
+            "post_id": "5275809495649126"
+          },
+          {
+            "item_id": "厨子_28",
+            "source": "corpus",
+            "text": "原来棍年这么带劲吗.. 冷圈遇上好厨子",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275801383338089"
+          },
+          {
+            "item_id": "厨子_33",
+            "source": "corpus",
+            "text": "卧槽啊好厨子直接一句话“我以为他带我去结婚”",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275800640161465"
+          },
+          {
+            "item_id": "厨子_34",
+            "source": "corpus",
+            "text": "吃到仙品了 爽哉 美哉 如此nb的厨子只更了一个系列的📱 甚至还是未完结 我真哭了吧。",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275800594028504"
+          },
+          {
+            "item_id": "厨子_40",
+            "source": "corpus",
+            "text": "哦呵呵每点开一篇乱炖厨子都是墩子大嬷嬷主线围着墩子走我好难受我好崩溃我享福走了",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275799017488837"
+          },
+          {
+            "item_id": "厨子_43",
+            "source": "corpus",
+            "text": "竞测闹鬼了，我一般不打厨子，但是你这贫瘠的文字到底怎么信誓旦旦的保证这对有吸引力啊",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275798401713591"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 26,
+        "n_anchor": 5,
+        "n_corpus": 21,
+        "examples": [
+          "这家新开业的餐厅请来了几位厨子，他们都是远近闻名的大厨。",
+          "他的厨子技艺超群，每次做出来的菜肴都能让食客赞不绝口。",
+          "在一家老字号餐馆里，我有幸认识了一位厨子，他不仅厨艺了得，还是个乐于分享美食故事的人。",
+          "那位厨子平时总是忙得不可开交，但一到周末，他就会邀请朋友一起探讨烹饪秘籍和美食文化。",
+          "他家的厨子手艺精湛，特别是制作红烧肉和清蒸鱼时，总能让人口水直流。"
+        ],
+        "items": [
+          {
+            "item_id": "厨子_anchor_1",
+            "source": "anchor",
+            "text": "这家新开业的餐厅请来了几位厨子，他们都是远近闻名的大厨。",
+            "target_start": 13,
+            "target_end": 15
+          },
+          {
+            "item_id": "厨子_anchor_2",
+            "source": "anchor",
+            "text": "他的厨子技艺超群，每次做出来的菜肴都能让食客赞不绝口。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "厨子_anchor_3",
+            "source": "anchor",
+            "text": "在一家老字号餐馆里，我有幸认识了一位厨子，他不仅厨艺了得，还是个乐于分享美食故事的人。",
+            "target_start": 18,
+            "target_end": 20
+          },
+          {
+            "item_id": "厨子_anchor_4",
+            "source": "anchor",
+            "text": "那位厨子平时总是忙得不可开交，但一到周末，他就会邀请朋友一起探讨烹饪秘籍和美食文化。",
+            "target_start": 2,
+            "target_end": 4
+          },
+          {
+            "item_id": "厨子_anchor_5",
+            "source": "anchor",
+            "text": "他家的厨子手艺精湛，特别是制作红烧肉和清蒸鱼时，总能让人口水直流。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "厨子_1",
+            "source": "corpus",
+            "text": "全萨尔布吕肯最好的厨子！",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275620558769651"
+          },
+          {
+            "item_id": "厨子_3",
+            "source": "corpus",
+            "text": "厨子活该被虐！在不懂事的年纪做了选择，在懂事的年纪承受了后果",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275604612025465"
+          },
+          {
+            "item_id": "厨子_4",
+            "source": "corpus",
+            "text": "上一个这么热爱的是一名海下厨子",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5264886271578625"
+          },
+          {
+            "item_id": "厨子_5",
+            "source": "corpus",
+            "text": "接待领导是门大学问，厨子高情商办事，改变他的一生",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5270887202820270"
+          },
+          {
+            "item_id": "厨子_7",
+            "source": "corpus",
+            "text": "假期结束了 反而厨子还在过年",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5269644862555932"
+          },
+          {
+            "item_id": "厨子_8",
+            "source": "corpus",
+            "text": "厨子认真听取了网友们关于用上数学课的形式高效哄睡凤雏的建议，效果请听视频。 谢谢好心网友，已经拿小本本把你们都记下来了",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5274317060575444"
+          },
+          {
+            "item_id": "厨子_10",
+            "source": "corpus",
+            "text": "到底谁才是西班牙最会做鸡的厨子？",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275705203229019"
+          },
+          {
+            "item_id": "厨子_11",
+            "source": "corpus",
+            "text": "不要让厨子当1好吗",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275810741092354"
+          },
+          {
+            "item_id": "厨子_17",
+            "source": "corpus",
+            "text": "厨子在水上列车里面用刀战斗真的好帅，唯一一次因为在厨房而且对手是食材才用了刀",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275806326588866"
+          },
+          {
+            "item_id": "厨子_19",
+            "source": "corpus",
+            "text": "牛逼 怎么能这么高，厨子真的多",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275804355268996"
+          },
+          {
+            "item_id": "厨子_21",
+            "source": "corpus",
+            "text": "真没招了吵走好几个厨子是啥意思",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275804122743259"
+          },
+          {
+            "item_id": "厨子_24",
+            "source": "corpus",
+            "text": "米二一句君臣又给宝岚吸引了不少好厨子，每天美美吃饭吃到饱。不过评论区ky的脑残还是不少。不过方向变成了从“宝岚都差辈了”变成“不是爱情是君臣”，嗯嗯谁说臣子不能给君王暖床呢",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275803870037002"
+          },
+          {
+            "item_id": "厨子_26",
+            "source": "corpus",
+            "text": "不是我嗑打啵奕是双强 怎么厨子都默认然是右位了啊 我要气亖了 那桂奕桂不更是 啊啊啊啊啊 然你给我长高长高高",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275802452103500"
+          },
+          {
+            "item_id": "厨子_27",
+            "source": "corpus",
+            "text": "能不能分清纪念和娱乐？这个企划是很严肃的纪念性质。隔壁史同死人厨年年都有纪念日企划也没看谁打啊怎么就htm这么敏感肌？凭什么付出心血的创作就要被拿枪指着？吃饭打厨子你们很牛逼？ 843",
+            "target_start": 80,
+            "target_end": 82,
+            "post_id": "5275769368744752"
+          },
+          {
+            "item_id": "厨子_31",
+            "source": "corpus",
+            "text": "都来吃我家厨子产出的香香饭呀～",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275800729027888"
+          },
+          {
+            "item_id": "厨子_35",
+            "source": "corpus",
+            "text": "其实想看橹穆瑞大三角 但是感觉厨子会被几家粉拖去国道互砍。。。",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5275800473438088"
+          },
+          {
+            "item_id": "厨子_36",
+            "source": "corpus",
+            "text": "不会做饭的健身佬不是一个好厨子",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275799939715057"
+          },
+          {
+            "item_id": "厨子_37",
+            "source": "corpus",
+            "text": "你么姐这是打算重新当厨子给你们发卷酪糖了 卷酪坤快点跪着谢恩吧",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275799920051039"
+          },
+          {
+            "item_id": "厨子_41",
+            "source": "corpus",
+            "text": "一天过去了 还没厨子做澳门饭吗",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5275798841071319"
+          },
+          {
+            "item_id": "厨子_44",
+            "source": "corpus",
+            "text": "厨子你就这样一直做饭不拍电影，年轻的时候都是冯德轮吴彦组现在就沦落到相方是甄子单和无精的地步",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275797742161775"
+          },
+          {
+            "item_id": "厨子_50",
+            "source": "corpus",
+            "text": "说实话我本来对清洁镜头威力没什么实感也就还好吧 结果这几次刷到🫘厨子把谢危谢征剪一起立马高下立见了我去那头老牛是谁。",
+            "target_start": 32,
+            "target_end": 34,
+            "post_id": "5275795935204181"
+          }
+        ]
+      }
+    ]
+  }
+}

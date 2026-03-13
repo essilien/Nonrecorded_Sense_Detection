@@ -1,0 +1,207 @@
+{
+  "word": "厨房",
+  "meaning": "烹饪食物的房间或场所",
+  "prep_stats": {
+    "word": "厨房",
+    "meaning": "烹饪食物的房间或场所",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 17
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 22,
+        "n_anchor": 5,
+        "n_corpus": 17,
+        "examples": [
+          "厨房里的小李正熟练地切着洋葱，准备今晚的晚餐。",
+          "新婚夫妻为庆祝结婚周年，在厨房里忙碌着制作了一顿丰盛的烛光晚餐。",
+          "每次周末，我和姐姐都会去她家帮忙，帮她在厨房里整理食材。",
+          "他最喜欢做的事情就是在厨房里尝试各种新鲜食材制作出美味佳肴。",
+          "奶奶总是会花很多时间在厨房里，她做的饭菜总是那么好吃。"
+        ],
+        "items": [
+          {
+            "item_id": "厨房_anchor_1",
+            "source": "anchor",
+            "text": "厨房里的小李正熟练地切着洋葱，准备今晚的晚餐。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "厨房_anchor_2",
+            "source": "anchor",
+            "text": "新婚夫妻为庆祝结婚周年，在厨房里忙碌着制作了一顿丰盛的烛光晚餐。",
+            "target_start": 13,
+            "target_end": 15
+          },
+          {
+            "item_id": "厨房_anchor_3",
+            "source": "anchor",
+            "text": "每次周末，我和姐姐都会去她家帮忙，帮她在厨房里整理食材。",
+            "target_start": 20,
+            "target_end": 22
+          },
+          {
+            "item_id": "厨房_anchor_4",
+            "source": "anchor",
+            "text": "他最喜欢做的事情就是在厨房里尝试各种新鲜食材制作出美味佳肴。",
+            "target_start": 11,
+            "target_end": 13
+          },
+          {
+            "item_id": "厨房_anchor_5",
+            "source": "anchor",
+            "text": "奶奶总是会花很多时间在厨房里，她做的饭菜总是那么好吃。",
+            "target_start": 11,
+            "target_end": 13
+          },
+          {
+            "item_id": "厨房_1",
+            "source": "corpus",
+            "text": "这些厨房实用小技巧，告诉老人孩子要记好！",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275602779373871"
+          },
+          {
+            "item_id": "厨房_4",
+            "source": "corpus",
+            "text": "厨房动线这样布局，做饭不会手忙脚乱都难 生活小窍门",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5274931694141572"
+          },
+          {
+            "item_id": "厨房_6",
+            "source": "corpus",
+            "text": "懒人厨房设计，这样装太省事了",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275652355786980"
+          },
+          {
+            "item_id": "厨房_8",
+            "source": "corpus",
+            "text": "这厨房是中式巅峰了……网友：能在这样的厨房里做饭是一种幸福！！！",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275580586263157"
+          },
+          {
+            "item_id": "厨房_22",
+            "source": "corpus",
+            "text": "晚上睡不着去厨房炒菜，26解压新项目做饭 醋溜娃娃菜+剩的一根肠+玉米+煎蛋一个 坏了好多的可惜草莓+阿克苏老家带来再不吃就坏了的苹果",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275809470481666"
+          },
+          {
+            "item_id": "厨房_24",
+            "source": "corpus",
+            "text": "在厨房做饭时，可以利用间歇时间做一些对身体有益的拉伸🍃！",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275399831684015"
+          },
+          {
+            "item_id": "厨房_28",
+            "source": "corpus",
+            "text": "最近给自己做饭变勤快了 因为厨房没那么冷了 每天睡前给自己写明天吃什么真开心 就是也没拍照，因为吃的都是普通的 而且也讨厌刷碗。",
+            "target_start": 14,
+            "target_end": 16,
+            "post_id": "5275807654347101"
+          },
+          {
+            "item_id": "厨房_29",
+            "source": "corpus",
+            "text": "我发现独居的好处就是想做什么做什么，我仿佛脱离了社会的规则，我甚至可以在半夜十二点半洗头，然后刷到一个美食视频于是进入厨房开始卤鸡腿，好奇妙",
+            "target_start": 59,
+            "target_end": 61,
+            "post_id": "5275807224170099"
+          },
+          {
+            "item_id": "厨房_30",
+            "source": "corpus",
+            "text": "给老婆们汇报一下收拾的进度 今天自己洗了地毯（放洗浴间地上蹲着用刷子纯手刷冲洗 刷了20分钟左右再丢进洗衣机里又洗了一遍）叠了很多双袜子 叠睡衣 手动拖地 擦洗洗漱台面 一会儿再收拾一下小推车什么的 晚点有力气在整理一下厨房 平时偷懒的后果就是如此 干不完的活儿",
+            "target_start": 110,
+            "target_end": 112,
+            "post_id": "5275790637271843"
+          },
+          {
+            "item_id": "厨房_31",
+            "source": "corpus",
+            "text": "搬新房子爽翻天了 跟酒店一样 简约风格 又大装修又好 大冰箱洗衣机厨房装备齐全 卫生间也特别大 密码锁 房间拍照也是嘎嘎出片 以后每天回家我都是开开心心的",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5275806437999338"
+          },
+          {
+            "item_id": "厨房_33",
+            "source": "corpus",
+            "text": "好好看的美甲 好好看的手机壳 家楼下新开的 油太大了 我俩真不行 从内而外的油 而且开放厨房 炸串味都到我俩身上来了 明天就不能躺在我的小床上了 好桑心",
+            "target_start": 44,
+            "target_end": 46,
+            "post_id": "5275805894836228"
+          },
+          {
+            "item_id": "厨房_35",
+            "source": "corpus",
+            "text": "北斗七行在厨房忙忙碌碌的样子就像看家庭剧，很温馨很治愈！ 花儿与少年｜王安宇｜胡先煦｜迪丽热巴｜辛芷蕾｜秦岚｜综艺",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275688326399083"
+          },
+          {
+            "item_id": "厨房_38",
+            "source": "corpus",
+            "text": "esther 女士给自己定制了一件厨房小公主围裙",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275798265398115"
+          },
+          {
+            "item_id": "厨房_41",
+            "source": "corpus",
+            "text": "虞厨娘 厨房公主Esther👑",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275804201649488"
+          },
+          {
+            "item_id": "厨房_46",
+            "source": "corpus",
+            "text": "厨娘小公主现在还会炸厨房吗",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275803396084592"
+          },
+          {
+            "item_id": "厨房_48",
+            "source": "corpus",
+            "text": "三月，我的生日月， 每年这个时候，都让我觉得充满希望。 下班回家，推开厨房的窗， 楼下孩子们骑车嬉闹的声音，像提前到来的夏天。 玉兰静静绽放， 万物温柔，一切都充满光亮，觉得很幸福。 没有什么特别深刻的感悟， 只觉得，此刻就很好。",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5275803346272524"
+          },
+          {
+            "item_id": "厨房_50",
+            "source": "corpus",
+            "text": "好可爱啊，厨房公主Esther👑",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275802279086707"
+          }
+        ]
+      }
+    ]
+  }
+}

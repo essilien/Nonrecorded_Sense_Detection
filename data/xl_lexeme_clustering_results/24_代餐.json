@@ -1,0 +1,413 @@
+{
+  "word": "代餐",
+  "meaning": "一种用来替代传统饭菜的食品或饮料，通常富含营养，可作为一餐的替代品。",
+  "prep_stats": {
+    "word": "代餐",
+    "meaning": "一种用来替代传统饭菜的食品或饮料，通常富含营养，可作为一餐的替代品。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 41
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 44,
+        "n_anchor": 5,
+        "n_corpus": 39,
+        "examples": [
+          "小王为了节食，每天都在尝试各种代餐产品。",
+          "她最近在研究哪种代餐粉对身体最友好。",
+          "医生建议小李采用低热量代餐来控制体重。",
+          "他开始尝试一种新型代餐棒，希望能快速补充能量。",
+          "超市推出了多种口味的代餐奶昔，吸引了不少上班族购买。"
+        ],
+        "items": [
+          {
+            "item_id": "代餐_anchor_1",
+            "source": "anchor",
+            "text": "小王为了节食，每天都在尝试各种代餐产品。",
+            "target_start": 15,
+            "target_end": 17
+          },
+          {
+            "item_id": "代餐_anchor_2",
+            "source": "anchor",
+            "text": "她最近在研究哪种代餐粉对身体最友好。",
+            "target_start": 8,
+            "target_end": 10
+          },
+          {
+            "item_id": "代餐_anchor_3",
+            "source": "anchor",
+            "text": "医生建议小李采用低热量代餐来控制体重。",
+            "target_start": 11,
+            "target_end": 13
+          },
+          {
+            "item_id": "代餐_anchor_4",
+            "source": "anchor",
+            "text": "他开始尝试一种新型代餐棒，希望能快速补充能量。",
+            "target_start": 9,
+            "target_end": 11
+          },
+          {
+            "item_id": "代餐_anchor_5",
+            "source": "anchor",
+            "text": "超市推出了多种口味的代餐奶昔，吸引了不少上班族购买。",
+            "target_start": 10,
+            "target_end": 12
+          },
+          {
+            "item_id": "代餐_1",
+            "source": "corpus",
+            "text": "【代餐】刷到首页的体型差思考有感而发所以也来盘点一下自己爱看的小大体位，代餐可随意",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5275374296504619"
+          },
+          {
+            "item_id": "代餐_2",
+            "source": "corpus",
+            "text": "老大我们每天这样吃代餐真的能活下去吗",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275349203029977"
+          },
+          {
+            "item_id": "代餐_3",
+            "source": "corpus",
+            "text": "58223 果³代餐来噜",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5274507045768232"
+          },
+          {
+            "item_id": "代餐_4",
+            "source": "corpus",
+            "text": "【290】【代餐】完全是🉑",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275631168259033"
+          },
+          {
+            "item_id": "代餐_5",
+            "source": "corpus",
+            "text": "这份代餐一定会流行的",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5257894590153514"
+          },
+          {
+            "item_id": "代餐_8",
+            "source": "corpus",
+            "text": "代餐 我大吃一口",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5275061842871542"
+          },
+          {
+            "item_id": "代餐_10",
+            "source": "corpus",
+            "text": "我已经代餐代到不知道天地为何物了",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5274710448541894"
+          },
+          {
+            "item_id": "代餐_11",
+            "source": "corpus",
+            "text": "正式通知：鉴于米饭煮得太慢，菜做得太麻烦，即日起，本餐桌官方认证——啤酒为合法“代餐”。干杯，吨吨吨！",
+            "target_start": 40,
+            "target_end": 42,
+            "post_id": "5275793678143173"
+          },
+          {
+            "item_id": "代餐_12",
+            "source": "corpus",
+            "text": "bond的词义是密切联系强烈的情感纽带培养关系而bondage是奴役限制束缚 加上了age（时间）词义变得更重了/很适合代餐但是没想好代哪对",
+            "target_start": 60,
+            "target_end": 62,
+            "post_id": "5275811550333247"
+          },
+          {
+            "item_id": "代餐_14",
+            "source": "corpus",
+            "text": "真好啊我觉得模拟人生4和我的朋友聚会新生活就是最适合代餐的两款游戏，m4可以膏肓，我的朋友时候弱智小甜饼",
+            "target_start": 26,
+            "target_end": 28,
+            "post_id": "5275811227895523"
+          },
+          {
+            "item_id": "代餐_16",
+            "source": "corpus",
+            "text": "减脂代餐总是强调饱腹感真是莫名其妙 我缺饱腹感吗？我甚至根本不饿 纯馋",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275810816329749"
+          },
+          {
+            "item_id": "代餐_17",
+            "source": "corpus",
+            "text": "哎我真想说红一身上的邪气真的全球无代餐 哪怕这几年换风格了也不像改邪归正反而演的很拙劣 年轻时候可能年纪小相对纯良一点还没那么明显 也可能是人一旦放飞过自我就不可能收敛了 总之是很玄妙的气质吧 才情也好相貌也罢恨不得让全世界知道又欲盖弥彰的自卑 这样就很好 最讨厌乖孩子",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275810783299298"
+          },
+          {
+            "item_id": "代餐_18",
+            "source": "corpus",
+            "text": "我服了吧……小号就是个小白号 分享的代餐jv截图居然被推流了 还全都推给真给和麦片的 刚刚看了粉丝列表里面一堆肌肉怪给 我糙啊你们找错了我是同人女啊 wb我搞不懂你了",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275810653274446"
+          },
+          {
+            "item_id": "代餐_19",
+            "source": "corpus",
+            "text": "是谁看到此等拜大将军为师的小孩哥就已经为自己找好了代餐为其画好了大饼",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275810262943889"
+          },
+          {
+            "item_id": "代餐_20",
+            "source": "corpus",
+            "text": "我嗑cp就喜欢幻想，暑假嗑颖敏的时候正好在学车，每次练车和去驾校路上就循环在我变成你之前和其他华语情歌，边代餐边幻想两个小姐姐杀完人踏上末路狂花之旅…",
+            "target_start": 53,
+            "target_end": 55,
+            "post_id": "5275809604436423"
+          },
+          {
+            "item_id": "代餐_22",
+            "source": "corpus",
+            "text": "诸侯雨季代餐两则",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275808865452793"
+          },
+          {
+            "item_id": "代餐_23",
+            "source": "corpus",
+            "text": "我搞氐族的方式就是急头白脸地刷一通罗杰米 欧吧瘾犯了 找了那么多代餐发现还是原装罗杰米最好吃 我去！",
+            "target_start": 32,
+            "target_end": 34,
+            "post_id": "5275808390185302"
+          },
+          {
+            "item_id": "代餐_24",
+            "source": "corpus",
+            "text": "这么一算下来 尹净汉真是我从追星开始坚持得喜欢最久的男爱豆了… 能坚持四年还包括有军白期 果然还是得无代餐无黑料无绯闻高豆德",
+            "target_start": 51,
+            "target_end": 53,
+            "post_id": "5275808381799613"
+          },
+          {
+            "item_id": "代餐_25",
+            "source": "corpus",
+            "text": "卧槽越品越好玩儿 我又在寻代餐",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275808210093331"
+          },
+          {
+            "item_id": "代餐_26",
+            "source": "corpus",
+            "text": "今日面包体代餐大学习； FJ人天生擅长照顾他人，因此单凭体贴不能判断其是否喜欢你。真正关键的信号是：当她在别人面前温暖友善、包容大度，却唯独在你面前表现出反常——如阴阳怪气、暗中挑剔、情绪忽冷忽热，甚至言行让你困惑不解时，恰恰说明她对你有好感",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275807595364771"
+          },
+          {
+            "item_id": "代餐_27",
+            "source": "corpus",
+            "text": "我宣布后面一周内想吃外卖只点轻食 然后只允许自己点两次（因为我买的好多代餐到了 卧槽我服了今年必须给我暴瘦 要不然就把手机摔了",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5275807422614538"
+          },
+          {
+            "item_id": "代餐_28",
+            "source": "corpus",
+            "text": "好好看……全职高手代餐",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275807306219917"
+          },
+          {
+            "item_id": "代餐_30",
+            "source": "corpus",
+            "text": "一直在寻找tpz的代餐 要有代表作但是吵架时候人气又要仅粉丝可见 要好笑但是长得不能好笑 粉圈要猎奇诡异 神人不够cult也不要",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275806957830309"
+          },
+          {
+            "item_id": "代餐_31",
+            "source": "corpus",
+            "text": "刷到刀剑那个…对别人没什么想法但是我本人不喜欢吃代餐，我每一个推都是独一无二不可取代的",
+            "target_start": 24,
+            "target_end": 26,
+            "post_id": "5275806911432057"
+          },
+          {
+            "item_id": "代餐_32",
+            "source": "corpus",
+            "text": "缺德产品代餐 我表示好舒服 ｜",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275806578509596"
+          },
+          {
+            "item_id": "代餐_34",
+            "source": "corpus",
+            "text": "诶呦我想起来我之前好像看到过一个气温接吻代餐没多久就吃上正餐了// :咳咳",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5275805426648871"
+          },
+          {
+            "item_id": "代餐_35",
+            "source": "corpus",
+            "text": "我又要进本子里代餐阿姨了",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275804531691352"
+          },
+          {
+            "item_id": "代餐_36",
+            "source": "corpus",
+            "text": "想找代餐。但家产风格真是太不适合嗑cp了，好难找。 漫画里活泼高能量点还好。轻小说因为没有很多描写，感觉人都是淡淡的。虽然我更喜欢小说里这种人设。",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275803769372989"
+          },
+          {
+            "item_id": "代餐_38",
+            "source": "corpus",
+            "text": "老红薯推给我的奶牛猫代餐也是越来越雷霆了不管了直接代",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5275803249017045"
+          },
+          {
+            "item_id": "代餐_41",
+            "source": "corpus",
+            "text": "这辈子都是吃代餐的命",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275802825396445"
+          },
+          {
+            "item_id": "代餐_42",
+            "source": "corpus",
+            "text": "我超这就是江忍孟听代餐啊 拿这个片段宣传的时候我就觉得像忍听 丑沐这样我都觉得有点小帅了，脸再窄几厘米就好了",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5275802409373386"
+          },
+          {
+            "item_id": "代餐_43",
+            "source": "corpus",
+            "text": "不过我看完节目觉得他其实并不怎么喜欢小孩（特别好特别满意），顶多是礼节性喜欢+战略性狗狗代餐。想想也是，自我认知是宝宝的人大概率不喜欢自己生态圈里出现比自己更宝宝的人。（不过也可能是我私心并不想看到男的特别喜欢孩子的模样）",
+            "target_start": 44,
+            "target_end": 46,
+            "post_id": "5275802289308743"
+          },
+          {
+            "item_id": "代餐_44",
+            "source": "corpus",
+            "text": "papi酱的热烈欢迎基本上是我的康熙代餐了！！！chinese那里简直笑爆了！ 这期还cue到大连人了！papi酱唯一真神！！！",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5275800733484785"
+          },
+          {
+            "item_id": "代餐_45",
+            "source": "corpus",
+            "text": "有没有人懂在古代上学的日子里面哥弟有多好吃，求代餐",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275716532306051"
+          },
+          {
+            "item_id": "代餐_46",
+            "source": "corpus",
+            "text": "本人代餐榜top1你说这风景如画我看你心猿意马，top2休恋逝水苦海回身早悟兰因，top3天若有情天亦老，月如无恨月长圆。每天就抱着这几句随机代某对家产然后默默流泪",
+            "target_start": 2,
+            "target_end": 4,
+            "post_id": "5275800166205828"
+          },
+          {
+            "item_id": "代餐_47",
+            "source": "corpus",
+            "text": "4027有无好吃的栗子零食，寻找糖炒栗子代餐中",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5275799897769250"
+          },
+          {
+            "item_id": "代餐_48",
+            "source": "corpus",
+            "text": "我不敢想象四月份的调调头像课我要画多少阴阳师代餐了，问就是好不容易遇到这么戳人的美术风格的游戏",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275799869194726"
+          },
+          {
+            "item_id": "代餐_49",
+            "source": "corpus",
+            "text": "又给火批代餐代爽了，老土老斑起码比0卷老油和娟子多十倍逼格，继续在这审美降级",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275799738389077"
+          },
+          {
+            "item_id": "代餐_50",
+            "source": "corpus",
+            "text": "哎呀，白色的真的好合适，下次再画脱了一层的战斗阶段的样子吧（还要画吗） 代餐永无止境……",
+            "target_start": 36,
+            "target_end": 38,
+            "post_id": "5275799678878898"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 2,
+        "n_anchor": 0,
+        "n_corpus": 2,
+        "examples": [
+          "我跪求hp剧版西里斯是本巴恩斯 我心中唯一的代餐",
+          "感觉陈蒙川像是青春余笛的代餐"
+        ],
+        "items": [
+          {
+            "item_id": "代餐_29",
+            "source": "corpus",
+            "text": "我跪求hp剧版西里斯是本巴恩斯 我心中唯一的代餐",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5275807148673879"
+          },
+          {
+            "item_id": "代餐_39",
+            "source": "corpus",
+            "text": "感觉陈蒙川像是青春余笛的代餐",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275802971145174"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "word": "棉被",
+  "meaning": "用棉花填充的被子",
+  "prep_stats": {
+    "word": "棉被",
+    "meaning": "用棉花填充的被子",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 26
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 2,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [
+      1
+    ],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 29,
+        "n_anchor": 5,
+        "n_corpus": 24,
+        "examples": [
+          "奶奶亲手为她缝制了一条棉被，让她感受到家的温暖。",
+          "每次回老家，妈妈都会给我带一条新棉被，我特别喜欢。",
+          "冬天里，我最喜欢的事情就是盖上暖洋洋的棉被蜷缩在床上。",
+          "为了保持棉被的蓬松，小李每天都会拿出来抖一抖。",
+          "朋友送了我一条手工制作的棉被，上面绣着各种图案，很有心意。"
+        ],
+        "items": [
+          {
+            "item_id": "棉被_anchor_1",
+            "source": "anchor",
+            "text": "奶奶亲手为她缝制了一条棉被，让她感受到家的温暖。",
+            "target_start": 11,
+            "target_end": 13
+          },
+          {
+            "item_id": "棉被_anchor_2",
+            "source": "anchor",
+            "text": "每次回老家，妈妈都会给我带一条新棉被，我特别喜欢。",
+            "target_start": 16,
+            "target_end": 18
+          },
+          {
+            "item_id": "棉被_anchor_3",
+            "source": "anchor",
+            "text": "冬天里，我最喜欢的事情就是盖上暖洋洋的棉被蜷缩在床上。",
+            "target_start": 19,
+            "target_end": 21
+          },
+          {
+            "item_id": "棉被_anchor_4",
+            "source": "anchor",
+            "text": "为了保持棉被的蓬松，小李每天都会拿出来抖一抖。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "棉被_anchor_5",
+            "source": "anchor",
+            "text": "朋友送了我一条手工制作的棉被，上面绣着各种图案，很有心意。",
+            "target_start": 12,
+            "target_end": 14
+          },
+          {
+            "item_id": "棉被_3",
+            "source": "corpus",
+            "text": "不过说起来我家还有比我大一岁的棉被。 那个棉花过几年重新弹一弹。 比我大一岁是因为那是我妈结婚时候家里准备的被子。 现在蒙子不用了改被套了。",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5268103912754572"
+          },
+          {
+            "item_id": "棉被_4",
+            "source": "corpus",
+            "text": "经典场面之它会闷！好多人不知道为什么棉被能包冰块吧",
+            "target_start": 18,
+            "target_end": 20,
+            "post_id": "5271708022870353"
+          },
+          {
+            "item_id": "棉被_5",
+            "source": "corpus",
+            "text": "如果觉得给棉被换洗被套很麻烦的话，可以把棉被换成两条可以机洗的单人毯子。热了盖一条，冷了盖两条。",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5247699932939553"
+          },
+          {
+            "item_id": "棉被_6",
+            "source": "corpus",
+            "text": "今天跟我從小蓋到大的棉被說拜拜了，被套已經蓋到爛，被心的棉花也縮成一團，實在蓋不了才買了一張新的。一張棉被，思考了半年才下單…",
+            "target_start": 10,
+            "target_end": 12,
+            "post_id": "5274316032967442"
+          },
+          {
+            "item_id": "棉被_8",
+            "source": "corpus",
+            "text": "棉被和羽绒被相比下来，我反而更喜欢棉被哎 羽绒被轻飘飘的，盖起来虽然轻，但是不踏实 现在天气冷了，把我的八斤大棉被拿出来，盖在身上有一点分量，钻进去很快就会被压昏了！入睡超快！",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5240148360173061"
+          },
+          {
+            "item_id": "棉被_9",
+            "source": "corpus",
+            "text": "在山顶眺望大棉被闪亮登场✨",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5262331459408209"
+          },
+          {
+            "item_id": "棉被_10",
+            "source": "corpus",
+            "text": "大家旧的棉被怎么处理啊，去年换了两领，最近又换了一领，都是棉花被，刚想叫旧衣回收，发现棉被是不收的",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5262257688677944"
+          },
+          {
+            "item_id": "棉被_11",
+            "source": "corpus",
+            "text": "【冬天大厚棉被收纳技巧 省力省空间！】____到了收棉被的季节，可以先收藏备用",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5260326368968890"
+          },
+          {
+            "item_id": "棉被_18",
+            "source": "corpus",
+            "text": "我想象我是个艺术家，躺在我的钢管上下铺上，拼命裹紧棉被，时不时因为手脚冰冷而醒来",
+            "target_start": 25,
+            "target_end": 27,
+            "post_id": "5275799998955901"
+          },
+          {
+            "item_id": "棉被_23",
+            "source": "corpus",
+            "text": "我受够这个天气了、我现在两张被子在床上！一条毛毯一条棉被，两个晚上换一轮有意思吗！",
+            "target_start": 26,
+            "target_end": 28,
+            "post_id": "5275787290740063"
+          },
+          {
+            "item_id": "棉被_25",
+            "source": "corpus",
+            "text": "真是浑身燥热呀。哈哈。但是一切都是因为我忘记换掉这个冬季使用的超厚棉被了，号主现在热得流猪油了",
+            "target_start": 33,
+            "target_end": 35,
+            "post_id": "5275786406004161"
+          },
+          {
+            "item_id": "棉被_27",
+            "source": "corpus",
+            "text": "换季/旅游/搬家...都必备的收纳神器！！ 𝟏𝟔.𝟗🉐𝟓件 太力收纳袋 超大号𝟐个+中号𝟑个✅免抽气真空压缩的，日常超市都要一件就要这个价！换季天热棉被/羽绒服/毯子都能收纳起来！",
+            "target_start": 74,
+            "target_end": 76,
+            "post_id": "5275780512221676"
+          },
+          {
+            "item_id": "棉被_28",
+            "source": "corpus",
+            "text": "怎么办!!!看到别人家孩子都漏气…视频里跑出残影 我也想看any漏气叻,想看她抱着自己的大棉被落荒而逃",
+            "target_start": 45,
+            "target_end": 47,
+            "post_id": "5275779950711895"
+          },
+          {
+            "item_id": "棉被_29",
+            "source": "corpus",
+            "text": "过完年来觉得晚上睡觉有点热 把那床十斤棉被早早收起来了 今天感觉越睡越冷 重返十斤棉被",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5275779450803331"
+          },
+          {
+            "item_id": "棉被_30",
+            "source": "corpus",
+            "text": "有没有足够回忆能编织成棉被",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275777559953920"
+          },
+          {
+            "item_id": "棉被_31",
+            "source": "corpus",
+            "text": "喜欢现在的天气，不乱也不热，盖上棉被特别舒服",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275776729747662"
+          },
+          {
+            "item_id": "棉被_35",
+            "source": "corpus",
+            "text": "太力真空压缩收纳袋抽衣物衣服加厚棉被被子旅行整理专用必备神器 【到手价】 16.90 元 【券面额】 10 元 【下单链接】 O 如链接失效点进来复制下面口令打开淘宝立领优惠券 9Fu😊zhi4/vtiHUwOnHeo/:// CZ3457,打開/",
+            "target_start": 16,
+            "target_end": 18,
+            "post_id": "5275770630702393"
+          },
+          {
+            "item_id": "棉被_40",
+            "source": "corpus",
+            "text": "地震发生后，“台湾同胞平安”登顶热搜，福建网友称“确认自身安全后，第一时间刷台湾消息”。从台北市民用棉被护头避险，到福建民众自发祈福，彰显血脉相连的同胞情谊。",
+            "target_start": 50,
+            "target_end": 52,
+            "post_id": "5275753155401268"
+          },
+          {
+            "item_id": "棉被_41",
+            "source": "corpus",
+            "text": "很爱金枪鱼肚…… 事事顺顺利利 ，还有不断的放晴天，衣服和棉被都是阳光的味道。 我要改正熬夜这个大大的陋习！",
+            "target_start": 29,
+            "target_end": 31,
+            "post_id": "5275747080209383"
+          },
+          {
+            "item_id": "棉被_42",
+            "source": "corpus",
+            "text": "甲乙丙三人一起出游，甲感冒了。晚上，大家同睡一床。半夜，甲打了一个大喷涕，乙和丙的脸上都中招了。乙丙：下次要通知我们！ 过了半个时辰，甲：注意了！……乙丙闻言赶紧钻入棉被中，确定与外界没有连通！只听一声闷响，甲放了个屁！",
+            "target_start": 83,
+            "target_end": 85,
+            "post_id": "5275740539982260"
+          },
+          {
+            "item_id": "棉被_43",
+            "source": "corpus",
+            "text": "东亚家庭出来的小孩就是会一次又一次的想去弄懂原生家庭这本书，后来发现是一件早就凉透了的棉被，怎么都冷",
+            "target_start": 43,
+            "target_end": 45,
+            "post_id": "5275735126183480"
+          },
+          {
+            "item_id": "棉被_44",
+            "source": "corpus",
+            "text": "这段时间出太阳蛮热的，棉被戏份还有多少",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275729419832761"
+          },
+          {
+            "item_id": "棉被_47",
+            "source": "corpus",
+            "text": "原来油浸鸡枞菌这么贵啊，大学的时候室友给了我两大瓶，我怕碰着了还特地用棉被包了带回家，结果不知道在大巴上怎么碎了，被子也脏了，被我妈骂了一顿",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5275711440164111"
+          },
+          {
+            "item_id": "棉被_50",
+            "source": "corpus",
+            "text": "云浓墨载梦， 日赫隐画峰。 温暖香已染， 抱可医曚曚。 ——东邪・多云了, 收回棉被 260312 1612 Ⅰ 温州",
+            "target_start": 40,
+            "target_end": 42,
+            "post_id": "5275678087320125"
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 2,
+        "n_anchor": 0,
+        "n_corpus": 2,
+        "examples": [
+          "这个mean棉被真是唯恐天下不乱！// :回复 :你这个咖位别蹭// :回复 :是九个字母啦 // :难道是六个字母",
+          "永远抵制不让江山 抵制诈骗剧组 抵制阴阳剧本 抵制内娱棉被"
+        ],
+        "items": [
+          {
+            "item_id": "棉被_34",
+            "source": "corpus",
+            "text": "这个mean棉被真是唯恐天下不乱！// :回复 :你这个咖位别蹭// :回复 :是九个字母啦 // :难道是六个字母",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275771960560639"
+          },
+          {
+            "item_id": "棉被_38",
+            "source": "corpus",
+            "text": "永远抵制不让江山 抵制诈骗剧组 抵制阴阳剧本 抵制内娱棉被",
+            "target_start": 27,
+            "target_end": 29,
+            "post_id": "5275758169953669"
+          }
+        ]
+      }
+    ]
+  }
+}

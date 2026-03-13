@@ -1,0 +1,199 @@
+{
+  "word": "帮厨",
+  "meaning": "在厨房中协助厨师准备食材或烹饪的人",
+  "prep_stats": {
+    "word": "帮厨",
+    "meaning": "在厨房中协助厨师准备食材或烹饪的人",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 16
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 21,
+        "n_anchor": 5,
+        "n_corpus": 16,
+        "examples": [
+          "帮厨小王今天早上提前到岗，开始帮助厨师切菜。",
+          "她在一家餐馆当帮厨已经有半年了，对各种菜肴的制作流程已经很熟悉。",
+          "小李被分配到餐厅做帮厨，尽管刚开始有些手忙脚乱，但她很快融入了工作。",
+          "新来的帮厨虽然经验不足，但在厨师的指导下，也能够快速上手。",
+          "帮厨的工作看似简单，却需要细心和耐心，她总是尽力做好每一件事。"
+        ],
+        "items": [
+          {
+            "item_id": "帮厨_anchor_1",
+            "source": "anchor",
+            "text": "帮厨小王今天早上提前到岗，开始帮助厨师切菜。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "帮厨_anchor_2",
+            "source": "anchor",
+            "text": "她在一家餐馆当帮厨已经有半年了，对各种菜肴的制作流程已经很熟悉。",
+            "target_start": 7,
+            "target_end": 9
+          },
+          {
+            "item_id": "帮厨_anchor_3",
+            "source": "anchor",
+            "text": "小李被分配到餐厅做帮厨，尽管刚开始有些手忙脚乱，但她很快融入了工作。",
+            "target_start": 9,
+            "target_end": 11
+          },
+          {
+            "item_id": "帮厨_anchor_4",
+            "source": "anchor",
+            "text": "新来的帮厨虽然经验不足，但在厨师的指导下，也能够快速上手。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "帮厨_anchor_5",
+            "source": "anchor",
+            "text": "帮厨的工作看似简单，却需要细心和耐心，她总是尽力做好每一件事。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "帮厨_1",
+            "source": "corpus",
+            "text": "流水的厨房铁打的厨师，致敬每一位在厨房默默付出的厨师和帮厨🫡",
+            "target_start": 27,
+            "target_end": 29,
+            "post_id": "5267384577295295"
+          },
+          {
+            "item_id": "帮厨_2",
+            "source": "corpus",
+            "text": "【速围观！ 】过年期间，空军某炊事班里格外热闹，演员周小斌、歌手纪敏佳和川菜厨师龚永泽都来帮厨啦。他们的“灶台功夫”可不一般！",
+            "target_start": 45,
+            "target_end": 47,
+            "post_id": "5268110157283620"
+          },
+          {
+            "item_id": "帮厨_4",
+            "source": "corpus",
+            "text": "初二回姥爷家，帮厨一上午16个菜，已累趴",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5267684171973600"
+          },
+          {
+            "item_id": "帮厨_6",
+            "source": "corpus",
+            "text": "一下班看到我的两位帮厨很敬业啊 明天我将狠狠露一手！！！",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5272158477485542"
+          },
+          {
+            "item_id": "帮厨_8",
+            "source": "corpus",
+            "text": "岁岁年年柿柿红帮厨唱戏",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5271380607370324"
+          },
+          {
+            "item_id": "帮厨_9",
+            "source": "corpus",
+            "text": "每到快过年的时候，乡村坝坝宴席少不了，今天阿波燕子去帮厨配菜，邻里乡亲聚在一起真热闹 记录生活美食故事四川农村坝坝宴#",
+            "target_start": 26,
+            "target_end": 28,
+            "post_id": "5251750615319877"
+          },
+          {
+            "item_id": "帮厨_10",
+            "source": "corpus",
+            "text": "主厨选三个帮厨的时候所有人都在躲笑死我了 NANA民宿",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5175763730170913"
+          },
+          {
+            "item_id": "帮厨_11",
+            "source": "corpus",
+            "text": "从工地食堂帮厨到东门市场摆摊创业，经历过挫折艰辛，也品尝过人情冷暖。李娟一路走来主打就是稳抓实干、坚定向前！这回李娟教你一手事业一手友情两手抓！ 董晴的微博直播",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5275297513734745"
+          },
+          {
+            "item_id": "帮厨_17",
+            "source": "corpus",
+            "text": "进入第五集开始真的有经济上行的蓬勃感 不管是方婉之和高翔在人才市场的斗嘴， 还是方婉之在工地帮厨的日常 都有一种热热闹闹欣欣向荣的感觉 很喜欢",
+            "target_start": 46,
+            "target_end": 48,
+            "post_id": "5275753870263473"
+          },
+          {
+            "item_id": "帮厨_20",
+            "source": "corpus",
+            "text": "方婉之，还真是打工女王 自从休学到深圳，截止12集，打了七八份工；工地帮厨、护工、制衣厂女工、饭店服务员、酒店服务员… 谭松韵对人物的塑造能力太强了。把每一份工作都是变成人物的脚印，每一步都踩在真实里，让“草根逆袭”更加可信、动人。",
+            "target_start": 35,
+            "target_end": 37,
+            "post_id": "5275650332297630"
+          },
+          {
+            "item_id": "帮厨_33",
+            "source": "corpus",
+            "text": "两个人 小赵同学做饭第一名🥇 我是帮厨第一名和吃菜第一名🥇",
+            "target_start": 17,
+            "target_end": 19,
+            "post_id": "5275424244634721"
+          },
+          {
+            "item_id": "帮厨_34",
+            "source": "corpus",
+            "text": "今天我是帮厨～wil做的天妇罗🍤，老黄做了雪花牛肉煲，青椒五花肉炒蛋，我依然简单的做了青菜汤…",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275385822708409"
+          },
+          {
+            "item_id": "帮厨_38",
+            "source": "corpus",
+            "text": "好想看40藻帮厨梳头发。",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5275325086304491"
+          },
+          {
+            "item_id": "帮厨_41",
+            "source": "corpus",
+            "text": "5579 后续是jc叔叔真的过去了发现真的是杀猪然后帮厨了hhh",
+            "target_start": 26,
+            "target_end": 28,
+            "post_id": "5273790409867883"
+          },
+          {
+            "item_id": "帮厨_45",
+            "source": "corpus",
+            "text": "解读方婉之的霸总之路，做过帮厨，拉链厂女工，医院护工，“遭遇过背叛，受过委屈，但凭着不服输的劲儿，一路闯出了霸总之路。”",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5274930704548455"
+          },
+          {
+            "item_id": "帮厨_50",
+            "source": "corpus",
+            "text": "一想到哥哥会做饭就感觉此人好梦程度+122％……看他穿上围裙系背后绳子系不上就去帮他结果帮着帮着就十指相扣了……抱着他脖子趴在他肩头点菜比粉红的耳朵先来的是一声黏糊糊的好……给他帮厨蹲在垃圾桶边择菜他拉你起来说在水槽择这样不费腰……",
+            "target_start": 89,
+            "target_end": 91,
+            "post_id": "5274721056194634"
+          }
+        ]
+      }
+    ]
+  }
+}

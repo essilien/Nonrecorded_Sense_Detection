@@ -1,0 +1,335 @@
+{
+  "word": "极圈",
+  "meaning": "地球上66°34′的纬线所形成的圈，在北半球的叫北极圈，在南半球的叫南极圈。",
+  "prep_stats": {
+    "word": "极圈",
+    "meaning": "地球上66°34′的纬线所形成的圈，在北半球的叫北极圈，在南半球的叫南极圈。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 33
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 38,
+        "n_anchor": 5,
+        "n_corpus": 33,
+        "examples": [
+          "北极圈的夜晚异常漫长，常常超过24小时。",
+          "南极圈的冬天特别漫长，人们常常要在冰天雪地中度过。",
+          "北极圈的温度经常低于零下50摄氏度，极圈内的动物们都在适应这种严酷的气候。",
+          "科学家们发现极圈附近的冰川正在加速融化，这将对全球气候产生深远的影响。",
+          "在极圈内，人们的日常生活都要受到极端天气的影响，比如暴风雪和极夜现象。"
+        ],
+        "items": [
+          {
+            "item_id": "极圈_anchor_1",
+            "source": "anchor",
+            "text": "北极圈的夜晚异常漫长，常常超过24小时。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "极圈_anchor_2",
+            "source": "anchor",
+            "text": "南极圈的冬天特别漫长，人们常常要在冰天雪地中度过。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "极圈_anchor_3",
+            "source": "anchor",
+            "text": "北极圈的温度经常低于零下50摄氏度，极圈内的动物们都在适应这种严酷的气候。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "极圈_anchor_4",
+            "source": "anchor",
+            "text": "科学家们发现极圈附近的冰川正在加速融化，这将对全球气候产生深远的影响。",
+            "target_start": 6,
+            "target_end": 8
+          },
+          {
+            "item_id": "极圈_anchor_5",
+            "source": "anchor",
+            "text": "在极圈内，人们的日常生活都要受到极端天气的影响，比如暴风雪和极夜现象。",
+            "target_start": 1,
+            "target_end": 3
+          },
+          {
+            "item_id": "极圈_1",
+            "source": "corpus",
+            "text": "137875 发现新入的坑是个有两三人活跃的极圈后欣喜若狂，在无人的冥王星上待太久了有点想念地球",
+            "target_start": 22,
+            "target_end": 24,
+            "post_id": "5273513377402306"
+          },
+          {
+            "item_id": "极圈_2",
+            "source": "corpus",
+            "text": "挪威真实生活曝光！极圈生活根本没想象中美好",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5228664141911993"
+          },
+          {
+            "item_id": "极圈_3",
+            "source": "corpus",
+            "text": "🇫🇮罗瓦涅米 进入极圈啦 粉蓝色的天空太梦幻了 狗拉雪橇太好玩了，不管是乘坐还是掌握驾驶都特别好玩啊啊啊！（好狗好狗🐶） 2 芬兰·伊纳里-萨利色尔卡地区",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5263915124785391"
+          },
+          {
+            "item_id": "极圈_4",
+            "source": "corpus",
+            "text": "您/您们能别妄想挑起对立然后在极圈起号不？",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5263753630976996"
+          },
+          {
+            "item_id": "极圈_6",
+            "source": "corpus",
+            "text": "摩尔曼斯克州 极圈大科考！🥶😔 2 俄罗斯联邦·摩尔曼斯克",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5259178991681609"
+          },
+          {
+            "item_id": "极圈_7",
+            "source": "corpus",
+            "text": "现在是这里8点，在赶在捷里封路前返回摩尔曼斯克。 正开在一个巨大的麦旋风里，踏入极圈，我想我还会再来的。 2 俄罗斯联邦·捷里别尔卡-Териберка",
+            "target_start": 40,
+            "target_end": 42,
+            "post_id": "5242685445377539"
+          },
+          {
+            "item_id": "极圈_8",
+            "source": "corpus",
+            "text": "评价为上半年在极圈发电下半年被男同事绑架 不过下半年其实都没怎么约插图了，沉迷做谷（。 给歌音酱单独拼一张，让我走上不归路的两个罪恶的男人（鬼）爱你极圈明年见。",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5246591493738509"
+          },
+          {
+            "item_id": "极圈_9",
+            "source": "corpus",
+            "text": "在极圈里追只有4小时白天的 日出和日落 抵达北冰洋，抬头即见清晰的北斗七星✨ 人间值得，2025年值得 2 俄罗斯联邦·捷里别尔卡-Териберка",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5249317101113627"
+          },
+          {
+            "item_id": "极圈_10",
+            "source": "corpus",
+            "text": "极圈产品24h22个人了我看哭了",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5249591989503638"
+          },
+          {
+            "item_id": "极圈_11",
+            "source": "corpus",
+            "text": "先来这里预习一下极圈的寒冷🥶",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5253196534251584"
+          },
+          {
+            "item_id": "极圈_12",
+            "source": "corpus",
+            "text": "极圈女子以为出门会冻得兵荒马乱裹五百层出门被晒气化b like鬼子mj多看了一眼太阳，心情：",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5240856048828507"
+          },
+          {
+            "item_id": "极圈_13",
+            "source": "corpus",
+            "text": "11 本月充满各种奇遇。 千辛万苦走进了极圈， 阴差阳错速通了situationships 虽然白昼很短，可是我们有VD 所有层面上，我都会这样讲： Tough but worthy! 也许很多年后还会对这些红着脸蛋的照片心生欣慰",
+            "target_start": 20,
+            "target_end": 22,
+            "post_id": "5238855743570555"
+          },
+          {
+            "item_id": "极圈_14",
+            "source": "corpus",
+            "text": "极圈代餐还在追我",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5253242574867076"
+          },
+          {
+            "item_id": "极圈_15",
+            "source": "corpus",
+            "text": "三才图会，明朝已经很清楚北极圈、南极圈，已经标注了！",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275595619699113"
+          },
+          {
+            "item_id": "极圈_16",
+            "source": "corpus",
+            "text": "真的被张极圈粉，拔个智齿都这么实在，把所有感受都告诉粉丝，踏实又可爱，很难不喜欢。",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275768628188833"
+          },
+          {
+            "item_id": "极圈_21",
+            "source": "corpus",
+            "text": "又磕上北极圈了 咱就是说什么时候才能改改爱搞极圈的毛病",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5274510058324818"
+          },
+          {
+            "item_id": "极圈_23",
+            "source": "corpus",
+            "text": "最极圈的一次一点也收不到那个小玩意儿叔叔们这个版权不是说在设计师手上的嘛能不能重新出",
+            "target_start": 1,
+            "target_end": 3,
+            "post_id": "5274324140296924"
+          },
+          {
+            "item_id": "极圈_25",
+            "source": "corpus",
+            "text": "一想到就算搞点极圈冷门同人都能有十几个人看我就忍不住轻哼起来",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5274260524503086"
+          },
+          {
+            "item_id": "极圈_26",
+            "source": "corpus",
+            "text": "3537 爱上无差再爱上水仙之后本就冷清的世界彻底没声了。从极圈跑到极点我们有一手的。",
+            "target_start": 30,
+            "target_end": 32,
+            "post_id": "5273911718578817"
+          },
+          {
+            "item_id": "极圈_27",
+            "source": "corpus",
+            "text": "极圈实在太特别了😭又想纳塔莱斯",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5274050735898800"
+          },
+          {
+            "item_id": "极圈_29",
+            "source": "corpus",
+            "text": "这么窄小的极圈里还能看到○女我真要跳了",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5273895659111088"
+          },
+          {
+            "item_id": "极圈_30",
+            "source": "corpus",
+            "text": "喜欢的一个老师从很多年前就在lof产出all策，直到lof爆出会把用户作品融ai就换到了飞鸽，上个月也还在产出，真的好感动 农同人圈本来就冷，all策更是极圈，有这么高质的老师一直在画真的是太好了",
+            "target_start": 77,
+            "target_end": 79,
+            "post_id": "5273785605556248"
+          },
+          {
+            "item_id": "极圈_31",
+            "source": "corpus",
+            "text": "你问我什么是国内极圈↓",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5273445311185301"
+          },
+          {
+            "item_id": "极圈_32",
+            "source": "corpus",
+            "text": "画技突飞猛进但是冷圈变成了极圈新发的图数据不如刚开始画画的时候画的qq人 我一直在哭 34093",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5273435707541175"
+          },
+          {
+            "item_id": "极圈_34",
+            "source": "corpus",
+            "text": "今晚失眠，让我想起小时候经常不舒服，睡在父母中间肚子痛，爸妈就会让我擦风油精，然后我就会想以前的风油精是个斧头拍的logo，然后我就想那个斧头帮我把体内那些脏东西砍掉，有一天换成了极圈八卦阵的logo，我就想用太极拳去把他们干掉，然后我就会想哪个更厉害涂哪个，不过想想就还是挺难受",
+            "target_start": 90,
+            "target_end": 92,
+            "post_id": "5273292466291306"
+          },
+          {
+            "item_id": "极圈_36",
+            "source": "corpus",
+            "text": "在南极晃悠了几天，今天回到极圈外晕船感最强烈",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5273064340458229"
+          },
+          {
+            "item_id": "极圈_39",
+            "source": "corpus",
+            "text": "你迦害大家吃了很多极圈cp！请反思！",
+            "target_start": 9,
+            "target_end": 11,
+            "post_id": "5272702224171530"
+          },
+          {
+            "item_id": "极圈_40",
+            "source": "corpus",
+            "text": "当你背单词的时候 有钱人家的孩子在看阿拉斯加的鳕鱼跃出水面 当你算数学的时候 有钱人家的孩子在看南太平洋的海鸥掠过海岸 当你晚自习的时候 有钱人家的孩子在看地球的极圈五彩斑斓",
+            "target_start": 81,
+            "target_end": 83,
+            "post_id": "5272513740800082"
+          },
+          {
+            "item_id": "极圈_41",
+            "source": "corpus",
+            "text": "我就说我的极圈CP怎么会有7页之多的产出 果然是其他产品的文添进去凑数的（抹泪）",
+            "target_start": 5,
+            "target_end": 7,
+            "post_id": "5272421059269019"
+          },
+          {
+            "item_id": "极圈_44",
+            "source": "corpus",
+            "text": "终于搞上了心仪的极圈异性恋rps，假基佬再见吧",
+            "target_start": 8,
+            "target_end": 10,
+            "post_id": "5271766263928985"
+          },
+          {
+            "item_id": "极圈_45",
+            "source": "corpus",
+            "text": "江浙沪白完地区的连续阴雨类似于极圈的极夜，一种温和天灾…",
+            "target_start": 15,
+            "target_end": 17,
+            "post_id": "5271764525388243"
+          },
+          {
+            "item_id": "极圈_49",
+            "source": "corpus",
+            "text": "世界上还有什么比磕上了极圈cp各大平台找饭无果后决定自己炒两盘结果内容一直违规不让我发更让人难过的",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5270702078560729"
+          },
+          {
+            "item_id": "极圈_50",
+            "source": "corpus",
+            "text": "妈妈 活了半辈子我的初代极圈cp竟然成了烫圈。",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5270693987484983"
+          }
+        ]
+      }
+    ]
+  }
+}

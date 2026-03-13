@@ -1,0 +1,263 @@
+{
+  "word": "显微镜",
+  "meaning": "用于观察微小物体的光学仪器",
+  "prep_stats": {
+    "word": "显微镜",
+    "meaning": "用于观察微小物体的光学仪器",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 24
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 29,
+        "n_anchor": 5,
+        "n_corpus": 24,
+        "examples": [
+          "老师展示了显微镜让我们观察植物细胞的结构。",
+          "他用显微镜观察到那块石头中有细小的矿物晶体。",
+          "医院里使用的显微镜帮助医生进行病理检查。",
+          "学生们在老师的指导下使用显微镜观察土壤中的微生物。",
+          "她拿起显微镜开始观察桌上的昆虫标本。"
+        ],
+        "items": [
+          {
+            "item_id": "显微镜_anchor_1",
+            "source": "anchor",
+            "text": "老师展示了显微镜让我们观察植物细胞的结构。",
+            "target_start": 5,
+            "target_end": 8
+          },
+          {
+            "item_id": "显微镜_anchor_2",
+            "source": "anchor",
+            "text": "他用显微镜观察到那块石头中有细小的矿物晶体。",
+            "target_start": 2,
+            "target_end": 5
+          },
+          {
+            "item_id": "显微镜_anchor_3",
+            "source": "anchor",
+            "text": "医院里使用的显微镜帮助医生进行病理检查。",
+            "target_start": 6,
+            "target_end": 9
+          },
+          {
+            "item_id": "显微镜_anchor_4",
+            "source": "anchor",
+            "text": "学生们在老师的指导下使用显微镜观察土壤中的微生物。",
+            "target_start": 12,
+            "target_end": 15
+          },
+          {
+            "item_id": "显微镜_anchor_5",
+            "source": "anchor",
+            "text": "她拿起显微镜开始观察桌上的昆虫标本。",
+            "target_start": 3,
+            "target_end": 6
+          },
+          {
+            "item_id": "显微镜_1",
+            "source": "corpus",
+            "text": "显微镜下的世界，有没有被惊到？",
+            "target_start": 0,
+            "target_end": 3,
+            "post_id": "5259765724742874"
+          },
+          {
+            "item_id": "显微镜_2",
+            "source": "corpus",
+            "text": "上颌磨牙全冠二次修复选择垂直预备，全程在显微镜下完成",
+            "target_start": 20,
+            "target_end": 23,
+            "post_id": "5258723276358958"
+          },
+          {
+            "item_id": "显微镜_3",
+            "source": "corpus",
+            "text": "也许你对置换反应并不陌生，我们在教科书上配合插图和文字见过它。这次我们将借助显微镜等设备，来看看放大100倍的视角下，各种奇特的置换反应！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～",
+            "target_start": 38,
+            "target_end": 41,
+            "post_id": "5255759144159272"
+          },
+          {
+            "item_id": "显微镜_4",
+            "source": "corpus",
+            "text": "趣味小实验：用显微镜观察室外的积雪，会发现什么呢",
+            "target_start": 7,
+            "target_end": 10,
+            "post_id": "5258740258572105"
+          },
+          {
+            "item_id": "显微镜_5",
+            "source": "corpus",
+            "text": "在显微镜下才知道，原来碘伏的杀伤力这么强！ .",
+            "target_start": 1,
+            "target_end": 4,
+            "post_id": "5270120383644476"
+          },
+          {
+            "item_id": "显微镜_6",
+            "source": "corpus",
+            "text": "有时候你会发现仰望星空的浩瀚，与观察显微镜下的世界是如此相似，无穷小即无穷大！",
+            "target_start": 18,
+            "target_end": 21,
+            "post_id": "5239021397346202"
+          },
+          {
+            "item_id": "显微镜_7",
+            "source": "corpus",
+            "text": "显微镜下看医生做1毫米血管吻合手术！",
+            "target_start": 0,
+            "target_end": 3,
+            "post_id": "5269816577098142"
+          },
+          {
+            "item_id": "显微镜_8",
+            "source": "corpus",
+            "text": "2200 人生首先要是望远镜，看远；再就是显微镜，看细；接下来是放大镜，看透；其次是太阳镜，看淡；最后是哈哈镜，笑看生活。",
+            "target_start": 21,
+            "target_end": 24,
+            "post_id": "5275765685884605"
+          },
+          {
+            "item_id": "显微镜_11",
+            "source": "corpus",
+            "text": "花费70分钟，为同行补三颗牙。BRD理念下的去龋和粘接，全程显微镜🔬下操作。",
+            "target_start": 30,
+            "target_end": 33,
+            "post_id": "5274257471047040"
+          },
+          {
+            "item_id": "显微镜_14",
+            "source": "corpus",
+            "text": "我要去看显微镜下的大明了",
+            "target_start": 4,
+            "target_end": 7,
+            "post_id": "5275804138998248"
+          },
+          {
+            "item_id": "显微镜_18",
+            "source": "corpus",
+            "text": "学习如何更好使用显微镜拍照📷",
+            "target_start": 8,
+            "target_end": 11,
+            "post_id": "5275799243460951"
+          },
+          {
+            "item_id": "显微镜_21",
+            "source": "corpus",
+            "text": "碧昂丝粉丝们连正主一点信不给活生生显微镜一样推测出act iii会在五月二十九号发这件事太疯了碧昂丝太能装了……",
+            "target_start": 17,
+            "target_end": 20,
+            "post_id": "5275795849216818"
+          },
+          {
+            "item_id": "显微镜_22",
+            "source": "corpus",
+            "text": "《显微镜下的大明之丝绢案》好看，张若昀的剧都挺好看的。",
+            "target_start": 1,
+            "target_end": 4,
+            "post_id": "5275793598710786"
+          },
+          {
+            "item_id": "显微镜_23",
+            "source": "corpus",
+            "text": "真别说 亮这老小子是真没瞎说 不管是cg里第一下 还是操控咱手打的第二下他打的还真是要害的边上（）录完素材当会显微镜",
+            "target_start": 55,
+            "target_end": 58,
+            "post_id": "5275793104309699"
+          },
+          {
+            "item_id": "显微镜_30",
+            "source": "corpus",
+            "text": "显微镜下的大明拍得真不错，打铁花和实景好评，碧血蝉能延续嘛",
+            "target_start": 0,
+            "target_end": 3,
+            "post_id": "5275779764068678"
+          },
+          {
+            "item_id": "显微镜_31",
+            "source": "corpus",
+            "text": "之前对结构决定功能这句话并没有什么认知 直到今天在显微镜下看到一个具体结构时才恍然大悟。这句话就是20世纪生命科学领域最提纲挈领的一句话",
+            "target_start": 25,
+            "target_end": 28,
+            "post_id": "5275779542032312"
+          },
+          {
+            "item_id": "显微镜_32",
+            "source": "corpus",
+            "text": "显微镜的世界和望远镜的世界 是平行世界",
+            "target_start": 0,
+            "target_end": 3,
+            "post_id": "5275778809857374"
+          },
+          {
+            "item_id": "显微镜_34",
+            "source": "corpus",
+            "text": "101 文字中诞生 文字间死亡 矛盾之后 统一场 唯心还是唯物 主义有毒 以主义解毒 细辩六爻 嬉戏，在汤中戏谑 要虐待自我 一层又一层揭去霓裳 去发掘一座古墓静等解说 天鹅是旷古的傻冒 优雅着踅步穀纹 两位哥哥，此刻你举起望远镜还是显微镜 观止",
+            "target_start": 117,
+            "target_end": 120,
+            "post_id": "5275773160390823"
+          },
+          {
+            "item_id": "显微镜_37",
+            "source": "corpus",
+            "text": "大黑塔，客制化7回车键，镶嵌了金银铜配色，细节大面积布林诺点刻。细节不多说，还有部分雕刻过程细节显微镜视觉观看。表面会喷涂防氧化膝，防止铜，银氧化变色",
+            "target_start": 48,
+            "target_end": 51,
+            "post_id": "5275769808886026"
+          },
+          {
+            "item_id": "显微镜_39",
+            "source": "corpus",
+            "text": "四年前申请的手术显微镜，提了三次进口的没通过，换成国产的终于通过了，经开会、招标，终于有望在今年或明年买来",
+            "target_start": 8,
+            "target_end": 11,
+            "post_id": "5275766289076575"
+          },
+          {
+            "item_id": "显微镜_44",
+            "source": "corpus",
+            "text": "电视剧｜好剧推荐 莲花楼｜成毅、曾舜晞、肖顺尧 猎罪图鉴｜檀健次、金世佳 唐朝诡事录｜杨旭文、杨志刚 繁城之下｜白宇帆、宁理、向涵之 显微镜下的大明｜张若昀、王阳、戚薇",
+            "target_start": 67,
+            "target_end": 70,
+            "post_id": "5275747654831635"
+          },
+          {
+            "item_id": "显微镜_45",
+            "source": "corpus",
+            "text": "- 显微镜下的WoWkie Time 🔍👀",
+            "target_start": 2,
+            "target_end": 5,
+            "post_id": "5275747741597865"
+          },
+          {
+            "item_id": "显微镜_48",
+            "source": "corpus",
+            "text": "显微镜出世// :甜席位你这样很危险啊// :好细节！// :卧槽细节// :卧槽啊啊啊// :啊啊啊啊啊啊// :卧槽// :卧槽// :我靠你倒是细节",
+            "target_start": 0,
+            "target_end": 3,
+            "post_id": "5275739278806915"
+          },
+          {
+            "item_id": "显微镜_49",
+            "source": "corpus",
+            "text": "【Microscopes can see video on a laserdisc】 O 显微镜可以看到激光影碟上的视频。",
+            "target_start": 45,
+            "target_end": 48,
+            "post_id": "5275735652828903"
+          }
+        ]
+      }
+    ]
+  }
+}

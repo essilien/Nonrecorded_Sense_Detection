@@ -1,0 +1,223 @@
+{
+  "word": "骨科",
+  "meaning": "医学上指专门研究骨的构造、功能等知识以及治疗骨骼疾病的一科。",
+  "prep_stats": {
+    "word": "骨科",
+    "meaning": "医学上指专门研究骨的构造、功能等知识以及治疗骨骼疾病的一科。",
+    "n_anchor_before": 5,
+    "n_anchor_after": 5,
+    "n_corpus_after": 19
+  },
+  "distance_threshold": 0.35,
+  "summary": {
+    "n_clusters": 1,
+    "anchor_clusters": [
+      0
+    ],
+    "candidate_clusters": [],
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 24,
+        "n_anchor": 5,
+        "n_corpus": 19,
+        "examples": [
+          "医院里的骨科正在为骨折病人进行复位手术。",
+          "他决定报考医学院的骨科专业，希望将来能成为一名优秀的骨科医生。",
+          "小王的脚踝扭伤了，赶紧去了骨科挂了号。",
+          "骨科教授李华在学术会议上分享了他的研究成果。",
+          "小张在骨科诊所咨询了关于脊柱侧弯的问题。"
+        ],
+        "items": [
+          {
+            "item_id": "骨科_anchor_1",
+            "source": "anchor",
+            "text": "医院里的骨科正在为骨折病人进行复位手术。",
+            "target_start": 4,
+            "target_end": 6
+          },
+          {
+            "item_id": "骨科_anchor_2",
+            "source": "anchor",
+            "text": "他决定报考医学院的骨科专业，希望将来能成为一名优秀的骨科医生。",
+            "target_start": 9,
+            "target_end": 11
+          },
+          {
+            "item_id": "骨科_anchor_3",
+            "source": "anchor",
+            "text": "小王的脚踝扭伤了，赶紧去了骨科挂了号。",
+            "target_start": 13,
+            "target_end": 15
+          },
+          {
+            "item_id": "骨科_anchor_4",
+            "source": "anchor",
+            "text": "骨科教授李华在学术会议上分享了他的研究成果。",
+            "target_start": 0,
+            "target_end": 2
+          },
+          {
+            "item_id": "骨科_anchor_5",
+            "source": "anchor",
+            "text": "小张在骨科诊所咨询了关于脊柱侧弯的问题。",
+            "target_start": 3,
+            "target_end": 5
+          },
+          {
+            "item_id": "骨科_4",
+            "source": "corpus",
+            "text": "骨科就是好 过年回家回的一个家 找妈妈找的一个妈",
+            "target_start": 0,
+            "target_end": 2,
+            "post_id": "5269992569570304"
+          },
+          {
+            "item_id": "骨科_7",
+            "source": "corpus",
+            "text": "我之前听骨科医生说，最怕接内蒙古的病患手术，因为电锯都不好使",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5264832058097713"
+          },
+          {
+            "item_id": "骨科_8",
+            "source": "corpus",
+            "text": "知识帖：腰痛别乱按！这3种痛不是腰突，骨科医生教你分清",
+            "target_start": 19,
+            "target_end": 21,
+            "post_id": "5274665226606312"
+          },
+          {
+            "item_id": "骨科_9",
+            "source": "corpus",
+            "text": "这是我们医院骨科一个大夫干的，本来手腕尺桡骨骨折建议手术，说给患者复位试试吧，万一复的好，省时省事省钱省遭罪，结果挺好！大家看看怎么样？",
+            "target_start": 6,
+            "target_end": 8,
+            "post_id": "5274474590241926"
+          },
+          {
+            "item_id": "骨科_12",
+            "source": "corpus",
+            "text": "号主又开始作者脑和同人女脑互搏了，虽然说原作设定上，以邮箱这样正直的性格，她绝对不会和妹搞骨科的。但是，但是呢，我的同人女脑又在告诉我:这对姐妹骨好甜好好磕吧!我觉得老香是一款温柔姐1 ，美治是一款笨拙可爱的小狗妹 我就是忍不住啊",
+            "target_start": 45,
+            "target_end": 47,
+            "post_id": "5275810233319652"
+          },
+          {
+            "item_id": "骨科_15",
+            "source": "corpus",
+            "text": "卧槽我都想起来了……我的立体人基佬启蒙是伪装者的楼诚 当年跟老妈一起追剧从此一发不可收拾啊…… 原来从小就爱吃骨科这一口",
+            "target_start": 55,
+            "target_end": 57,
+            "post_id": "5275809427228626"
+          },
+          {
+            "item_id": "骨科_18",
+            "source": "corpus",
+            "text": "我很讨厌骨科剧情不知道为什么，但同人文能稍微看点，虽然我讨厌骨科剧情，但又有一点觉得恋与这两个是有关系的吧，推测的由来是光夜，众所周知光夜是第二个恋与，为什么偏偏是光夜有兄弟呢，这是不是可以以此类推呢，微博不准给我上广场，不然省得惹来苍蝇",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275807348164326"
+          },
+          {
+            "item_id": "骨科_19",
+            "source": "corpus",
+            "text": "冰雪奇缘你真是害死我了我嗑骨科就是从你开始的我的一些美好的品德高尚的追求都被你毁了结果你拍拍屁股去结婚了我真恨你",
+            "target_start": 13,
+            "target_end": 15,
+            "post_id": "5275807087854467"
+          },
+          {
+            "item_id": "骨科_25",
+            "source": "corpus",
+            "text": "【补新番】《楚楚不可怜》作者：晚月 小甜饼 - 双性 - 骨科 - 年上",
+            "target_start": 29,
+            "target_end": 31,
+            "post_id": "5275805794176528"
+          },
+          {
+            "item_id": "骨科_29",
+            "source": "corpus",
+            "text": "突然想起来我第一次看的gl小说 就是大哥。还是骨科。导致其他人说骨科是雷点的时候一点都不觉得。第一本看的双性gl小说是恶毒炮灰。直接给我打开了新世界的大门吧 导致我现在看小说都没啥雷点",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275803109558164"
+          },
+          {
+            "item_id": "骨科_30",
+            "source": "corpus",
+            "text": "每次对角色产生异样的情感都会想嗑一口，然后每次就刚好有骨科给我吃上，也是，毕竟人就算没有姐妹兄弟也会有妈有爹有亲戚，从小非常欣赏猴但没厨上可能就因为猴没骨科可以吃吧（。",
+            "target_start": 27,
+            "target_end": 29,
+            "post_id": "5275750770671756"
+          },
+          {
+            "item_id": "骨科_32",
+            "source": "corpus",
+            "text": "这几天在拜读洋妞大作，发现洋妞有时候会把brother和sister写成音译的ge-ge和mei-mei，骨科味很足很爽但转换一下视角是不是相当于写两个日本人说话的时候突然来一句欧尼酱欧豆豆",
+            "target_start": 53,
+            "target_end": 55,
+            "post_id": "5275800715658899"
+          },
+          {
+            "item_id": "骨科_36",
+            "source": "corpus",
+            "text": "每天在抖音刷双神切片 骨科妹就这样被圈圈圈圈 然后我才发现日野聪配得这么池面 那我究竟何时打开失忆症",
+            "target_start": 11,
+            "target_end": 13,
+            "post_id": "5275798890349548"
+          },
+          {
+            "item_id": "骨科_38",
+            "source": "corpus",
+            "text": "突然想到骨科有一点很爽，就是因为有家人的身份在，回避型不管推多远分手多少次，对方都离不开走不远，而时间会证明一切，包括回避型的爱",
+            "target_start": 4,
+            "target_end": 6,
+            "post_id": "5275798814854518"
+          },
+          {
+            "item_id": "骨科_45",
+            "source": "corpus",
+            "text": "卧槽看骨科最伤心的就是哥抛弃弟。 你还记得那个时候吗？他还是小小一个，你在心里许下愿望要保护他一辈子，不让任何人伤害他…",
+            "target_start": 3,
+            "target_end": 5,
+            "post_id": "5275795543035767"
+          },
+          {
+            "item_id": "骨科_46",
+            "source": "corpus",
+            "text": "阿司匹林啊的《陷阱》完结啦！年上x作精！伪骨科",
+            "target_start": 21,
+            "target_end": 23,
+            "post_id": "5274867800740252"
+          },
+          {
+            "item_id": "骨科_47",
+            "source": "corpus",
+            "text": "哎康在竭泽而渔里配得好好啊...好想听再配一部骨科吧 真骨爽歪歪 虽然广播剧做的挺一般的但是我还是很喜欢 为了剧情音乐和cv可溺爱😇😇",
+            "target_start": 23,
+            "target_end": 25,
+            "post_id": "5275795422972868"
+          },
+          {
+            "item_id": "骨科_49",
+            "source": "corpus",
+            "text": "重力巨婴米凯拉主导的集齐骨科炼尸替身三角恋，这场南通闹剧放在晋江、长佩、废文都是有丶炸裂的。也就海棠比较适合安放他的炫压抑",
+            "target_start": 12,
+            "target_end": 14,
+            "post_id": "5275794670884859"
+          },
+          {
+            "item_id": "骨科_50",
+            "source": "corpus",
+            "text": "芭比之真假公主骨科爱",
+            "target_start": 7,
+            "target_end": 9,
+            "post_id": "5275794500748594"
+          }
+        ]
+      }
+    ]
+  }
+}
